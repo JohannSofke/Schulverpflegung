@@ -19,7 +19,6 @@ Eine ausreichende Mittagsverpflegung ist mir persönlich wichtig, da ich selbst 
 Entprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare Kriterien recherchieren, und anschließend für unsere Mittagsverpflegung bewerten.
 
 
-
 ### Quellennachweis
 [TB1] Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
 
@@ -31,6 +30,8 @@ Entprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare Kr
 [TBR] https://www.tressbrueder.de
 
 [DGE] https://www.dge.de
+
+[EDGE] https://github.com/JohannSofke/Schulverpflegung/blob/main/DGE_Qualitaetsstandard_Schule.pdf
 
 [QVS] https://www.schuleplusessen.de/fileadmin/user_upload/medien/DGE-QST/DGE_Qualitaetsstandard_Schule.pdf
 
