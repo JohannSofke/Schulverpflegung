@@ -19,6 +19,22 @@ Eine ausreichende Mittagsverpflegung ist mir persönlich wichtig, da ich selbst 
 Entprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare Kriterien recherchieren, und anschließend für unsere Mittagsverpflegung bewerten.
 
 
+## Vorbereitung 
+
+Ich habe recherchiert, welche Empfehlungen es für die Mittagsverpflegung gibt, anhand derer sich überprüfen lässt, ob die Verpflegung an Tübinger Schulen ihren Hauptzweck erfüllt. Dafür habe ich ein Dokument der Deutschen Gesellschaft für Ernährung (DGE) ausgewählt, in dem genau beschrieben ist, wie eine vollwertige Mittagsverpflegung beschaffen sein soll [EDGE]. In diesem Dokument sind Kriterien aufgeführt, die nach der DGE eine vollwertige Mittagsverpflegung erfüllen muss. Jedes dieser Kriterien werde ich daraufhin überprüfen, ob es in meiner Mensa erfüllt wird oder nicht. Auf dieser Grundlage kann ich am Ende beurteilen, ob die Mittagsverpflegung als vollwertig einzustufen ist.
+
+Um die meisten Kriterien bewerten zu können, werde ich das Essen an 20 Verpflegungstagen dokumentieren. Dazu werde ich die Speisen wiegen, um das genaue Gewicht zu ermitteln, und sie fotografieren, um sie später auswerten zu können. Da in der Mensa jedoch ein Smartphoneverbot gilt, habe ich die Schulleiterin des Carlo-Schmidt-Gymnasiums, Frau Ott, über mein Vorhaben informiert und von ihr die Erlaubnis erhalten, mein Smartphone zum Fotografieren des Essens zu benutzen. Außerdem habe ich mir eine Küchenwaage gekauft, mit der ich den vollen und den leeren Teller wiegen kann, um daraus das Gewicht des Essens zu bestimmen.
+
+Für einige Fragen musste ich mich an den Verpflegungsbeauftragten der Tübinger Schulverpflegung wenden. Auf meine Anfrage hin habe ich von Frau Simone Ehmann die E-Mail-Adresse des Verpflegungsbeauftragten erhalten, der in Tübingen das Team „Gutes Essen“ ist.
+
+Im nächsten Schritt dokumentiere ich die 20 Mahlzeiten, erfasse sie tabellarisch und werte sie anhand der DGE-Kriterien aus.[Google Sheets]
+
+
+
+
+
+
+
 ### Quellennachweis
 [TB1] Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
 
