@@ -18,16 +18,88 @@ Eine ausreichende Mittagsverpflegung ist mir persönlich wichtig, da ich selbst 
 
 Entprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare Kriterien recherchieren, und anschließend für unsere Mittagsverpflegung bewerten.
 
-
 ## Vorbereitung 
 
 Wie in der Motivation beschrieben, habe ich zunächst recherchiert, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen" [QDGE] bereitstellt. Die DGE ist eine unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [SQS] aus dem Jahr 2015 27% der befragten Schulen an, diese umzusetzen.
 
-Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen", das mir mitteilte, dass die Umsetzung der DGE-Qualitätskriterien mit den Tress-Brüdern nicht vertraglich festgesetzt ist, sich der Vertrag aber an den DGE-Qualitätsstandarts und Mindestmengen orientiert (Da mir keine Zittiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tress-Brüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
+Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen" mit denen ich alle relevanten Kriterien besprochen, und im Kapitel "Durchführung und Ergebnisse" bewertet habe.  Jedoch geb mir  keine Zitier erlaubni Team "Gutes Essen" teilte mis mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tress-Brüdern nicht vertraglich festgesetzt ist, sich der Vertrag aber an den DGE-Qualitätsstandarts und Mindestmengen orientiert (Da mir keine Zittiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tress-Brüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
 
 Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wird an 20 Schultagen dokumentiert: Jedes Gericht wird fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung habe ich mir von meiner Schulleiterin Frau Ott ausstellen lassen. Weiterhin verwende ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2% liegt (bestimmt mit Referenzgewichten).
 
-### Quellennachweis
+## Durchführung und Ergebnisse 
+
+### Qualität in der Schulverpflegung
+
+In dem DGE Qualitätsstandart definiert Kapitel 2, Qualität in der Schulverpflegung entwickeln, den Qualitätsstandart, und wie er an Schulen umzusetzen ist. Es benennt  alle Akteure, das sind alle Mitverantwortlichen für die Schulverpflegung, und beschreibt, wie diese die Verpflegungsqualität nach dem Qualitätsstandart ausrichten können, und dann kontinuierlich beobachten und verbessern können. Dafür werden in diesem Kapitel alle Kritierien zu den Akteuren und dem Verpflegungskonzept beschrieben. 
+
+#### Der Verpflegungsbeauftragte
+
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass ein/e Verpflegungsbeauftragte/r vorhanden ist. Dies kann eine einzelne Person oder ein Team sein, das die Verpflegung zentral koordiniert.
+
+**Durchführung:** In Tübingen gibt es im Fachbereich Bildung, Betreuung, Jugend und Sport die Abteilung „Service-Center Bildung und Betreuung“. In dieser Abteilung kümmert sich das Team „Gutes Essen“ um die Mittagsverpflegung in den städtischen Kindereinrichtungen und Schulen, und ist somit für die zentrale Organisation der Verpflegung zuständig. 
+Zur Bewertung der Kriterien habe ich Team "Gutes Essen" um eine Zittiererlaubnis gebeten, welche ich jedoch nicht erhielt. Daher kann ich im Folgenden den Inhalt der Email nur sinngemäß wiedergeben.
+
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
+
+#### Das Verpflegungskonzept 
+
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass ein Verpflegungskonzept vorliegt. 
+
+**Durchführung:** Team „Gutes Essen“ informierte mich darüber, dass ein Verpflegungskonzept vorliegt, und auch, über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt ist. Diese Anforderungen orientieren sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [TKSV] wird jedoch mit DGE-Konformen Gerichten in der Kinder und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser Wissenschafltichen Arbeit gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten. 
+Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken muss. Darüber hinaus soll das Essen täglich pünktlich ausgegeben werden. Weiterhin gelten folgende Kriterien im Verpflegungskonzept: 
+- Der CO2-Footprint soll um 50% kleiner sein im Vergleich zu anderen Mensen in Deutschland. 
+- Der Wasserverbrauch soll um 75% kleiner sein als in anderen Mensen in Deutschland
+- Der Vitascore soll um 20% höher sein als an anderen Schulen
+- Früchte, Reis und Kakao aus Übersee ist fair gehandelt
+
+Dabei fällt die Gewichtung folgendermaßen aus: Preis 50%, Betreiberkonzept 20%, Nachhaltigkeitskonzept 15% und Wasserverbrauch, CO2 Footprint und Vita-Score zusammen 15%.
+
+**Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
+
+Allerdings sollten folgende Gedanken kritisch zur Kenntnis genommen werden:
+
+Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team "Gutes Essen" nur mit 5% gewichtet.
+
+Außerdem wird die Gesundheit der Verpflegung nach dem Vita Score bewertet, welcher primär dazu dient, das Risiko für ernährungsbedingte Krankheiten zu minimieren, und kein Indikator für eine gesundheitlich ausgewogene Gesamtzusammensetzung der Verpflegung ist, die sich am konkreten Bedarf orientiert. 
+
+Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung und den Ethischen Leitplanken, die die DGE in Umwelt, Soziales und Tierwohl unterteilt. Sie stehen im Verpflegungskonzept in einem Missverrhältnis. Ohne Vorwegzunehmen werde ich das bei der Bewertung der weiteren Kriterien belegen können.  
+
+
+#### Die Beteiligung aller Akteure
+
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass alle Akteure an der Verpflegung beteiligt sind. Dies ermöglicht eine kontinuierliche Verbesserung und Verfeinerung des Verpflegungskonzeptes und dient der Klärung von Fragen und Problemen. Folgende Akteure müssen beteiligt sein:
+- Schulträger, Schulleitung und Lehrer
+- Caterer
+- Servicepersonal
+- Kioskbetreiber(an unserer Schule nicht vorhanden)
+- Eltern und Schüler (Vertreten durch die entsprechenden Beiräte)
+
+**Durchführung:** zur Bewertung des Kriteriums habe ich Team „Gutes Essen“ konsultiert. Laut Aussage sind alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carloschmidtgymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang.
+
+**Ergebnis:** Da nicht die erforderliche Zusammenarbeit aller Akteure stattfindet, bewerte ich dieses Kriterium als nicht erfüllt. Mann kann davon ausgehen, dass diese fehlende Zusammenarbeit der Hauptgrund für die fehlende Qualität in der Schulverpflegung ist. 
+
+## Anhang
+
+### Analyse Ausgewählter öffentlich zugänglicher Informationen
+
+#### Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
+
+##### Problemverständnis
+ Durch die Aussage: "Die Qualität der Speisen werde als gut bewertet" und "Das von uns gelieferte Essen war von Anfang an einfach zu exotisch, zu wenig kindgerecht." konstruhiert Simon Tress einen Deutungsrahmen, der die Leser des Artikels zu seinen Gunsten manipuliert.
+ 
+ Tatsächlich besitzt das Essen nach den Empfehlungen der DGE keine gute Qualität. Das Essen ist auch nicht Exotisch, also ausländisch oder fremd und kindgerecht darf das Schulessen auch gar nicht sein, wenn man unter kindgerecht weich, mild, süß, fettig, salzig, überschaubar versteht. Gesundheitlich ist das Wort "Kindgerecht" eine Beschönigung für industrielles, nährstoffarmes, einseitiges Essen.
+
+##### Problembewältigung
+Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen zwischen jeweils zwei Akteuren gibt. Jedoch ist dem Zeitungsartikel nicht zu entnehmen, dass es eine ganzheitliche Initiative der Stadt mit allen Akteuren gibt, um das Problem zu bewältigen. Beispiele sind:
+- Austausch zwischen Eltern und Stadt: Eltern wünschen sich bei der Stadt, dass Mahlzeiten weniger gezuckert sind. 
+- Austausch zwischen der Stadt und den Tressbrüdern: Anstelle ungezuckerte Nachtische zu servieren, wie zum Beispiel Obst am Stück oder Naturjoghurt mit Nüssen und Beeren, entfernt die Stadt den Nachtisch ersatzlos vom Speiseplan.
+- Austausch zwischen Schule und Eltern: Dem Vertreter des Elternbeirates wird es untersagt, am Mittagessen der Grundschule teilzunehmen, um sich selbst ein Bild vom Geschehen zu verschaffen. 
+- Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nachhause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Herr Thomas Schmitt, Vorsitzender des Gesamtelternbeirats, wertet die Unzufriedenheit der Schüler ab: "Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein" und stellt vorweg: "Es sind Grundschüler".
+
+So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team "Gutes Essen") koordiniert und moderiert werden. 
+
+
+## Quellennachweis
 - [STB1] Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
 - [STB2] Schwäbisches Tagblatt vom 1. Dezember 2025, "Tress-Brüder bessern nach"
 - [JGR1] Sitzung des Jugendgemeinderates - 10.10.2025
@@ -38,7 +110,7 @@ Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu pr�
 - [SQS] https://www.gemeinsamgutessen.de/fileadmin/nqz/publikationsdateien/20150625INFORM_StudieQualitaetSchulverpflegung.pdf
 - [TKSV] https://www.tressbrueder.de/catering-bio/#kinder-catering
 
-### Hilfsmittel
+## Hilfsmittel
 "Einfach können, Schriftliche Arbeit" von Björn Rothstein, 1. Auflage, 2023
 
 www.perplexity.ai für Rechtschreib- und Grammatikkorrektur
