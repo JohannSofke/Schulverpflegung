@@ -78,6 +78,17 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Ergebnis:** Da nicht die erforderliche Zusammenarbeit aller Akteure stattfindet, bewerte ich dieses Kriterium als nicht erfüllt. Mann kann davon ausgehen, dass diese fehlende Zusammenarbeit der Hauptgrund für die fehlende Qualität in der Schulverpflegung ist. 
 
+
+#### Weiteribildung der Mitarbeitenden  
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Mitarbeitenden des Verpflegungsbereiches kontinuierlich weitergebildet werden. 
+
+**Bewertung des Kriteriums:** Zur Bewertung des Kriteriums habe ich den Verpflegungsbeauftragten (Team „Gutes Essen“) konsultiert. Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügen. Darüber hinaus liegt die  Verantwortung der Weiterbildung und Schulung des Personals des Caterers in der beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. 
+
+**Ergebnis:** Es ist unklar, ob die Beschreibung des Team "Gutes Essen" nur unvollständig ist, oder ob Tatsächlich keine Weiterbildung der anderen Akteure stattfindet. Da die Informationslage nicht ausreicht, kann ich dieses Kriterium nicht sicher bewerten.
+
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
