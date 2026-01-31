@@ -77,7 +77,6 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
-**Weiterführende Überlegungen:** Sowohl das Ausgabepersonal, als auch die Aufsicht in der Mensa sprechen zum größten Teil nicht Deutsch. Dies führt auf Grund der Sprachbarriere zu Missverständnissen, zu Konflikten und führt im Endeffekt zu einer unangenehmen Atmosphäre, keine Kommunikation ist möglich.
 
 #### Weiteribildung der Mitarbeitenden  
 
@@ -87,6 +86,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
 
+**Weiterführende Überlegungen:** Sowohl das Ausgabepersonal, als auch die Aufsicht in der Mensa sprechen zum größten Teil nicht Deutsch. Dies führt auf Grund der Sprachbarriere zu Missverständnissen, zu Konflikten und führt im Endeffekt zu einer unangenehmen Atmosphäre, keine Kommunikation ist möglich.
 
 
 #### Ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe 
@@ -109,6 +109,24 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 #### Regelmäßiges einholen von Feedback
 
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass Feedback regelmäßig eingeholt ung ausgewertet wird, und Maßnahmen abgeleitet werden. 
+
+**Durchführung:** Vor Dezember haben die Tressbrüder kein Feeedback von den Schülern eingeholt. Jedoch bekamen die Tressbrüder im November immer mehr Kritik von Eltern und Schülern, woraufhin in unserer Mensa Anfang Dezember ein Briefkasten für Feedback zufgestellt wurde, mit vorgefertigten Feedback-Zetteln. Auf diesen können die Schüler seitdem folgendes bewerten:
+
+- Auswahl
+- Geschmack
+- Aussehen
+- Menge des Essens
+- Empfehlungen aufschreiben
+- Essenswunsch abgeben. 
+
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
+
+
+
+### Zwischenfazit
+
+Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung. 
 
 
 
