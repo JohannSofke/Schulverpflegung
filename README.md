@@ -56,8 +56,7 @@ Dabei fällt die Gewichtung folgendermaßen aus: Preis 50%, Betreiberkonzept 20%
 
 **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
 
-Allerdings sollten folgende Gedanken kritisch zur Kenntnis genommen werden:
-
+**Weiterführende Überlegungen:**
 Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team "Gutes Essen" nur mit 5% gewichtet.
 
 Außerdem wird die Gesundheit der Verpflegung nach dem Vita Score bewertet, welcher primär dazu dient, das Risiko für ernährungsbedingte Krankheiten zu minimieren, und kein Indikator für eine gesundheitlich ausgewogene Gesamtzusammensetzung der Verpflegung ist, die sich am konkreten Bedarf orientiert. 
@@ -74,18 +73,19 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 - Kioskbetreiber(an unserer Schule nicht vorhanden)
 - Eltern und Schüler (Vertreten durch die entsprechenden Beiräte)
 
-**Durchführung:** zur Bewertung des Kriteriums habe ich Team „Gutes Essen“ konsultiert. Laut Aussage sind alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carloschmidtgymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang.
+**Durchführung:** zur Bewertung des Kriteriums habe ich Team „Gutes Essen“ konsultiert. Laut Aussage sind alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carloschmidtgymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Mann kann davon ausgehen, dass diese fehlende Zusammenarbeit der Hauptgrund für die fehlende Qualität in der Schulverpflegung ist. 
 
-**Ergebnis:** Da nicht die erforderliche Zusammenarbeit aller Akteure stattfindet, bewerte ich dieses Kriterium als nicht erfüllt. Mann kann davon ausgehen, dass diese fehlende Zusammenarbeit der Hauptgrund für die fehlende Qualität in der Schulverpflegung ist. 
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
+
 
 
 #### Weiteribildung der Mitarbeitenden  
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Mitarbeitenden des Verpflegungsbereiches kontinuierlich weitergebildet werden. 
 
-**Bewertung des Kriteriums:** Zur Bewertung des Kriteriums habe ich den Verpflegungsbeauftragten (Team „Gutes Essen“) konsultiert. Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügen. Darüber hinaus liegt die  Verantwortung der Weiterbildung und Schulung des Personals des Caterers in der beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. 
+**Duurchführung:** Zur Bewertung des Kriteriums habe ich den Verpflegungsbeauftragten (Team „Gutes Essen“) konsultiert. Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügen. Darüber hinaus liegt die  Verantwortung der Weiterbildung und Schulung des Personals des Caterers in der beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Team "Gutes Essen" nur unvollständig ist, oder ob Tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
 
-**Ergebnis:** Es ist unklar, ob die Beschreibung des Team "Gutes Essen" nur unvollständig ist, oder ob Tatsächlich keine Weiterbildung der anderen Akteure stattfindet. Da die Informationslage nicht ausreicht, kann ich dieses Kriterium nicht sicher bewerten.
+**Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
 
 
 
