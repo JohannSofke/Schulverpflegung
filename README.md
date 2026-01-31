@@ -87,7 +87,13 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
 
+#### Ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe 
 
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe eingerichtet sind. 
+
+**Durchführung:** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff. 
+
+**Ergebnis:** Ich bewerte dieses Kriterium nicht.
 
 ## Anhang
 
