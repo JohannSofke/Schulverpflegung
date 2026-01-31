@@ -77,7 +77,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
-
+**Weiterführende Überlegungen:** Sowohl das Ausgabepersonal, als auch die Aufsicht in der Mensa sprechen zum größten Teil nicht Deutsch. Dies führt auf Grund der Sprachbarriere zu Missverständnissen, zu Konflikten und führt im Endeffekt zu einer unangenehmen Atmosphäre, keine Kommunikation ist möglich.
 
 #### Weiteribildung der Mitarbeitenden  
 
@@ -87,6 +87,8 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
 
+
+
 #### Ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe 
 
 **Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe eingerichtet sind. 
@@ -94,6 +96,22 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 **Durchführung:** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff. 
 
 **Ergebnis:** Ich bewerte dieses Kriterium nicht.
+
+#### Wertschätzung der Mitarbeitenden
+
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass die Mitarbeitenden Wertgeschätzt werden. 
+
+**Durchführung** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff. 
+
+**Ergebnis:** Ich bewerte dieses Kriterium nicht.
+
+**Weiterführende Überlegungen:** Obwohl ich keine Informationen über die betriebliche Wertschätzung habe, beobachte ich, dass in der Mensa zwischen Schülern und Aufsichtspersonal kein wertschätzender Umgang vorherrscht.
+
+#### Regelmäßiges einholen von Feedback
+
+
+
+
 
 ## Anhang
 
