@@ -130,7 +130,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung. 
 
 ### Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
-In dem DGE Qualitätsstandart zählt Kapitel 2, Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung, alle bestandteile einer Gesundheitserhaltenden Ernährung auf und Erklärt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Dazu gehören folgende Bestandteile:
+In dem DGE Qualitätsstandart schließt Kapitel 2, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung auf und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
 
 - Sättigungsbeilage(Getreide, Getreideprodukte und Kartoffeln)
 - Gemüse und Salat
@@ -148,13 +148,15 @@ Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich Dokumentiert. D
 - Ferien und Feiertagen
 - Krankheitsbedingten Ursachen
 - daran, dass Während des Mittagsbandes an einzelnen Tagen Unterricht stattfand
-- daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen beliefert.
+- daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen beliefert. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
+
 
 Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das gewählt, was seltene Komponenten beinhaltet, wie Tierische Produkte, Gemüse, Salat und Vollkornprodukte.
+Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte Gericht dokumentiert und bewertet. 
 
 #### Die Sättigungsbeilage
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass Täglich eine Sättigungsbeilage Serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höhstens einmal Kartoffeln  
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höhstens einmal Kartoffeln  
 
 
 **Bewertung des Kriteriums:** Zur Bewertung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und Kateigorisiert.Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. Innerhalb der 20 Verpflegungstage gab es insgesamt 23 mal  Getreide, Getreideprodukte oder Kartoffeln, was daran liegt, dass manche Gerichte mehrere Kohlenhydratquellen beinhalteten, wie zum Beispiel Albbuchweizenbällchen mit cremigem Süßkartoffelreis, welche schon drei Kohlenhydrazatquellen beinhalten. Von den 23 mal gab es 3 mal Vollkorn, welche unter der Mindestanzahl liegen, und 6 mal Kartoffel oder Kartoffelerzeugnisse, was die Mindestanzahl übertrifft. 
