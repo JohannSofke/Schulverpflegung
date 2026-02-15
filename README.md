@@ -156,12 +156,12 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 
 #### Die Sättigungsbeilage
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höhstens einmal Kartoffeln  
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höhstens einmal Kartoffeln.
 
 
-**Bewertung des Kriteriums:** Zur Bewertung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und Kateigorisiert.Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Tagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass es in einigen Gerichten mehrere Kohlenhydratquellen gab. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis, die aus 3 Sättigungsbeilagen bestanden. Den Süßkartoffeln, dem Reis und dem Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4 mal Vollkornprodukte geben müssen. Außerdem gab es 6 mal Kartoffeln oder Kartoffelerzeugnisse, was die höchstarnzahl übertrifft. 
+**Durchführung:** Zur Durchführung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und kateigorisiert. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Tagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass es in einzelnen Gerichten mehrere Kohlenhydratquellen gab. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche aus 3 Sättigungsbeilagen bestanden. Den Süßkartoffeln, dem Reis und dem Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4 mal Vollkornprodukte geben müssen. Außerdem gab es 6 mal Kartoffeln oder Kartoffelerzeugnisse, was die höchstanzahl übertrifft. 
 
-**Ergebnis:** Da die MIndestanzahl für allgemein Kohlenhydratquellen und auch für Kartoffeln und Kartoffelerzeugnissen übertrofen wurde, und es nur zu selten Vollkornprodukte gab, bewerte ich dieses Kriterium als teilweise erfüllt. 
+**Ergebnis:** Die Höhstanzahl für Kartoffeln wurde übertroffen, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daaher bewerte ich dieses Kriterium als nicht erfüllt.
 
 
 
