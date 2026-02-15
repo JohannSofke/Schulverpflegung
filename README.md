@@ -210,7 +210,9 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
 ### Zwischenfazit
+Von sieben Kriterien habe ich sechs bewerten können, davon eines als erfüllt und 5 als nicht erfüllt. Folgende Gedanken möchte ich zu diesen Ergebnissen teilen: 
 
+1. Fast alle Kriterien zur Häufigkeit bestimmter Komponenten im Essen wurden nicht erfüllt. Bei den meisten Komponenten wurde der Mindestwert lediglich zu einem Viertel erreicht. Dies zeigt, wie
 
 
 Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung.
