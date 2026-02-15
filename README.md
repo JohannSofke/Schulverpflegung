@@ -164,6 +164,15 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 **Ergebnis:** Die Höhstanzahl für Kartoffeln wurde übertroffen, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daaher bewerte ich dieses Kriterium als nicht erfüllt.
 
 
+#### Gemüse und Salat
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse und Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2 mal Rohkost sein, und mindestens einmal Hülsenfrüchte sein.
+
+**Durchführung:** In den 20 Tagen der Feldstudie gab es an insgesamt 11 Gemüse, was nur ungefähr halbsoviel Gemüse ist wie empfohlen. Davon gabe es in diesen 20 Tagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist soviel, wie eigentlich an 5 Tagen empfohlen wird. Es gab nur ein Viertel soviel Rohkost und Hülsenfrüchte wie es das Kriterium vorsieht.
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf die Gsundheit gelegt wird. Auch in den Folgenden Kriterien werden oft die Mindestangaben um 1 Viertel erfüllt sein. 
+
+
 
 ## Anhang
 
