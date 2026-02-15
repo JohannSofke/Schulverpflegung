@@ -124,11 +124,23 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 
 
+
 ### Zwischenfazit
 
 Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung. 
 
+### Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
+In dem DGE Qualitätsstandart zählt Kapitel 2, Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung, alle bestandteile einer Gesundheitserhaltenden Ernährung auf und Erklärt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Dazu gehören folgende Bestandteile:
 
+- Sättigungsbeilage(Getreide, Getreideprodukte und Kartoffeln)
+- Gemüse und Salat
+- Obst
+- Milch und Milchprodukte
+- Tierische Produkte(Fleisch, Wurst, Fisch und Eier)
+- Öle und Fette
+- Getränke
+
+Zur Bewertung habe ich in einer Feldstudie in dem Zeitrum vom 6. Oktober 2025 bis zum 25. November 2025 gemacht, inder ich jedes Gericht Dokumentiert habe. 
 
 
 ## Anhang
