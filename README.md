@@ -150,7 +150,17 @@ Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich Dokumentiert. D
 - daran, dass Während des Mittagsbandes an einzelnen Tagen Unterricht stattfand
 - daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen beliefert.
 
-Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das gewählt, was seltene Komponenten beinhaltet, wie Tierische Produkte, Gemüse und Salat und Vollkornprodukte. 
+Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das gewählt, was seltene Komponenten beinhaltet, wie Tierische Produkte, Gemüse, Salat und Vollkornprodukte.
+
+#### Die Sättigungsbeilage
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass Täglich eine Sättigungsbeilage Serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höhstens einmal Kartoffeln  
+
+
+**Bewertung des Kriteriums:** Zur Bewertung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und Kateigorisiert.Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. Innerhalb der 20 Verpflegungstage gab es insgesamt 23 mal  Getreide, Getreideprodukte oder Kartoffeln, was daran liegt, dass manche Gerichte mehrere Kohlenhydratquellen beinhalteten, wie zum Beispiel Albbuchweizenbällchen mit cremigem Süßkartoffelreis, welche schon drei Kohlenhydrazatquellen beinhalten. Von den 23 mal gab es 3 mal Vollkorn, welche unter der Mindestanzahl liegen, und 6 mal Kartoffel oder Kartoffelerzeugnisse, was die Mindestanzahl übertrifft. 
+
+**Ergebnis:** Da die MIndestanzahl für allgemein Kohlenhydratquellen und auch für Kartoffeln und Kartoffelerzeugnissen übertrofen wurde, und es nur zu selten Vollkornprodukte gab, bewerte ich dieses Kriterium als teilweise erfüllt. 
+
 
 
 ## Anhang
