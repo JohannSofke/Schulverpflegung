@@ -141,6 +141,16 @@ In dem DGE Qualitätsstandart zählt Kapitel 2, Gestaltung einer Gesundheitsför
 - Getränke
 
 Zur Bewertung habe ich in einer Feldstudie in dem Zeitrum vom 6. Oktober 2025 bis zum 25. November 2025 gemacht, inder ich jedes Gericht Dokumentiert habe. 
+Folgende Hinweise sind hierbei zu beachten: 
+
+Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich Dokumentiert. Dies lag an:
+
+- Ferien und Feiertagen
+- Krankheitsbedingten Ursachen
+- daran, dass Während des Mittagsbandes an einzelnen Tagen Unterricht stattfand
+- daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen beliefert.
+
+Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das gewählt, was seltene Komponenten beinhaltet, wie Tierische Produkte, Gemüse und Salat und Vollkornprodukte. 
 
 
 ## Anhang
