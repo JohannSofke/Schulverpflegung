@@ -195,9 +195,21 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 
 **Ergebnis:** Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. Deshalb bewerte ich dieses Kriterium als nicht erfüllt. 
 
+#### Öle und Fette 
 
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Rapsöl standartmäßig bei der Zubereitung eingesetzt wird. 
 
+**Durchführung:** Da ich nicht weiß, welche Fette und Öle bei der Zubereitung verwendet wurden, kann ich dieses Kriterium nicht bewerten. 
 
+#### Getränke
+
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Getränke in der Mensa jederzeit zur Verfügung stehen. 
+
+**Durchführung:** In der Mensa stehen Getränke jeder Zeit zur Verfügung. Jeder Schüler kann sich ein Glas nehmen, und aus den auf allen Tischen stehenden Wasserkaraffen beliebig viel Wasser einschenken. Diese Wasserkaraffen werden zu jeder Zeit von dem Mensapersonal aufgefüllt, wenn sie leer sind. 
+
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
+
+Zwischenfazit
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
