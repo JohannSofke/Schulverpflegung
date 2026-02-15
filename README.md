@@ -175,9 +175,25 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von diesen zwei mal mindestens einmal Stückobst. 
 
-**Bewertung des Kriteriums:** In den 20 Tagen der Feldstudie gab es nur 2 mal Obst, was nur ein Viertel der Mindestangabe ist. Darüber hinaus gab es in 20 Tagen kein einziges mal Stückobst. 
+**Durchführung:** In den 20 Tagen der Feldstudie gab es nur 2 mal Obst, was nur ein Viertel der Mindestangabe ist. Darüber hinaus gab es in 20 Tagen kein einziges mal Stückobst. 
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Auch hier bestätigt sich die Annahme, dass bei den meisten Bestandteilen der Verpflegung der Mindestwert nur zu einem Viertel eingehalten wurde. 
+
+#### Milch und Milchprodukte 
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2 mal Milch oder Milchprodukte serviert werden. 
+
+**Durchführung:** In den 20 Tagen der Feldstudie gab es nur an 2 Verpflegungstagen Milchprodukte, beide male in Form von Quark. 
+
+**Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. Auch hier wurde wieder der Mindestwert nur zu einem Viertel erreicht.
+
+#### Fleisch, Wurst, Fisch und Eier
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höhstens 1 mal Fleisch serviert wird. Davon in 20 Verpflegungstagen mindestens 2 mal Mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1 mal Fisch serviert werden, davon in 20 Verpflegungstagen mindestens 2 mal Fettreicher Fisch.
+
+**Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höhstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert um eine Hälfte unterschreitet. Außerdem gab es in 20 Verpflegungstagen nur 1 mal Fisch, also nur ein Viertel mal so viel, wie das Kriterium vorgiebt, und keinmal Fettreichen Fisch.
+
+**Ergebnis:** Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. Deshalb bewerte ich dieses Kriterium als nicht erfüllt. 
 
 
 
