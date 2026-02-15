@@ -63,7 +63,6 @@ Außerdem wird die Gesundheit der Verpflegung nach dem Vita Score bewertet, welc
 
 Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung und den Ethischen Leitplanken, die die DGE in Umwelt, Soziales und Tierwohl unterteilt. Sie stehen im Verpflegungskonzept in einem Missverrhältnis. Ohne Vorwegzunehmen werde ich das bei der Bewertung der weiteren Kriterien belegen können.  
 
-
 #### Die Beteiligung aller Akteure
 
 **Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass alle Akteure an der Verpflegung beteiligt sind. Dies ermöglicht eine kontinuierliche Verbesserung und Verfeinerung des Verpflegungskonzeptes und dient der Klärung von Fragen und Problemen. Folgende Akteure müssen beteiligt sein:
@@ -171,6 +170,15 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 **Durchführung:** In den 20 Tagen der Feldstudie gab es an insgesamt 11 Gemüse, was nur ungefähr halbsoviel Gemüse ist wie empfohlen. Davon gabe es in diesen 20 Tagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist soviel, wie eigentlich an 5 Tagen empfohlen wird. Es gab nur ein Viertel soviel Rohkost und Hülsenfrüchte wie es das Kriterium vorsieht.
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf die Gsundheit gelegt wird. Auch in den Folgenden Kriterien werden oft die Mindestangaben um 1 Viertel erfüllt sein. 
+
+#### Obst
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von diesen zwei mal mindestens einmal Stückobst. 
+
+**Bewertung des Kriteriums:** In den 20 Tagen der Feldstudie gab es nur 2 mal Obst, was nur ein Viertel der Mindestangabe ist. Darüber hinaus gab es in 20 Tagen kein einziges mal Stückobst. 
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Auch hier bestätigt sich die Annahme, dass bei den meisten Bestandteilen der Verpflegung der Mindestwert nur zu einem Viertel eingehalten wurde. 
+
 
 
 
