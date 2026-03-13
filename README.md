@@ -230,14 +230,26 @@ In Kapitel 4.1 des DGE Qualitätsstandarts werden außerdem weitere Kriterien an
 
 **Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine "Veg-fit" heißt, die immer Vegetarisch ist, und die andere "Klima-fit" ist, welche auch Fleisch beinhaltet. Hierbei liegt das Problem bei den Namen: aus "Veg-fit" lässt sich nicht erschließen, ob es sich um eine Vegetarische oder Vegane Menülinie handelt. Der Name "Klimafit" lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klaare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird. 
 
-**Verbesserungsvorschlag:** Meine Schlussvolgerung ist, dass die Menülinien Vegetarisch oderr Vegan genannt werden, je nach dem, was es ist, und Mischkost Menülinie sollte Mischkost heißen, um Verwirrung zu vermeiden. 
-Das Kriterium bewerte ich als Teilweise erfüllt. 
+**Ergebnis:** Dieses Kriterium bewerte ich als teilweise erfüllt. 
+
+**Verbesserungsvorschlag:** Meine Schlussvolgerung ist, dass die Menülinien Vegetarisch und Mischkost genannt werden sollten, um Verwirrung zu vermeiden.
 
 
+#### Abwechslungsreiches Angebot von Getreide, Getreideprodukte und Kartoffeln
+
+**Beschreibung des Kriteriums:** Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechlungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel,  Grünkern, Bulgur und Hirse berwendet wird. 
 
 
+**Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Tagen angeboten. Das unterteilte sich in 
+- 7 × Kartoffeln
+- 5 × Reis
+- 5 × Nudelteigprodukte, davon warscheinlich 4 × Weizen, 1 × Dinkel
+- 1 × Albbuchweizenbällchen
+- 1 × Dinkelknödel
+Die Verteilung hat durchaus Abwechslung, es ist jedoch noch Luft nach oben.
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
-
+**Verbesserungsvorschlag:** Es sollte angegeben sein, ob ein Getreideprodukt Vollkorn ist. Außerdem gibt es noch viele Getreidesorten, die noch nicht serviert wurden. Mais, Graupen, Hirse, Hafer, Roggen, Grünkern und Bulgur. 
 
 
 
