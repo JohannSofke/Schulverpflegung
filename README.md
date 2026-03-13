@@ -218,6 +218,8 @@ Von sieben Kriterien habe ich sechs bewerten können, davon eines als erfüllt u
 
 Zu der Lösung des Problems gehört nicht nur die Zusammenarbeit der Akteure, sondern auch das richtige Verständnis für das Problem. Die Akteure müssen Verstehen, was das eigentliche Problem mit der Schulverpflegung ist, um es lösen zu können. In meinen Augen ist es die unvollständige Mittagsverpflegung – und das zeigt auch das Ergebnis von diesem Kapitel. 
 
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
