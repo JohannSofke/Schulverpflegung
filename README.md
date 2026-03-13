@@ -297,6 +297,22 @@ Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten
 **Verbesserungsvorschlag:** Die Herkunft der Lebensmittel sollte auf dem Speiseplan hinterlegt sein, so wie es bei dem Verkauf von Lebensmitteln üblich, zum Teil sogar Verplfichtet ist. Das Kriterium habe ich nicht bewertet. Dennoch denke ich, dass das Obst und Gemüseangebot mit hoher Warscheinlichkeit nicht aus der Region kommen kann, da die gelieferten Obst und Gemüsesorten zu dieser Saison auch nicht in der Region angebaut werden. 
 
 
+#### Industriell hergestellte Alternativen zu Fleisch und Fisch
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in der Mittagsverpflegung hergestellte Alternativen zu Fleisch und Fisch maximal 4 mal in 20 Verpflegungstagen angeboten werden. Diese Alternativen können auf Basis von folgenden Lebensmitteln hergestellt werden: Soja, Tofu, Lupinen, Pilz oder Milch.
+
+Beispiel:
+
+**Bewertung des Kriteriums:** Hier habe ich eine Liste von allen Gerichten mit industriell hergestellten Alternativen zu Fleisch und Fisch in den 20 Verpflegungstagen erstellt:
+
+Linsenbratlinge(Linsen)
+
+Es wurde im Ergebnis 1 mal industrielle Alternativen zu Fleisch und Fisch innerhalb von 20 Verpflegungstagen angeboten. 
+
+**Verbesserungsvorschlag:** Es war Schwierig, herauszufinden, ob die Gerichte Fleischalternativen sind, und ob sie Soja enthalten. Nur durch den Speiseplan im Internet konnte ich das herausfinden. Außerdem sollte die DGE den Begriff "Industriell hergestellte Alternative zu Fleisch und Fisch" exakter definieren, sodass man die Einhaltung des Kriteriums besser überprüfen kann. Das Kriterium bewerte ich als erfüllt.
+
+
+
 
 
 
