@@ -264,6 +264,32 @@ Innerhalb der 20 verpflegungstage wurde eimal ein paniertes Produkt und einmal e
 
 **Verbesserungsvorschlag:** Es sollte im Speiseplan hinterlegt sein, ob Teile des Gerichts frittiert sind. Es wäre so einfacher, frittierte und panierte Gerichte zu umgehen.
 
+#### Das saisonale Gemüse- und Obst Angebot
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass das saisonale Gemüse- und Obst Angebot berücksichtigt ist. 
+
+**Durchführung:** Zur Bewertung habe ich alle Obst- und Gemüsesorten, welche in den 20 Verpflegungstagen serviert wurden, aufgelistet, und bewertet, ob diese zu der saison Oktober bis Dezember passen:
+
+
+- Paprika: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober. 
+- Zucchini: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshausanbau nicht üblich in Baden-Württemberg.
+- Blumenkohl: Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region.
+- Eingelegte Kirschen: Nicht saisonal. Frische Kirschen: Saison endet Juli. Eingelegte Produkte sind nicht an Saison gebunden.
+- Bohnen: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich.
+- Gurken: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshaussaison (Salatgurken) endet typischerweise Oktober, vereinzelt bis November.
+- Kürbis: Saisonal Oktober-November. Freilandsaison August bis November. Gewächshausanbau nicht üblich. Lagerware bis Dezember verfügbar.
+- Karotten: Saisonal. Freilandsaison ganzjährig durch Lagerware. Gewächshausanbau ganzjährig für Frischware.
+- Erbsen: Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich.
+- Aubergine: Nicht saisonal Oktober-Dezember. Freilandsaison August bis September. Gewächshausanbau endet September bis Oktober.
+
+Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten gab, die nicht saisional waren, können diese auch nicht Regional sein. Sie wurden warscheinlich aus anderen Regionen importiert, in denen sie zu der Jahreszeit noch wachsen können.
+
+**Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. 
+
+**Schlussvolgerung:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage damit, dass ihre Gerichte Saisonal sind.
+
+
+
 
 
 ## Anhang
