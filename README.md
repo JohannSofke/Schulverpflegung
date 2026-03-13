@@ -253,6 +253,19 @@ Die Verteilung hat durchaus Abwechslung, es ist jedoch noch Luft nach oben.
 
 
 
+#### Einsatz von frittierten oder panierten Lebensmitteln
+
+**Beschreibung des Kriteriums:**  Das Kriterium fordert, dass frittierte und/oder panierte Produkte maximal 4× in 20 Verpflegungstagen eingesetzt werden sollen.
+
+**Durchführung:** 
+Innerhalb der 20 verpflegungstage wurde eimal ein paniertes Produkt und einmal ein frittiertes Produkt serviert. Damit wurde das Kriterium erfüllt. Jedoch gab es auf dem Speiseplan keine Angaben zu frittierten oder panierten Produkten, was die Überprüfung schwierig machte.
+
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
+
+**Verbesserungsvorschlag:** Es sollte im Speiseplan hinterlegt sein, ob Teile des Gerichts frittiert sind. Es wäre so einfacher, frittierte und panierte Gerichte zu umgehen.
+
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
