@@ -286,7 +286,15 @@ Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten
 
 **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. 
 
-**Schlussvolgerung:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage damit, dass ihre Gerichte Saisonal sind.
+**Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage damit, dass ihre Gerichte Saisonal sind.
+
+#### Einheimische Lebensmittel
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass einheimische Lebensmittel im Speiseplan bevorzugt werden.
+
+**Durchführung:** Ich habe dieses Kriterium nicht bewertet, da ich nicht belegen kann, ob die Zutaten der Gerichte aus der Region kommen. Es werden jedoch selten Exotische Lebensmittel wie zum Beispiel Reis serviert. Das ist aber kein Beleg, dass die Bestandteile des Gerichts wie Kartoffeln oder Gemüse aus der Region kommen. 
+
+**Verbesserungsvorschlag:** Die Herkunft der Lebensmittel sollte auf dem Speiseplan hinterlegt sein, so wie es bei dem Verkauf von Lebensmitteln üblich, zum Teil sogar Verplfichtet ist. Das Kriterium habe ich nicht bewertet. Dennoch denke ich, dass das Obst und Gemüseangebot mit hoher Warscheinlichkeit nicht aus der Region kommen kann, da die gelieferten Obst und Gemüsesorten zu dieser Saison auch nicht in der Region angebaut werden. 
 
 
 
