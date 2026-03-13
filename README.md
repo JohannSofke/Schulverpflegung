@@ -129,7 +129,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung. 
 
 ### Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
-In dem DGE Qualitätsstandart schließt Kapitel 2, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung auf und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
+In dem DGE Qualitätsstandart schließt Kapitel 4, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung auf und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
 
 - Sättigungsbeilage(Getreide, Getreideprodukte und Kartoffeln)
 - Gemüse und Salat
@@ -217,6 +217,27 @@ Von sieben Kriterien habe ich sechs bewerten können, davon eines als erfüllt u
 3. Bei den Lösungsversuchen der Unterschiedlichen Akteure wurde nie Versucht, das Essen Gesünder zu machen. Stattdessen beschäftigen sich diei Akteure nur mit dem Geschmack des Essens.
 
 Zu der Lösung des Problems gehört nicht nur die Zusammenarbeit der Akteure, sondern auch das richtige Verständnis für das Problem. Die Akteure müssen Verstehen, was das eigentliche Problem mit der Schulverpflegung ist, um es lösen zu können. In meinen Augen ist es die unvollständige Mittagsverpflegung – und das zeigt auch das Ergebnis von diesem Kapitel. 
+
+
+## Weitere Kriterien zur Planung
+
+In Kapitel 4.1 des DGE Qualitätsstandarts werden außerdem weitere Kriterien an die Speiseplanung gestellt. Diese werde ich in diesem Kapitel bewerten. 
+
+
+
+#### Ovo-lacto-vegetarisches Angebot
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verpflegungstag angeboten wird. 
+
+**Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine "Veg-fit" heißt, die immer Vegetarisch ist, und die andere "Klima-fit" ist, welche auch Fleisch beinhaltet. Hierbei liegt das Problem bei den Namen: aus "Veg-fit" lässt sich nicht erschließen, ob es sich um eine Vegetarische oder Vegane Menülinie handelt. Der Name "Klimafit" lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klaare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird. 
+
+**Verbesserungsvorschlag:** Meine Schlussvolgerung ist, dass die Menülinien Vegetarisch oderr Vegan genannt werden, je nach dem, was es ist, und Mischkost Menülinie sollte Mischkost heißen, um Verwirrung zu vermeiden. 
+Das Kriterium bewerte ich als Teilweise erfüllt. 
+
+
+
+
+
+
 
 
 
