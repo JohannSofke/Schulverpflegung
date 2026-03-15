@@ -158,18 +158,19 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höhstens einmal Kartoffeln.
 
 
-**Durchführung:** Zur Durchführung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und kateigorisiert. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Tagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass es in einzelnen Gerichten mehrere Kohlenhydratquellen gab. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche aus 3 Sättigungsbeilagen bestanden. Den Süßkartoffeln, dem Reis und dem Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4 mal Vollkornprodukte geben müssen. Außerdem gab es 6 mal Kartoffeln oder Kartoffelerzeugnisse, was die höchstanzahl übertrifft. 
+**Durchführung:** Zur Durchführung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und kategorisiert. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Tagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten. Die Süßkartoffeln, der Reis und der Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4 mal Vollkornprodukte geben müssen. Außerdem gab es 6 mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft. 
 
-**Ergebnis:** Die Höhstanzahl für Kartoffeln wurde übertroffen, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daaher bewerte ich dieses Kriterium als nicht erfüllt.
+**Ergebnis:** Die Höhstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daher bewerte ich dieses Kriterium als nicht erfüllt.
 
 
 #### Gemüse und Salat
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse und Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2 mal Rohkost sein, und mindestens einmal Hülsenfrüchte sein.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2 mal in der Form von Rohkost serviert werden, und einmal von der Sorte Hülsenfrüchte.
 
-**Durchführung:** In den 20 Tagen der Feldstudie gab es an insgesamt 11 Gemüse, was nur ungefähr halbsoviel Gemüse ist wie empfohlen. Davon gabe es in diesen 20 Tagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist soviel, wie eigentlich an 5 Tagen empfohlen wird. Es gab nur ein Viertel soviel Rohkost und Hülsenfrüchte wie es das Kriterium vorsieht.
+**Durchführung:** In den 20 Tagen der Feldstudie wurde insgesamt 11 Gemüse serviert, was nur ungefähr halbsoviel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Tagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Tagen empfohlen wird. Damit gab es nur ein Viertel so viel
+Rohkost und Hülsenfrüchte wie gefordert.
 
-**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf die Gsundheit gelegt wird. Auch in den Folgenden Kriterien werden oft die Mindestangaben um 1 Viertel erfüllt sein. 
+**Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf eine gesunde Ernährung gelegt wird. 
 
 #### Obst
 
