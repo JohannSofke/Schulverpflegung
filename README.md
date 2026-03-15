@@ -172,6 +172,13 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf eine gesunde Ernährung gelegt wird. 
 
+**Kritische Gedanken:**
+
+- Häufig war ein Salat zwar auf dem Speiseplan ausgeschrieben, wurde aber nicht serviert. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber systematisch nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+- Durch das Wegfallen des Rohkostsalates wird vom Menü auch ein Wichtiger Liferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und Sekundäre pflanzenstoffe entfernt.
+- Gerade weil schon soviele Kohlenhydratreiche Sattigungsbeilagen serviert werden, die einen hohen glykämischen Index haben (also Lebensmittel, die den Blutzucker erst stark anheben, und dann schnell wieder abfallen lassen), ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg  deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
+
+
 #### Obst
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von dieser Häufigkeit mindestens einmal Stückobst. 
