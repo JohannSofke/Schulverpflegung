@@ -147,10 +147,10 @@ Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren. 
 - Ferien und Feiertagen
 - Abwesenheiten
 - Unterricht an einzelnen Tagen während des Mittagsbandes
-- daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen weiterhin beliefern. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
+- Der Schließung unserer Mensa freitags, während der Caterer weiterhin andere Schulen belieferte. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
 
+Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das Gericht gewählt, mit welchem ich am besten Wochenweise die Empfehlungen der DGE annähern konnte. Das waren dann immer die Gerichte, die Tierische Produkte, Vollkorngetreide, Gemüse, Salat und Obst beinhalteten.
 
-Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das gewählt, was seltene Komponenten beinhaltet, wie Tierische Produkte, Gemüse, Salat und Vollkornprodukte.
 Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte Gericht dokumentiert und bewertet. 
 
 #### Die Sättigungsbeilage
