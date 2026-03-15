@@ -174,12 +174,17 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 #### Obst
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von diesen zwei mal mindestens einmal Stückobst. 
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von dieser Häufigkeit mindestens einmal Stückobst. 
 
-**Durchführung:** In den 20 Tagen der Feldstudie gab es nur 2 mal Obst, was nur ein Viertel der Mindestangabe ist. Darüber hinaus gab es in 20 Tagen kein einziges mal Stückobst. 
+**Durchführung:** In den 20 Tagen der Feldstudie wurde nur 2 mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges mal Stückobst.
 
-**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Auch hier bestätigt sich die Annahme, dass bei den meisten Bestandteilen der Verpflegung der Mindestwert nur zu einem Viertel eingehalten wurde. 
+**Ergebnis:** Ich bewerte dieses Kriterium als signifikant nicht erfüllt.
 
+**Kritische Gedanken:**
+- Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen", zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
+- Durch das Wegfallen des Nachtisches iwrd auch die gesamt Kalorienaufnahme durch die Mittagsverpflegung verringert.
+- Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott, und einmal Kirschmichel mit Vanillesoße, und sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden, und ein Hauptgericht nicht ersetzen sollen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass man Süße Speisen aus dem Menü eliminiert, sondern hat einen Liferanten von  gesundheitsrelevanten Ballaststoffen, Vitaminen und Sekundären Pflanzenstoffen von dem Menü eliminiert.
+-  
 #### Milch und Milchprodukte 
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2 mal Milch oder Milchprodukte serviert werden. 
