@@ -230,14 +230,19 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
+
 ### Zwischenfazit
-Von sieben Kriterien habe ich sechs bewerten können, davon eines als erfüllt und 5 als nicht erfüllt. Folgende Gedanken möchte ich zu diesen Ergebnissen teilen: 
 
-1. Alle Kriterien zur Häufigkeit bestimmter Komponenten im Essen wurden deutlich nicht erfüllt. Bei den meisten Komponenten wurde der Mindestwert in der Häufigkeit um Faktor 2 - 4 unterschritten, was eine erhebliche Abweichung von den DGE Kriterien Darstellt. Dies zeigt, wie wenig Wert auf eine gesunde und vollständige Ernährung gesetzt wird, obwohl die Tressbrüder auf ihrer Homepage mit eine DGE-Konformes Schulcatering werben und der verpflegungsbeauftragte Team "Gutes Essen" mir gegenüber dargestellt haben, dass sich die Schulverpflegung an den DGE Leitlinien orientiert. Der einzige Nahrunsbestandteil, der in außreichendem Maße angeboten wurde, ist Wasser, was aus den Trinkautomaten der Schule abgefüllt und nicht von den Tressbrüdern geliefert wird.
-2. Bei diesen Ergebnissen wird klar, dass das eigentliche Problem mit den Tressbrüdern nicht etwa der Geschmack oder die "Kindgerechtheit" ist, sondern die unvollständige Zusammensetzung der Menüs.
-3. Bei den Lösungsversuchen der Unterschiedlichen Akteure wurde nie Versucht, das Essen Gesünder zu gestalten. Stattdessen streiten sich die Akteure Haupsächlich über den Geschmack des Essens.
+Von den sieben bewerteten Kriterien konnten sechs beurteilt werden – eines davon wurde erfüllt, fünf wurden nicht erfüllt. Die folgende Analyse reflektiert diese Ergebnisse.
 
-Zu der Lösung des Problems gehört nicht nur die Zusammenarbeit der Akteure, sondern auch das richtige Verständnis für das Problem. Die Akteure müssen Verstehen, was das eigentliche Problem mit der Schulverpflegung ist, um es lösen zu können. In meinen Augen ist es die unausgewogene Zusammensetzung der Mittagsverpflegung – und das zeigt auch das Ergebnis von der Analyse in diesem Kapitel. Darüber hinaus stellte sich in einer Analyse heraus, dass das Gesamtkalorienangebot den Zielwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 40 % unterschreitet, wie ich im Anhang dargestellt habe. Und das alleine wäre schon ein Skandal. Es bleibt zu prüfen, ob das nicht nur ein moralisches Fehlverhalten ist, sondern auch rechtliche Folgen haben kann. 
+#### DGE-Häufigkeitsvorgaben
+Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkomponenten wurden deutlich und erheblich nicht erfüllt. Bei den meisten Komponenten lag die tatsächliche Häufigkeit um den Faktor 2–4 unterhalb des jeweiligen DGE-Mindestwerts – eine signifikante Abweichung von den etablierten Ernährungsrichtlinien. Dies ist besonders auffällig, da der Caterer Tressbrüder auf seiner Website ausdrücklich mit einer DGE-konformen Schulverpflegung wirbt und der Verpflegungsbeauftragte Team Gutes Essen bestätigte mir gegenüber, dass sich das Verpflegungsangebot an den DGE-Leitlinien orientiert. Die einzige Ernährungskomponente, die in ausreichender Menge angeboten wurde, ist Wasser – das jedoch aus schuleigenen Trinkautomaten stammt und nicht von Tressbrüdern geliefert wird.
+
+#### Nährstoffzusammensetzung
+Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mangel des Tressbrüder-Cateringangebots liegt nicht im Geschmack oder in der Kindgerechtheit der Speisen – wie häufig diskutiert wird –, sondern in der strukturell unvollständigen Nährstoffzusammensetzung der Menüs. Bisherige Lösungsversuche der verschiedenen Akteure konzentrierten sich nahezu ausschließlich auf die Frage der Akzeptanz, während die eigentliche Frage der Ernährungsqualität unbeachtet blieb. Diese Fehldiagnose des Problems hat bislang jede wirksame Korrekturmaßnahme verhindert.
+
+#### Kaloriendefizit
+Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 40% unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
 
 ## Weitere Kriterien zur Planung
