@@ -218,6 +218,10 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Durchführung:** Da ich nicht weiß, welche Fette und Öle bei der Zubereitung verwendet wurden, kann ich dieses Kriterium nicht bewerten. 
 
+**Kritische Gedanken:**
+
+- Hochwertige Öle sind in einem Rohkostsalat essentiell, weil der Körper nur mit Hilfe des Öls fettlösliche Vitamine aus dem Salat aufnehmen kann. Da jedoch so selten Salat serviert wird, entfällt die Möglichkeit, die Öle sinnvoll einzusetzen. 
+
 #### Getränke
 
 **Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Getränke in der Mensa jederzeit zur Verfügung stehen. 
