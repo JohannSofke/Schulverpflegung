@@ -160,7 +160,7 @@ Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte G
 
 **Durchführung:** Zur Durchführung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und kategorisiert. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der Vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Tagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten. Die Süßkartoffeln, der Reis und der Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4 mal Vollkornprodukte geben müssen. Außerdem gab es 6 mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft. 
 
-**Ergebnis:** Die Höhstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daher bewerte ich dieses Kriterium als nicht erfüllt.
+**Ergebnis:** Die Höhstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daher bewerte ich dieses Kriterium als grenzwertig nicht erfüllt.
 
 
 #### Gemüse und Salat
@@ -193,7 +193,7 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Durchführung:** In den 20 Tagen der Feldstudie gab es nur an 2 Verpflegungstagen Milchprodukte, beide male in Form von Quark. 
 
-**Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. Auch hier wurde wieder der Mindestwert nur zu einem Viertel erreicht.
+**Ergebnis:** Dieses Kriterium bewerte ich als signifikant nicht erfüllt.
 
 #### Fleisch, Wurst, Fisch und Eier
 
