@@ -195,6 +195,8 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Ergebnis:** Dieses Kriterium bewerte ich als signifikant nicht erfüllt.
 
+**Kritische Gedanken:** Milch eignet sich als ideale Basis für einen gesunden Nachtisch, wie zum Beispiel einen Naturjoghurt mit Beeren und Nüssen.
+
 #### Fleisch, Wurst, Fisch und Eier
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höhstens 1 mal Fleisch serviert wird. Davon in 20 Verpflegungstagen mindestens 2 mal Mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1 mal Fisch serviert werden, davon in 20 Verpflegungstagen mindestens 2 mal Fettreicher Fisch.
