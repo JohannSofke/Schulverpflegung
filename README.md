@@ -81,7 +81,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Mitarbeitenden des Verpflegungsbereiches kontinuierlich weitergebildet werden. 
 
-**Duurchführung:** Zur Bewertung des Kriteriums habe ich den Verpflegungsbeauftragten (Team „Gutes Essen“) konsultiert. Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügen. Darüber hinaus liegt die  Verantwortung der Weiterbildung und Schulung des Personals des Caterers in der beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Team "Gutes Essen" nur unvollständig ist, oder ob Tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
+**Durchführung:** Zur Bewertung des Kriteriums habe ich den Verpflegungsbeauftragten (Team „Gutes Essen“) konsultiert. Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügen. Darüber hinaus liegt die  Verantwortung der Weiterbildung und Schulung des Personals des Caterers in der beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Team "Gutes Essen" nur unvollständig ist, oder ob Tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
 
 **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
 
@@ -233,11 +233,11 @@ Rohkost und Hülsenfrüchte wie gefordert.
 ### Zwischenfazit
 Von sieben Kriterien habe ich sechs bewerten können, davon eines als erfüllt und 5 als nicht erfüllt. Folgende Gedanken möchte ich zu diesen Ergebnissen teilen: 
 
-1. Fast alle Kriterien zur Häufigkeit bestimmter Komponenten im Essen wurden nicht erfüllt. Bei den meisten Komponenten wurde der Mindestwert lediglich zu einem Viertel erreicht. Dies zeigt, wie wenig Wert auf eine gesunde und vollständige Ernährung gesetzt wird. Der einzige Nahrunsbestandteil, den es in außreichendem Maße gegeben hat, war Wasser, was aus den Trinkautomaten der Schule abgefüllt wird und nicht von den Tressbrüdern geliefert wird.
-2. Bei diesen Ergebnissen wird klar, dass das eigentliche Problem mit den Tressbrüdern nicht etwa der Geschmack oder die "Kindgerechtheit" ist, sondern die unvollständige Ernährung.
-3. Bei den Lösungsversuchen der Unterschiedlichen Akteure wurde nie Versucht, das Essen Gesünder zu machen. Stattdessen beschäftigen sich diei Akteure nur mit dem Geschmack des Essens.
+1. Alle Kriterien zur Häufigkeit bestimmter Komponenten im Essen wurden deutlich nicht erfüllt. Bei den meisten Komponenten wurde der Mindestwert in der Häufigkeit um Faktor 2 - 4 unterschritten, was eine erhebliche Abweichung von den DGE Kriterien Darstellt. Dies zeigt, wie wenig Wert auf eine gesunde und vollständige Ernährung gesetzt wird, obwohl die Tressbrüder auf ihrer Homepage mit eine DGE-Konformes Schulcatering werben und der verpflegungsbeauftragte Team "Gutes Essen" mir gegenüber dargestellt haben, dass sich die Schulverpflegung an den DGE Leitlinien orientiert. Der einzige Nahrunsbestandteil, der in außreichendem Maße angeboten wurde, ist Wasser, was aus den Trinkautomaten der Schule abgefüllt und nicht von den Tressbrüdern geliefert wird.
+2. Bei diesen Ergebnissen wird klar, dass das eigentliche Problem mit den Tressbrüdern nicht etwa der Geschmack oder die "Kindgerechtheit" ist, sondern die unvollständige Zusammensetzung der Menüs.
+3. Bei den Lösungsversuchen der Unterschiedlichen Akteure wurde nie Versucht, das Essen Gesünder zu gestalten. Stattdessen streiten sich die Akteure Haupsächlich über den Geschmack des Essens.
 
-Zu der Lösung des Problems gehört nicht nur die Zusammenarbeit der Akteure, sondern auch das richtige Verständnis für das Problem. Die Akteure müssen Verstehen, was das eigentliche Problem mit der Schulverpflegung ist, um es lösen zu können. In meinen Augen ist es die unvollständige Mittagsverpflegung – und das zeigt auch das Ergebnis von diesem Kapitel. 
+Zu der Lösung des Problems gehört nicht nur die Zusammenarbeit der Akteure, sondern auch das richtige Verständnis für das Problem. Die Akteure müssen Verstehen, was das eigentliche Problem mit der Schulverpflegung ist, um es lösen zu können. In meinen Augen ist es die unausgewogene Zusammensetzung der Mittagsverpflegung – und das zeigt auch das Ergebnis von der Analyse in diesem Kapitel. Darüber hinaus stellte sich in einer Analyse heraus, dass das Gesamtkalorienangebot den Zielwert eines durchschnittlichen 14-jährigen Schülers um 40 % unterschreitet. Und das alleine wäre schon ein Skandal. 
 
 
 ## Weitere Kriterien zur Planung
