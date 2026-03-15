@@ -184,7 +184,9 @@ Rohkost und Hülsenfrüchte wie gefordert.
 - Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen", zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
 - Durch das Wegfallen des Nachtisches iwrd auch die gesamt Kalorienaufnahme durch die Mittagsverpflegung verringert.
 - Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott, und einmal Kirschmichel mit Vanillesoße, und sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden, und ein Hauptgericht nicht ersetzen sollen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass man Süße Speisen aus dem Menü eliminiert, sondern hat einen Liferanten von  gesundheitsrelevanten Ballaststoffen, Vitaminen und Sekundären Pflanzenstoffen von dem Menü eliminiert.
--  Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr gliefert wird, steht er immer noch in den Speiseplänen. Dies hat Rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+-  Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr gliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat Rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+
+
 #### Milch und Milchprodukte 
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2 mal Milch oder Milchprodukte serviert werden. 
