@@ -201,9 +201,9 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höhstens 1 mal Fleisch serviert wird. Davon in 20 Verpflegungstagen mindestens 2 mal Mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1 mal Fisch serviert werden, davon in 20 Verpflegungstagen mindestens 2 mal Fettreicher Fisch.
 
-**Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höhstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert um eine Hälfte unterschreitet. Außerdem gab es in 20 Verpflegungstagen nur 1 mal Fisch, also nur ein Viertel mal so viel, wie das Kriterium vorgiebt, und keinmal Fettreichen Fisch.
+**Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höhstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert unterschreitet. Außerdem wurde in 20 Verpflegungstagen nur 1 mal Fisch serviert, womit die Mindestangabe um den Faktor 4 Unterschritten wurde. Kein einziges mal wurde fettreicher Fisch serviert.
 
-**Ergebnis:** Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. Deshalb bewerte ich dieses Kriterium als nicht erfüllt. 
+**Ergebnis:** Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. Deshalb bewerte ich dieses Kriterium als signifikant nicht erfüllt. 
 
 #### Öle und Fette 
 
