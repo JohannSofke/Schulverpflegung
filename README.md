@@ -129,7 +129,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung. 
 
 ### Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
-In dem DGE Qualitätsstandart schließt Kapitel 4, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung auf und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
+In dem DGE Qualitätsstandart benennt Kapitel 4, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
 
 - Sättigungsbeilage(Getreide, Getreideprodukte und Kartoffeln)
 - Gemüse und Salat
@@ -139,15 +139,15 @@ In dem DGE Qualitätsstandart schließt Kapitel 4, "Gestaltung einer Gesundheits
 - Öle und Fette
 - Getränke
 
-Zur Bewertung habe ich in einer Feldstudie in dem Zeitrum vom 6. Oktober 2025 bis zum 25. November 2025 gemacht, inder ich jedes Gericht Dokumentiert habe. 
+Zur Bewertung habe ich in einer Feldstudie in dem Zeitrum vom 6. Oktober 2025 bis zum 25. November 2025 durchgeführt, in der ich jedes Gericht dokumentiert habe. 
 Folgende Hinweise sind hierbei zu beachten: 
 
-Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich Dokumentiert. Dies lag an:
+Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren. Dies lag an:
 
 - Ferien und Feiertagen
-- Krankheitsbedingten Ursachen
-- daran, dass Während des Mittagsbandes an einzelnen Tagen Unterricht stattfand
-- daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen beliefert. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
+- Abwesenheiten
+- Unterricht an einzelnen Tagen während des Mittagsbandes
+- daran, dass Freitags unsere Mensa geschlossen hat, während der Caterer die anderen Schulen weiterhin beliefern. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
 
 
 Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das gewählt, was seltene Komponenten beinhaltet, wie Tierische Produkte, Gemüse, Salat und Vollkornprodukte.
