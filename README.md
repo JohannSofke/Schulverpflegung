@@ -220,7 +220,7 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Kritische Gedanken:**
 
-- Hochwertige Öle sind in einem Rohkostsalat essentiell, weil der Körper nur mit Hilfe des Öls fettlösliche Vitamine aus dem Salat aufnehmen kann. Da jedoch so selten Salat serviert wird, entfällt die Möglichkeit, die Öle sinnvoll einzusetzen. 
+- Hochwertige Öle sind in einem Rohkostsalat essentiell, weil der Körper nur mit Hilfe des Öls fettlösliche Vitamine aus dem Salat aufnehmen kann. Da jedoch so selten Salat serviert wird, entfällt die Möglichkeit, die Öle sinnvoll einzusetzen. Zum Beispiel fettlösliches Vitamin A in Karotten.
 
 #### Getränke
 
