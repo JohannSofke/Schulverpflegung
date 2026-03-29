@@ -443,6 +443,11 @@ Es ergeben sich folgende Ergebnisse:
 - Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (±20%)
 - Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (±5%)
 
+Folgende Punkte sind noch anzumerken:
+
+- Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des Mittagessens stark rationiert ist.
+- Den Schülern werden keine Altersgerechten Portionsgrösen serviert, die Schüler bekommen alle ungefähr die gleiche Portionsgröße. Dies ist belegbar durch den Umstand, dass die Teller in der Regel schon vorrätig befüllt werden, und dann zufällig zu einem Schüler zugeteilt werden. 
+
 
 ### Zwischenfazit
 - Das mittlere Kalorienangebot ist für alle Altersgruppen deulich unterschritten. 
@@ -468,6 +473,8 @@ Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. 
 Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Folgen, die sich bis ins Erwachsenenalter ziehen können.
 - Risiko für Essstörungen
 Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich, insbesondere wenn das Defizit bewusst herbeigeführt wird.
+
+Es bleibt zu prüfen, ob sich hierraus rchtliche konseequenzen für den Betreiber oder die Akteure ergeben können.
 
 
 
