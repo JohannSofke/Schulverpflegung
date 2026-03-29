@@ -374,9 +374,12 @@ So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusa
 #### Gesamtenergieumsatz
 Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitraggebern.
 #### Grundenergieumsatz unterschiedliche Formeln
-Der erste Beitraggeber ist der Grundenergieumsatz, also die Energie, die der Körper bei vollständiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Grundenergieumsatz gibt es unterschiedliche Formeln wie zum Beispiel die Formel der DGE, die der WHO und die Harris Bennedict Formel. Diese sind alle sehr ähnlich und berücksichtigen typischerweise Geschlecht, Alter, Körpergewicht und Körpergröße. Anhand der Harris Bennedict Formel werde ich jetzt den Grundenergieumsatz eines Durchschnittlichen 14 Jährigen Jungen berechnen. Die Grundformel für Jungen: GU = 66,47 + 13,7 x Gewicht in kg + 5,0 x Größe in cm - 6,8 x Alter in Jahren  jetzt setze ich das durchshcnittliche Gewicht von 58 kg, das Alter von 14 Jahren und die Körpergröße von 167 cm ein: GU = 66,47 + 13,7 x 58 + 5,0 x 167 - 6,8 x 14
- = 66,47 + 794,6 + 835,0 - 95,2 = 1.600,87 kcal/Tag.
-Körperliche Aktivität
+Der erste Beitraggeber ist der Grundenergieumsatz, also die Energie, die der Körper bei vollständiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Grundenergieumsatz gibt es unterschiedliche Formeln wie zum Beispiel die Formel der DGE, die der WHO und die Harris Bennedict Formel. Diese sind alle sehr ähnlich und berücksichtigen typischerweise Geschlecht, Alter, Körpergewicht und Körpergröße. Anhand der Harris Bennedict Formel werde ich jetzt den Grundenergieumsatz eines Durchschnittlichen 14 Jährigen Jungen berechnen. Die Grundformel für Jungen: GU = 66,47 + 13,7 x M/kg + 5,0 x l/cm - 6,8 x T/A  jetzt setze folgende Parameter in die Gleichung ein:
+-  durchschnittliches Gewicht M = 58 kg
+-  Alter T = 14 Jahren
+-  Körpergröße l = 167 cm
+
+GU = 66,47 + 13,7 x 58 + 5,0 x 167 - 6,8 x 14 = 66,47 + 794,6 + 835,0 - 95,2 = 1.600,87 kcal/Tag.
 
 
 
