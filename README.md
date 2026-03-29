@@ -395,13 +395,30 @@ Multipliziert man jetzt den Grundenergieumsatz des durchschnittlichen 14-Jährig
 
 #### Zwischenfazit
 
-zeige nochmal nur die tabelle
+Hier ist die Tabelle für den Tagesbedarf aller Altersgruppen von beiden Geschlechtern:
 
 | Altersgruppe | Größe ♂ | Gewicht ♂ | Grundumsatz ♂ | **Tagesbedarf ♂** | Größe ♀ | Gewicht ♀ | Grundumsatz ♀ | **Tagesbedarf ♀** |
 |---|---|---|---|---|---|---|---|---|
 | 10–13 Jahre | 149 cm | 40 kg | 1.274 kcal | **~2.038 kcal** | 152 cm | 43 kg | 1.266 kcal | **~2.026 kcal** |
 | 14–17 Jahre | 174 cm | 65 kg | 1.706 kcal | **~2.730 kcal** | 164 cm | 58 kg | 1.425 kcal | **~2.280 kcal** |
 | 18–19 Jahre | 178 cm | 75 kg | 1.842 kcal | **~2.948 kcal** | 165 cm | 63 kg | 1.461 kcal | **~2.338 kcal** |
+
+#### Verteilung der Kalorienaufnahme über den Tag
+
+Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und jungen Erwachsenen eines Tag auf 5 Malzeiten zu verteilen:
+
+- Frühstück
+- 1 Zwischenmalzeit
+- Mittagessen
+- 2 Zwischenmalzeit
+- Abendessen
+
+Wobei die prozentuale Kalorienaufnahme der Mittagsmalzeit im Bereich von 25% [OMX] bis 35% [JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30% fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmalzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Malzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allearmeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
+
+
+
+Die Prozentuale Aufteilung der Kalorienaufnahme auf diese fünft malzeiten wird von mehreren Organisationen empfohlen.
+Um die  herauszufinden, wie viele Kilokalorien beim Mittagessen zugenommen werden sollen, muss der prozentuale Anteil des Mittagessen herausgefunden werden. Dieser wird von Job & Fit [JUF] auf 35 %, und von Optimix [OMX]  25 % empfohlen. 
 
 
 
@@ -419,6 +436,8 @@ zeige nochmal nur die tabelle
 - [SQS] https://www.gemeinsamgutessen.de/fileadmin/nqz/publikationsdateien/20150625INFORM_StudieQualitaetSchulverpflegung.pdf
 - [TKSV] https://www.tressbrueder.de/catering-bio/#kinder-catering
 - [FAQE] https://www.dge.de/fileadmin/dok/gesunde-ernaehrung/faq/DGE-FAQ-Energie-2015.pdf
+- [OMX] https://www.klinikum-bochum.de/files/klinikum-bochum/dokumente/fachbereiche/kinder-und-jugendmedizin/Sonstiges/Ke_OMK_Akt%20Ernmed_2017%20AutorPDF.pdf
+- [JUF] https://www.jobundfit.de/fuer-tischgaeste/energiebedarf
 
 
 ## Hilfsmittel
