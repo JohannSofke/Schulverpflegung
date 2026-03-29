@@ -397,11 +397,18 @@ Multipliziert man jetzt den Grundenergieumsatz des durchschnittlichen 14-Jährig
 
 Hier ist die Tabelle für den Tagesbedarf aller Altersgruppen von beiden Geschlechtern:
 
+
 | Altersgruppe | Größe ♂ | Gewicht ♂ | Grundumsatz ♂ | **Tagesbedarf ♂** | Größe ♀ | Gewicht ♀ | Grundumsatz ♀ | **Tagesbedarf ♀** |
 |---|---|---|---|---|---|---|---|---|
-| 10–13 Jahre | 149 cm | 40 kg | 1.274 kcal | **~2.038 kcal** | 152 cm | 43 kg | 1.266 kcal | **~2.026 kcal** |
-| 14–17 Jahre | 174 cm | 65 kg | 1.706 kcal | **~2.730 kcal** | 164 cm | 58 kg | 1.425 kcal | **~2.280 kcal** |
-| 18–19 Jahre | 178 cm | 75 kg | 1.842 kcal | **~2.948 kcal** | 165 cm | 63 kg | 1.461 kcal | **~2.338 kcal** |
+| 10–12 Jahre | 147 cm | 38 kg | 1.240 kcal | **~1.985 kcal** | 150 cm | 41 kg | 1.244 kcal | **~1.990 kcal** |
+| 13–15 Jahre | 166 cm | 54 kg | 1.529 kcal | **~2.446 kcal** | 162 cm | 54 kg | 1.388 kcal | **~2.221 kcal** |
+| 16–18 Jahre | 177 cm | 70 kg | 1.779 kcal | **~2.847 kcal** | 165 cm | 61 kg | 1.449 kcal | **~2.319 kcal** |
+
+
+
+
+
+
 
 #### Verteilung der Kalorienaufnahme über den Tag
 
@@ -416,12 +423,15 @@ Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und 
 Wobei die prozentuale Kalorienaufnahme der Mittagsmalzeit im Bereich von 25% [OMX] bis 35% [JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30% fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmalzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Malzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allearmeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
 
 Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmalzeit für alle Altersgruppen und beide Geschlechter:
+dann mach jetzt doch noch die tabelle mit nur 30 % des tagesbedarf für das mittagnessen. lass gewicht und größe aus.
 
-| Altersgruppe | Tagesbedarf (PAL = 1,6)♂ | **Mittagessen ♂ (30%)** | Tagesbedarf (PAL = 1,6) ♀ | **Mittagessen ♀ (30%)** |
+| Altersgruppe | Tagesbedarf ♂ | **Mittagessen ♂ (30%)** | Tagesbedarf ♀ | **Mittagessen ♀ (30%)** |
 |---|---|---|---|---|
-| 10–13 Jahre | ~2.038 kcal | **~611 kcal** | ~2.026 kcal | **~608 kcal** |
-| 14–17 Jahre | ~2.730 kcal | **~819 kcal** | ~2.280 kcal | **~684 kcal** |
-| 18–19 Jahre | ~2.948 kcal | **~884 kcal** | ~2.338 kcal | **~701 kcal** |
+| 10–12 Jahre | ~1.985 kcal | **~596 kcal** | ~1.990 kcal | **~597 kcal** |
+| 13–15 Jahre | ~2.446 kcal | **~734 kcal** | ~2.221 kcal | **~666 kcal** |
+| 16–18 Jahre | ~2.847 kcal | **~854 kcal** | ~2.319 kcal | **~696 kcal** |
+
+
 
 ### Kalorienaufnahme der Schulverpflegung
 
@@ -435,7 +445,29 @@ Es ergeben sich folgende Ergebnisse:
 
 
 ### Zwischenfazit
-Das mittlere Kalorienangebot ist für alle Altersgruppen deulich unterschritten.
+- Das mittlere Kalorienangebot ist für alle Altersgruppen deulich unterschritten. 
+- Bei Mädchen in der Alterskategorie 10-12 Jahre wurde der Kalorienbedarf nur um ~85% gedeckt. 
+- Bei Jungen in der Alterskategorie 16-18 Jahre wurde der Kalorienbedarf nur um ~60%.
+- Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5 mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
+- Dass ein Bauerneintopf mit nur 209 kcal noch ein Vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
+
+
+### Langfristige Folgen
+
+Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
+
+- Wachstum und Körpergröße
+Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
+- Knochen und Muskulatur
+Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30% des gesamten adulten Knochenmineralgehalts werden in diesen Jahren aufgebaut. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
+- Pubertät und Hormonsystem
+Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
+- Immunsystem und Wundheilung
+Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Energie und Mikronährstoffe fehlen.
+- Gehirn und kognitive Entwicklung
+Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Folgen, die sich bis ins Erwachsenenalter ziehen können.
+- Risiko für Essstörungen
+Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich, insbesondere wenn das Defizit bewusst herbeigeführt wird.
 
 
 
