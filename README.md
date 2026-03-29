@@ -374,8 +374,8 @@ So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusa
 #### Gesamtenergieumsatz
 Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitraggebern.
 #### Grundenergieumsatz unterschiedliche Formeln
-Der erste Beitraggeber ist der Grundenergieumsatz, also die Energie, die der Körper bei vollständiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Grundenergieumsatz gibt es unterschiedliche Formeln wie zum Beispiel die Formel der DGE, die der WHO und die Harris Bennedict Formel. Diese sind alle sehr ähnlich und berücksichtigen typischerweise Geschlecht, Alter, Körpergewicht und Körpergröße. Anhand der Harris Bennedict Formel werde ich jetzt den Grundenergieumsatz eines Durchschnittlichen 14 Jährigen Jungen berechnen. Die Grundformel für Jungen: [ \text{GU} = 66{,}47 + (13{,}7 \times \text{Gewicht in kg}) + (5{,}0 \times \text{Größe in cm}) - (6{,}8 \times \text{Alter in Jahren}) ] jetzt setze ich das durchshcnittliche Gewicht von 58 kg, das Alter von 14 Jahren und die Körpergröße von 167 cm ein: [ \text{GU} = 66{,}47 + (13{,}7 \times 58) + (5{,}0 \times 167) - (6{,}8 \times 14) ]
-[ = 66{,}47 + 794{,}6 + 835{,}0 - 95{,}2 = \textbf{1.600{,}87 kcal/Tag} ].
+Der erste Beitraggeber ist der Grundenergieumsatz, also die Energie, die der Körper bei vollständiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Grundenergieumsatz gibt es unterschiedliche Formeln wie zum Beispiel die Formel der DGE, die der WHO und die Harris Bennedict Formel. Diese sind alle sehr ähnlich und berücksichtigen typischerweise Geschlecht, Alter, Körpergewicht und Körpergröße. Anhand der Harris Bennedict Formel werde ich jetzt den Grundenergieumsatz eines Durchschnittlichen 14 Jährigen Jungen berechnen. Die Grundformel für Jungen: GU = 66,47 + 13,7 x Gewicht in kg + 5,0 x Größe in cm - 6,8 x Alter in Jahren  jetzt setze ich das durchshcnittliche Gewicht von 58 kg, das Alter von 14 Jahren und die Körpergröße von 167 cm ein: GU = 66,47 + 13,7 x 58 + 5,0 x 167 - 6,8 x 14
+ = 66,47 + 794,6 + 835,0 - 95,2 = 1.600,87 kcal/Tag.
 Körperliche Aktivität
 
 
