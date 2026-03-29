@@ -371,15 +371,24 @@ So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusa
 
 ### Kalorienbedarf
 
+#### Gesamtenergieumsatz
+Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitraggebern.
+#### Grundenergieumsatz unterschiedliche Formeln
+Der erste Beitraggeber ist der Grundenergieumsatz, also die Energie, die der Körper bei vollständiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Grundenergieumsatz gibt es unterschiedliche Formeln wie zum Beispiel die Formel der DGE, die der WHO und die Harris Bennedict Formel. Diese sind alle sehr ähnlich und berücksichtigen typischerweise Geschlecht, Alter, Körpergewicht und Körpergröße. Anhand der Harris Bennedict Formel werde ich jetzt den Grundenergieumsatz eines Durchschnittlichen 14 Jährigen Jungen berechnen: 
+Körperliche Aktivität
+
+
+
+
+Der kalorienbedarf eines Jugendlichen ergibt sich aus 2 Faktoren. Der erste ist der Grundumsatz, welcher sich aus Körpergröße, Geschlecht, Alter und Gewicht ergibt. Dies wird zum Beispiel mit der Harris Bennedict Formel berechnet. Der zweite ist Faktor ist der
+
+
 | Altersgruppe | Weiblich | Männlich |
 |---|---|---|
 | 10–13 Jahre | ~2.000 kcal | ~2.200 kcal |
 | 14–17 Jahre | ~2.200 kcal | ~2.900 kcal |
 | 18–19 Jahre | ~2.200 kcal | ~2.800 kcal |
 
-Quellen:
-[1] [PDF] Ausgewählte Fragen und Antworten zur Energiezufuhr - DGE https://www.dge.de/fileadmin/dok/gesunde-ernaehrung/faq/DGE-FAQ-Energie-2015.pdf
-[2] Ausgewählte Fragen und Antworten zur Energiezufuhr | DGE https://www.dge.de/gesunde-ernaehrung/faq/energiezufuhr/
 
 
 ## Quellennachweis
@@ -392,6 +401,8 @@ Quellen:
 - [WDGE] https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Ern%C3%A4hrung
 - [SQS] https://www.gemeinsamgutessen.de/fileadmin/nqz/publikationsdateien/20150625INFORM_StudieQualitaetSchulverpflegung.pdf
 - [TKSV] https://www.tressbrueder.de/catering-bio/#kinder-catering
+- [FAQE] https://www.dge.de/fileadmin/dok/gesunde-ernaehrung/faq/DGE-FAQ-Energie-2015.pdf
+
 
 ## Hilfsmittel
 "Einfach können, Schriftliche Arbeit" von Björn Rothstein, 1. Auflage, 2023
