@@ -245,7 +245,8 @@ Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mang
 Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 40% unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
 
-
+#### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
+tbc
 
 
 
@@ -457,7 +458,7 @@ Folgende Punkte sind noch anzumerken:
 - Dass ein Bauerneintopf mit nur 209 kcal noch ein Vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
 
 
-### Langfristige Folgen
+### Langfristige Folgen eines Kaloriendefizits
 
 Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
 
