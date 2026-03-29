@@ -417,15 +417,25 @@ Wobei die prozentuale Kalorienaufnahme der Mittagsmalzeit im Bereich von 25% [OM
 
 Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmalzeit für alle Altersgruppen und beide Geschlechter:
 
-| Altersgruppe | Tagesbedarf ♂ | **Mittagessen ♂ (30%)** | Tagesbedarf ♀ | **Mittagessen ♀ (30%)** |
+| Altersgruppe | Tagesbedarf (PAL = 1,6)♂ | **Mittagessen ♂ (30%)** | Tagesbedarf (PAL = 1,6) ♀ | **Mittagessen ♀ (30%)** |
 |---|---|---|---|---|
 | 10–13 Jahre | ~2.038 kcal | **~611 kcal** | ~2.026 kcal | **~608 kcal** |
 | 14–17 Jahre | ~2.730 kcal | **~819 kcal** | ~2.280 kcal | **~684 kcal** |
 | 18–19 Jahre | ~2.948 kcal | **~884 kcal** | ~2.338 kcal | **~701 kcal** |
 
+### Kalorienaufnahme der Schulverpflegung
+
+Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, habe ich die Daten meiner Feldstudie herangezogen. Ich habe anschließend für jedes Gericht die Makronährstoffe abgeschätzt(Fette, Kohlenhydrate, Proteine und Ballaststoffe), und daraus das Kalorienangebot abgeschätzt. Für die Abstchätzung der Zusammensetzung habe ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht genutzt. Darüber hinaus habe ich KI verwendet, und meine Oma, die promovierte Ernährungsberaterin ist, hat die Ergebnisse plausibilisiert. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ±20% beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5%. 
+
+Es ergeben sich folgende Ergebnisse:
+
+- Das Gericht mit dem geringsten Kaloriengehalt war der Vegetarische Bauerneintopf mit geschätzt 230 kcal (±20%)
+- Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (±20%)
+- Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (±5%)
 
 
-
+### Zwischenfazit
+Das mittlere Kalorienangebot ist für alle Altersgruppen deulich unterschritten.
 
 
 
