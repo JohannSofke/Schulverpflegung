@@ -378,20 +378,33 @@ Der erste Beitraggeber ist der Grundenergieumsatz, also die Energie, die der Kö
 -  durchschnittliches Gewicht M = 58 kg
 -  Alter T = 14 Jahren
 -  Körpergröße l = 167 cm
+-  Die Formel ist für Jungen, weshalb ich das Geschlecht nicht mehr in die Formel einbauen muss. Für Mädchen gibt es eine andere Formel.  
 
 GU = 66,47 + 13,7 × 58 + 5,0 × 167 - 6,8 × 14 = 66,47 + 794,6 + 835,0 - 95,2 = 1.600,87 kcal/Tag.
+Der Grundumsatz eines Durchschnittlichen 14 Jährigen Jungen ist 1.600 kcal am Tag. 
+
+#### Grad an Physischer Aktivität
+Der zweite Beitraggeber ist der Grad an Physischer Aktivitat, auch  PAL-Faktor genannt. Dieser Faktor wird mit dem Grundumsatz Multipliziert. Hier sind Die PAL-Faktoren für unterschiedliche Bewegungsgrade: 
+
+- Sitzende oder liegende Aktivität: 1,4
+- Überwiegend sitzen, teilweise stehen oder gehen: 1,6
+- Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
+- Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
+
+Multipliziert man jetzt den Grundenergieumsatz des durchschnittlichen 14-Jährigen Jungen von 1.600 kcal mit dem PAL-Wert von einem Durchschnittlichen Schulalltag von 1,6, so kommt man auf einen Gesamtenergieumsatz von 2.500 kcal.
+
+#### Zwischenfazit
+
+zeige nochmal nur die tabelle
+
+| Altersgruppe | Größe ♂ | Gewicht ♂ | Grundumsatz ♂ | **Tagesbedarf ♂** | Größe ♀ | Gewicht ♀ | Grundumsatz ♀ | **Tagesbedarf ♀** |
+|---|---|---|---|---|---|---|---|---|
+| 10–13 Jahre | 149 cm | 40 kg | 1.274 kcal | **~2.038 kcal** | 152 cm | 43 kg | 1.266 kcal | **~2.026 kcal** |
+| 14–17 Jahre | 174 cm | 65 kg | 1.706 kcal | **~2.730 kcal** | 164 cm | 58 kg | 1.425 kcal | **~2.280 kcal** |
+| 18–19 Jahre | 178 cm | 75 kg | 1.842 kcal | **~2.948 kcal** | 165 cm | 63 kg | 1.461 kcal | **~2.338 kcal** |
 
 
 
-
-Der kalorienbedarf eines Jugendlichen ergibt sich aus 2 Faktoren. Der erste ist der Grundumsatz, welcher sich aus Körpergröße, Geschlecht, Alter und Gewicht ergibt. Dies wird zum Beispiel mit der Harris Bennedict Formel berechnet. Der zweite ist Faktor ist der
-
-
-| Altersgruppe | Weiblich | Männlich |
-|---|---|---|
-| 10–13 Jahre | ~2.000 kcal | ~2.200 kcal |
-| 14–17 Jahre | ~2.200 kcal | ~2.900 kcal |
-| 18–19 Jahre | ~2.200 kcal | ~2.800 kcal |
 
 
 
