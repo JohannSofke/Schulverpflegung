@@ -233,7 +233,7 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 ### Zwischenfazit
 
-Von den sieben bewerteten Kriterien konnten sechs beurteilt werden – eines davon wurde erfüllt, fünf wurden nicht erfüllt. Die folgende Analyse reflektiert diese Ergebnisse.
+Von den sieben bewerteten Kriterien konnten sechs beurteilt werden – eines davon wurde erfüllt, fünf wurden nicht erfüllt. Die folgende Analyse reflektiert diese Ergebnisse:
 
 #### DGE-Häufigkeitsvorgaben
 Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkomponenten wurden deutlich und erheblich nicht erfüllt. Bei den meisten Komponenten lag die tatsächliche Häufigkeit um den Faktor 2–4 unterhalb des jeweiligen DGE-Mindestwerts – eine signifikante Abweichung von den etablierten Ernährungsrichtlinien. Dies ist besonders auffällig, da der Caterer Tressbrüder auf seiner Website ausdrücklich mit einer DGE-konformen Schulverpflegung wirbt und der Verpflegungsbeauftragte Team Gutes Essen bestätigte mir gegenüber, dass sich das Verpflegungsangebot an den DGE-Leitlinien orientiert. Die einzige Ernährungskomponente, die in ausreichender Menge angeboten wurde, ist Wasser – das jedoch aus schuleigenen Trinkautomaten stammt und nicht von Tressbrüdern geliefert wird.
@@ -243,6 +243,13 @@ Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mang
 
 #### Kaloriendefizit
 Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 40% unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+
+
+
+
+
+
+
 
 
 ## Weitere Kriterien zur Planung
@@ -361,6 +368,18 @@ Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen z
 - Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nachhause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Herr Thomas Schmitt, Vorsitzender des Gesamtelternbeirats, wertet die Unzufriedenheit der Schüler ab: "Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein" und stellt vorweg: "Es sind Grundschüler".
 
 So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team "Gutes Essen") koordiniert und moderiert werden. 
+
+### Kalorienbedarf
+
+| Altersgruppe | Weiblich | Männlich |
+|---|---|---|
+| 10–13 Jahre | ~2.000 kcal | ~2.200 kcal |
+| 14–17 Jahre | ~2.200 kcal | ~2.900 kcal |
+| 18–19 Jahre | ~2.200 kcal | ~2.800 kcal |
+
+Quellen:
+[1] [PDF] Ausgewählte Fragen und Antworten zur Energiezufuhr - DGE https://www.dge.de/fileadmin/dok/gesunde-ernaehrung/faq/DGE-FAQ-Energie-2015.pdf
+[2] Ausgewählte Fragen und Antworten zur Energiezufuhr | DGE https://www.dge.de/gesunde-ernaehrung/faq/energiezufuhr/
 
 
 ## Quellennachweis
