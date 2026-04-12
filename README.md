@@ -264,21 +264,13 @@ Eine unausgewogene Ernährung mit Mangel an Proteinen, Vollkornprodukten, Fetten
 - **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und erhöht das Risiko für Darmkrebs signifikant. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
 
 
+Es bleibt zu prüfen, ob sich hierraus rechtliche konsequenzen für den Betreiber oder die Akteure ergeben können. Zusmindestens erkenne ich in diesen Ergebnissen ein ernstes moralisches Problem, wenn die Schüler in der Schule mit einem derart ungenügenden Mittagsmenü versorgt werden.
+
+
+
 
 #### Kaloriendefizit
 Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 40% unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -505,7 +497,7 @@ Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und N�
 - Risiko für Essstörungen
 Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich, insbesondere wenn das Defizit bewusst herbeigeführt wird.
 
-Es bleibt zu prüfen, ob sich hierraus rchtliche konseequenzen für den Betreiber oder die Akteure ergeben können.
+Es bleibt zu prüfen, ob sich hierraus rechtliche konsequenzen für den Betreiber oder die Akteure ergeben können.
 
 
 
