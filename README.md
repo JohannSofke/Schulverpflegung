@@ -277,23 +277,23 @@ Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzw
 
 ## Weitere Kriterien zur Planung
 
-In Kapitel 4.1 des DGE Qualitätsstandarts werden außerdem weitere Kriterien an die Speiseplanung gestellt. Diese werde ich in diesem Kapitel bewerten. 
+In Kapitel 4.1 des DGE Qualitätsstandarts werden außerdem weitere Kriterien an die Speiseplanung gestellt. Di  ese werde ich in diesem Kapitel bewerten. 
 
 
 
 #### Ovo-lacto-vegetarisches Angebot
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verpflegungstag angeboten wird. 
 
-**Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine "Veg-fit" heißt, die immer Vegetarisch ist, und die andere "Klima-fit" ist, welche auch Fleisch beinhaltet. Hierbei liegt das Problem bei den Namen: aus "Veg-fit" lässt sich nicht erschließen, ob es sich um eine Vegetarische oder Vegane Menülinie handelt. Der Name "Klimafit" lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klaare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird. 
+**Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine "Veg-fit" heißt, die immer Vegetarisch ist, und die andere "Klima-fit" ist, welche auch Tierische Produkte beinhaltet. Hierbei liegt das Problem bei den Namen: aus "Veg-fit" lässt sich nicht erschließen, ob es sich um eine Vegetarische oder Vegane Menülinie handelt. Der Name "Klimafit" lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klaare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird. 
 
-**Ergebnis:** Dieses Kriterium bewerte ich als teilweise erfüllt. 
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
-**Verbesserungsvorschlag:** Meine Schlussvolgerung ist, dass die Menülinien Vegetarisch und Mischkost genannt werden sollten, um Verwirrung zu vermeiden.
+**Verbesserungsvorschlag:** Meine Schlussvolgerung ist, dass die Menülinien Vegetarisch und Mischkost genannt werden sollten, um für Klahrheit zu sorgen.
 
 
 #### Abwechslungsreiches Angebot von Getreide, Getreideprodukte und Kartoffeln
 
-**Beschreibung des Kriteriums:** Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechlungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel,  Grünkern, Bulgur und Hirse berwendet wird. 
+**Beschreibung des Kriteriums:** Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechlungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel, Grünkern, Bulgur und Hirse verwendet wird. 
 
 
 **Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Tagen angeboten. Das unterteilte sich in 
@@ -303,6 +303,7 @@ In Kapitel 4.1 des DGE Qualitätsstandarts werden außerdem weitere Kriterien an
 - 1 × Albbuchweizenbällchen
 - 1 × Dinkelknödel
 Die Verteilung hat durchaus Abwechslung, es ist jedoch noch Luft nach oben.
+
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
 **Verbesserungsvorschlag:** Es sollte angegeben sein, ob ein Getreideprodukt Vollkorn ist. Außerdem gibt es noch viele Getreidesorten, die noch nicht serviert wurden. Mais, Graupen, Hirse, Hafer, Roggen, Grünkern und Bulgur. 
@@ -318,13 +319,13 @@ Innerhalb der 20 verpflegungstage wurde eimal ein paniertes Produkt und einmal e
 
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
-**Verbesserungsvorschlag:** Es sollte im Speiseplan hinterlegt sein, ob Teile des Gerichts frittiert sind. Es wäre so einfacher, frittierte und panierte Gerichte zu umgehen.
+**Verbesserungsvorschlag:** Es sollte im Speiseplan hinterlegt sein, ob Teile des Gerichts frittiert sind. Es wäre so einfacher, frittierte und panierte Gerichte zu meiden.
 
 #### Das saisonale Gemüse- und Obst Angebot
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass das saisonale Gemüse- und Obst Angebot berücksichtigt ist. 
 
-**Durchführung:** Zur Bewertung habe ich alle Obst- und Gemüsesorten, welche in den 20 Verpflegungstagen serviert wurden, aufgelistet, und bewertet, ob diese zu der saison Oktober bis Dezember passen:
+**Durchführung:** Zur Bewertung habe ich alle Obst- und Gemüsesorten, welche in den 20 Verpflegungstagen serviert wurden, aufgelistet und bewertet, ob diese zu der saison Oktober bis Dezember passen:
 
 
 - Paprika: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober. 
@@ -342,32 +343,42 @@ Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten
 
 **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. 
 
-**Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage damit, dass ihre Gerichte Saisonal sind.
+**Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage fälschlicherweise damit, dass ihre Gerichte Saisonal sind.
 
 #### Einheimische Lebensmittel
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass einheimische Lebensmittel im Speiseplan bevorzugt werden.
 
-**Durchführung:** Ich habe dieses Kriterium nicht bewertet, da ich nicht belegen kann, ob die Zutaten der Gerichte aus der Region kommen. Es werden jedoch selten Exotische Lebensmittel wie zum Beispiel Reis serviert. Das ist aber kein Beleg, dass die Bestandteile des Gerichts wie Kartoffeln oder Gemüse aus der Region kommen. 
+**Durchführung:** Ich habe dieses Kriterium nicht bewertet, da ich nicht belegen kann, ob die Zutaten der Gerichte aus der Region kommen. Es wurden jedoch häufig Exotische Lebensmittel wie zum Beispiel Reis serviert.
 
-**Verbesserungsvorschlag:** Die Herkunft der Lebensmittel sollte auf dem Speiseplan hinterlegt sein, so wie es bei dem Verkauf von Lebensmitteln üblich, zum Teil sogar Verplfichtet ist. Das Kriterium habe ich nicht bewertet. Dennoch denke ich, dass das Obst und Gemüseangebot mit hoher Warscheinlichkeit nicht aus der Region kommen kann, da die gelieferten Obst und Gemüsesorten zu dieser Saison auch nicht in der Region angebaut werden. 
+**Verbesserungsvorschlag:** Die Herkunft der Lebensmittel sollte auf dem Speiseplan hinterlegt sein, so wie es bei dem Verkauf von Lebensmitteln üblich, zum Teil sogar Verplfichtend ist. Das Kriterium habe ich nicht bewertet. Dennoch denke ich, dass das Obst und Gemüseangebot mit hoher Warscheinlichkeit nicht aus der Region kommen kann, da die gelieferten Obst und Gemüsesorten zu dieser Saison auch nicht in der Region angebaut werden können. 
 
 
 #### Industriell hergestellte Alternativen zu Fleisch und Fisch
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in der Mittagsverpflegung hergestellte Alternativen zu Fleisch und Fisch maximal 4 mal in 20 Verpflegungstagen angeboten werden. Diese Alternativen können auf Basis von folgenden Lebensmitteln hergestellt werden: Soja, Tofu, Lupinen, Pilz oder Milch.
 
-Beispiel:
 
-**Bewertung des Kriteriums:** Hier habe ich eine Liste von allen Gerichten mit industriell hergestellten Alternativen zu Fleisch und Fisch in den 20 Verpflegungstagen erstellt:
+**Durchführung:** Hier habe ich eine Liste von allen Gerichten mit industriell hergestellten Alternativen zu Fleisch und Fisch in den 20 Verpflegungstagen erstellt:
 
 Linsenbratlinge(Linsen)
 
-Es wurde im Ergebnis 1 mal industrielle Alternativen zu Fleisch und Fisch innerhalb von 20 Verpflegungstagen angeboten. 
+Es wurden  insgesamt 1 mal industrielle Alternativen zu Fleisch und Fisch innerhalb von 20 Verpflegungstagen angeboten. 
 
-**Verbesserungsvorschlag:** Es war Schwierig, herauszufinden, ob die Gerichte Fleischalternativen sind, und ob sie Soja enthalten. Nur durch den Speiseplan im Internet konnte ich das herausfinden. Außerdem sollte die DGE den Begriff "Industriell hergestellte Alternative zu Fleisch und Fisch" exakter definieren, sodass man die Einhaltung des Kriteriums besser überprüfen kann. Das Kriterium bewerte ich als erfüllt.
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
+
+**Verbesserungsvorschlag:** Es war nicht aus dem Speiseplan offensichtlich, ob die Gerichte Fleischalternativen enthalten. Außerdem sollte die DGE den Begriff "Industriell hergestellte Alternative zu Fleisch und Fisch" exakter definieren, sodass man die Einhaltung des Kriteriums besser überprüfen kann. 
+
+**Ergebnis:** Das Kriterium bewerte ich als erfüllt.
 
 
+#### Getränke
+
+**Beschreibung des Kriteriums:** Deses Kriterium fordert, dass den Schülern in der Mittagsverpflegung midestens 0,2 Liter eines energiefreien Getränkes zur Verfügung gestellt werden soll. 
+
+**Durchführung:** In den 20 Verpflegungstagen wurden von der Mensa für jeden Tisch Wasserkaraffen zur Verfügung gestellt, aus denen sich jeder Schüler nach belieben Wasser einschenken konnte. Diese Wasserkaraffen wurden auch regelmäßig von dem Mensapesonal aufgefüllt. 
+
+**Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
 
 
