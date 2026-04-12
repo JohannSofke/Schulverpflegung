@@ -253,10 +253,10 @@ Eine unausgewogene Ernährung mit Mangel an Proteinen, Ballaststoffen, Mikronäh
 - Ballaststoffmangel: Eine ballaststoffarme Ernährung verursacht chronische Verdauungsprobleme wie Verstopfung und erhöht das Risiko für Darmkrebs signifikant.
 - Mikronährstoffmangel: Fehlen Vitamine und Mineralstoffe dauerhaft, schwächt sich das Immunsystem, und die Anfälligkeit für Infekte steigt.
 - Zu wenig Vollkornprodukte: Vollkornprodukte enthalten deutlich mehr Ballaststoffe, B-Vitamine, Mineralstoffe wie Magnesium und Eisen. Durch einen Mangel an Vollkornprodukten können folgende Probleme entstehen: 
--  Verdauungsprobleme
--  Erhöhter Blutzucker
-- Herz-Kreislauf-Erkrnkungen
-- Schwächeres Sättigungsgefühl, was zu Heißhungerattacken und somit zu Übergewicht führen kann.
+  - Verdauungsprobleme
+  - Erhöhter Blutzucker
+  - Herz-Kreislauf-Erkrnkungen
+  - Schwächeres Sättigungsgefühl, was zu Heißhungerattacken und somit zu Übergewicht führen kann.
 
 
 
