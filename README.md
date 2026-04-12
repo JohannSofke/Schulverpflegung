@@ -392,6 +392,26 @@ Während der Feldstudie, welche am 6. Oktober begann und am 25. November endete,
 Dieses Kriterium bewerte ich als erfüllt.
 
 
+#### Zusammenstellung der Speisen
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Speisen bunt und abwechslungsreich gestaltet sind. Hier wird vorallem eine Farbliche Zusammenstellung der Bestandteile betont.
+
+**Durchführung:** Zur Bewertung habe ich notiert, in wie vielen von 20 Gerichten folgende Farben vorkommen:
+
+- Grün: 1(In form von wenigen Erbsen)
+- Rot: 7
+- Blau: 0
+- Orange: 4
+- Lila: 1
+- Gelb-Braun Töne: 15
+
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt, da die Farben Grün und Orange nur sehr selten vorkamen, jedoch die weniger ansprechenden Töne wie Gelb und Braun häufig vorkamen. 
+
+**Verbesserungsvorschlag:** Um das Kriterium eindeutig bewerten zu können, müsste die DGE es exakter formulieren, was ihr hier nicht gelungen ist.
+
+
+
 
 
 
