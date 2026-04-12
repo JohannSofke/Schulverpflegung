@@ -487,6 +487,12 @@ Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebens
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. 
 
 
+#### Verwendung von Palmkern- und Kokosfett.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass Produkte ohne Palmkernöl, Palmkernfett und Kokosfett bevorzugt werden.
+
+**Durchführung:** Dieses Kriterium kann ich nicht bewerten, da ich keinen Zugriff auf den Anteil der entsprechenden Fette und Öle im Essen der Schulverpflegung habe.
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
