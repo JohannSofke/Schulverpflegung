@@ -433,6 +433,16 @@ Dieses Kriterium bewerte ich als erfüllt.
 **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt. Trotzdem hatte ich nicht das Gefühl, dass sih seit dem die Qualität nachn den wünschen und Bewertungen der Schüler verändert hat. 
 
 
+#### Kulturspezifische, regionale und religiöse Essgewohnheiten
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass Kulturspeziefische, regionale und religiöse Essgewohnheiten berücksichtigt werden. Dies kann zum Beispiel durch Projektwochen mit Speisen aus unterschiedlichen Regionen, Ländern oder Großereignissen ermöglicht werden. 
+
+**Durchführung:** In der gesamten Zeit gab es nur einmal solch eine Aktion. Jedoch wurden auch Gerichte serviert, die nicht traditionell aus Italien kommen, wie zum Beispiel Pizzasuppe, welche ein Deutsches Partygericht ist. Auch gibt es an unserer Schule fast keine Italienische Schüler, dafür aber sehr viele Muslimische Schüler, deren Essgewohnheiten in der Speiseplanung nicht berücksichtigt wurden. 
+
+**Ergebnis:** Da die Religiösen Essgewohnheiten des Islams nicht beachtet werden, und ein Großteil der Schüler unserer Schule dem Islam angehört, bewerte ich dieses Kriterium als nicht erfüllt.
+
+
+
 
 ## Anhang
 
