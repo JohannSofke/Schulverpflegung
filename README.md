@@ -493,6 +493,14 @@ Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebens
 **Durchführung:** Dieses Kriterium kann ich nicht bewerten, da ich keinen Zugriff auf den Anteil der entsprechenden Fette und Öle im Essen der Schulverpflegung habe.
 
 
+#### Verwendung von Lebensmittel mit geringem Anteil an Zucker, Salz und Fett
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass Lebensmittel mit einem geringen Anteil an Zucker, Salz, Fett, gesättigten Fettsäuren und einer geringen Energiedichte ausgewählt werden. 
+
+**Durchführung:** Da ich nicht Zugriff auf den Zucker, Fett und Salz habe, kann ich dieses Kriterium nicht bewerten. Allerdings hatte ich häufig den Eindruck, dass das Essen sehr stark Gewürz war, was jedoh nur meine subjektive Meinung ist und nicht in die Bewertung mit einfließt.
+
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
