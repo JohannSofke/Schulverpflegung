@@ -478,6 +478,15 @@ Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebens
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
 
+#### Kombination von stark- und geringverarbeiteten Lebensmitteln
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass stark verarbeitete Lebensmittel immer mit geringverarbeiteten Lebensmitteln kombiniert oder ergänzt werden.
+
+**Durchführung:** Zur Bewertung habe ich für jedes Gericht den am wenigsten verarbeiteten Bestandteil nach meinem Score bewertet. Dabei hatten nur 6 der 20 Gerichte einen Bestandteil, den ich in Klasse 2 eingeordnet habe. Die restlichen 14 Gerichte bestanden ausschließlich aus Lebensmitteln der Klasse 3 und Klasse 4.
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. 
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
