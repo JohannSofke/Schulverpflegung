@@ -239,6 +239,17 @@ Von den sieben bewerteten Kriterien konnten sechs beurteilt werden – eines dav
 Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkomponenten wurden deutlich und erheblich nicht erfüllt. Bei den meisten Komponenten lag die tatsächliche Häufigkeit um den Faktor 2–4 unterhalb des jeweiligen DGE-Mindestwerts – eine signifikante Abweichung von den etablierten Ernährungsrichtlinien. Dies ist besonders auffällig, da der Caterer Tressbrüder auf seiner Website ausdrücklich mit einer DGE-konformen Schulverpflegung wirbt und der Verpflegungsbeauftragte Team Gutes Essen bestätigte mir gegenüber, dass sich das Verpflegungsangebot an den DGE-Leitlinien orientiert. Die einzige Ernährungskomponente, die in ausreichender Menge angeboten wurde, ist Wasser – das jedoch aus schuleigenen Trinkautomaten stammt und nicht von Tressbrüdern geliefert wird.
 
 #### Nährstoffzusammensetzung
+Die Närstoffmängel oder Überversorgungen habe ich im Folgenden kurz zusammengefasst:
+
+- Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen DGE.
+- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen DGE.
+- Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen DGE.
+- Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen DGE.
+- Die Häufigkeit von Fleisch überschreitet die Empfehlungen DGE.
+- Die Häufigkeit von Fisch unterschreitet die Empfehlungen DGE.
+
+
+
 Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mangel des Tressbrüder-Cateringangebots liegt nicht im Geschmack oder in der Kindgerechtheit der Speisen – wie häufig diskutiert wird –, sondern in der strukturell unvollständigen Nährstoffzusammensetzung der Menüs. Bisherige Lösungsversuche der verschiedenen Akteure konzentrierten sich nahezu ausschließlich auf die Frage der Akzeptanz, während die eigentliche Frage der Ernährungsqualität unbeachtet blieb. Diese Fehldiagnose des Problems hat bislang jede wirksame Korrekturmaßnahme verhindert.
 
 #### Kaloriendefizit
@@ -247,15 +258,18 @@ Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzw
 
 #### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
 
+
 Eine unausgewogene Ernährung mit Mangel an Proteinen, Ballaststoffen und Vollkornprodukten kann langfristig zu einer Vielzahl schwerwiegender Erkrankungen führen: 
 
 - Proteinmangel: Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung, Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen sehr problematisch, weil sich der Körper noch entwickelt, und ein Proteinmangel solche Körperlichen entwicklungen behindert.
-- Ballaststoffmangel: Eine ballaststoffarme Ernährung verursacht chronische Verdauungsprobleme wie Verstopfung und erhöht das Risiko für Darmkrebs signifikant.
+- Ballaststoffmangel: Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursacchen und erhöht das Risiko für Darmkrebs signifikant.
 - Zu wenig Vollkornprodukte: Vollkornprodukte enthalten deutlich mehr Ballaststoffe, B-Vitamine, Mineralstoffe wie Magnesium und Eisen. Durch einen Mangel an Vollkornprodukten können folgende Probleme entstehen: 
   - Verdauungsprobleme
   - Erhöhter Blutzucker
-  - Herz-Kreislauf-Erkrnkungen
+  - Herz-Kreislauf-Erkrankungen
   - Schwächeres Sättigungsgefühl, was zu Heißhungerattacken und somit zu Übergewicht führen kann.
+ 
+
 
 
 
