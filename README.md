@@ -500,6 +500,17 @@ Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebens
 **Durchführung:** Da ich nicht Zugriff auf den Zucker, Fett und Salz habe, kann ich dieses Kriterium nicht bewerten. Allerdings hatte ich häufig den Eindruck, dass das Essen sehr stark Gewürz war, was jedoh nur meine subjektive Meinung ist und nicht in die Bewertung mit einfließt.
 
 
+### Der Speiseplan
+Dieses Kapitel(4.1.3) beschreibt alle Kriterien zur Gestaltung und Bereitstellung des Speiseplans der Mittagsverpflegung.  
+
+#### Barrierefreie Zugänglichkeit des Speiseplans
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass des aktuelle Speiseplan vorab regelmäßig für Schüler und Eltern barrierefrei zugänglich ist. Dafür muss der Speiseplan online und vorort ausgehängt sein. 
+
+**Durchführung:** Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Verfügung stand, und die Tage, an denen er vorort aussgehängt war, gezählt. An 13 von 20 Tagen stand der aktuelle Speiseplan online zur Verfügung. An den anderen 7 Tagen war er online nicht Aktuell. An 2 von 20 Tagen wurde der Speiseplan mitsamt dem Zusatz der Allergene vorort ausgehängt, an den anderen 18 entweder garnicht, oder lediglich ohne die Allergene. Grundsätzlich hind er Speiseplan auch immer auf der Höhe eines Erwachsenen, wodurch er für die sehr kleinen Schüler nicht einsehbar ist.
+
+**Ergebnis:** Ich bewerte das Kriterium als nicht erfüllt.
+
 
 ## Anhang
 
