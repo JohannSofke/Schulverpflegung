@@ -469,6 +469,14 @@ bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen S
 
 Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebensmittel von seinem natürlichen Molekülprofil entfernt – ob durch Wegnahme oder Hinzufügung – desto höher die Klasse.
 
+#### Der Einsatz von unverarbeiteten oder geringverarbeiteten Lebensmitteln
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass unverarbeitete oder geringverarbeitete Lebensmittel zur weiteren Verarbeitung vor Ort bevorzugt eingesetzt werden. Unverarbeitete oder geringverarbeitete Lebensmittel entsprechen auf meiner Skala Klasse 1 und 2.
+
+**Durchführung:** Zur Bewertung habe ich jedes Gericht nach meiner Skala bewertet. Das Ergebnis zeigte, dass nur 3 der 20 Gerichte in Klasse 2 eingeteilt wurden und die restlichen 17 in Klasse 3. 
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
+
 
 ## Anhang
 
