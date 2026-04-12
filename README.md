@@ -381,6 +381,18 @@ Es wurden  insgesamt 1 mal industrielle Alternativen zu Fleisch und Fisch innerh
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt. 
 
 
+#### Der Menüzyklus
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass der Menüzyklus sich frühestens nach 4 Wochen wiederholt.
+
+**Durchführung:**
+Während der Feldstudie, welche am 6. Oktober begann und am 25. November endete, und somit 7 Wochen und einen Tag dauerte, konnte ich keine Wiederholungen des Menüzyklus feststellen. 
+
+**Ergebnis:**
+Dieses Kriterium bewerte ich als erfüllt.
+
+
+
 
 
 ## Anhang
