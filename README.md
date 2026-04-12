@@ -416,10 +416,9 @@ Dieses Kriterium bewerte ich als erfüllt.
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Teilnahme an Mahlzeiten mit Lebensmittelunverträglichkeiten oder Allergien möglich ist. Dies kann durch ein spezielles Essensangebot, das Abwählen bestimmter Komponenten des Gerichts oder durch den Verzehr eines von Zuhause mitgebrachten Essens ermöglicht werden.
 
-**Durchführung:** Auf dem Speiseplan im Internet wird vor Spuren von Eiern, Erdnüssen, Fisch, Gluten, Milch und weiteren Allergenen gewarnt. Die Tressbrüder garantieren den Schülern nicht, dass das Gericht Allergenfrei ist. Obwohl die Schüler die Möglichkeit haben, Bestandteile des Gerichts abzuwählen, können die Schüler mit Allergene nicht das Mensaessen Essen. Auch die Teilnahme am Mittagessen der Mensa mit dem Mitgebrachten Essen ist den Schülern nicht erlaubt.
+**Durchführung:** Der Hinweis zu allen möglichen Allergenen findet sich bei jeder einzelnen Komponente eines jeden Mittagsgerichtes. Somit ist es für einen Allergiker nicht möglich, allergenbelastete Komponenten abzuählen. Die Ergänzung zum Speiseplan mit den Ausgewiesenen Allergenen findet sich ausschließlich im Internet, nicht aber am Speiseplan Vorort. Auch die Teilnahme am Mittagessen der Mensa mit einem mitgebrachten Gericht ist den Schülern nicht erlaubt. Schüler, die ihr eigenes Mittagessen in die Mensa mitbringen, werden der Mensa verwiesen, wie ich es selbst schon miterlebt habe. 
 
-**Ergebnis:** Da alle 3 Möglichkeiten zur Verpflegung der Allergiker nicht genutzt wurden, bewerte ich dieses Kriterium als nicht erfüllt. Das Mensapersonal sollte es den Schülern mit Allergien zumindest ermöglichen, mit mitgebrachtem Essen an den Malzeiten Teilzunehmen.  
-
+**Ergebnis:** Den Allergikern wurde es nicht ermöglicht, am Mittagessen Teilzunehmen, weshalb ich dieses Kriterium als nicht erfüllt bewerte.
 
 
 
