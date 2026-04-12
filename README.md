@@ -513,6 +513,21 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 **Ergebnis:** Ich bewerte das Kriterium als nicht erfüllt.
 
 
+#### Eindeutige Bezeichnung der Speisen im Speiseplan 
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Speisen im Speiseplan eindeutig bezeichnet sind. Fantasienamen wie "Wikingerpfanne", nicht deutssprachige Begriffe wie "Ratatuille" und allgemeine Bezeichnungen wie Gemüseeintopf lassen nicht auf die Zutaten um Komponenten des Gerichtes schließen und werden daher nicht verwendet.
+
+**Durchführung:** Zur Bewertung habe ich zu jedem der 20 Gerichte Notiert, ob die Namensgebung der DGE Kriterien erfüllt. Bei 10 der 20 Gerichte war die Bezeichnung eindeutig, bei den restlichen 10 nicht. Negativbeispiele: 
+
+- Chilli con Carne
+- Bauerneintopf
+- Vegetarisches Pliz-Ragout
+
+
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. 
+
+
 #### Informationen über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass auf dem Speiseplan über Allergene und kennzeichnungspflichtige Lebensmittelzusaztstoffe Informiert wird.
