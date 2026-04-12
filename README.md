@@ -248,27 +248,28 @@ Die Närstoffmängel habe ich im Folgenden kurz zusammengefasst:
 - Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE.
 - Die Häufigkeit von Fisch und fettreichem Fisch unterschreitet die Empfehlungen der DGE.
 
-
-
 Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mangel des Tressbrüder-Cateringangebots liegt nicht im Geschmack oder in der Kindgerechtheit der Speisen – wie häufig diskutiert wird –, sondern in der strukturell unvollständigen Nährstoffzusammensetzung der Menüs. Bisherige Lösungsversuche der verschiedenen Akteure konzentrierten sich nahezu ausschließlich auf die Frage der Akzeptanz, während die eigentliche Frage der Ernährungsqualität unbeachtet blieb. Diese Fehldiagnose des Problems hat bislang jede wirksame Korrekturmaßnahme verhindert.
+
+#### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
+
+Eine unausgewogene Ernährung mit Mangel an Proteinen, Vollkornprodukten, Fetten und Ballaststoffen kann langfristig zu einer Vielzahl schwerwiegender Folgen führen:
+
+- **Proteine:** Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung sowie Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen besonders problematisch, weil sich der Körper noch in der Entwicklung befindet und ein Proteinmangel diese körperlichen Prozesse hemmt. Grundsätzlich gilt hierbei, dass nicht nur die Menge des aufgenommenen Proteins entscheidend ist, sondern auch dessen Aminosäurenprofil eine optimale Zusammensetzung aufweisen muss, damit der Körper die Proteine vollständig verwerten kann. Bei pflanzlicher Ernährung ist jedoch die Kombination unterschiedlicher Proteinquellen erforderlich, um ein ausgewogenes Aminosäurenprofil zu gewährleisten.
+- **Kohlenhydrate:** Ein Mangel an hochwertigen Kohlenhydraten in Form von Vollkornprodukten führt zu:
+  - Verdauungsproblemen
+  - Erhöhtem Blutzucker
+  - Herz-Kreislauf-Erkrankungen
+  - Einem schwächeren Sättigungsgefühl, was Heißhungerattacken und in der Folge Übergewicht begünstigen kann
+- **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen, was sich negativ auf schulische Bildung auswirkt.
+- **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und erhöht das Risiko für Darmkrebs signifikant. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
+
+
 
 #### Kaloriendefizit
 Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 40% unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
 
-#### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
 
-
-Eine unausgewogene Ernährung mit Mangel an Proteinen, Ballaststoffen und Vollkornprodukten kann langfristig zu einer Vielzahl schwerwiegender Erkrankungen führen: 
-
-- Proteinmangel: Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung, Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen sehr problematisch, weil sich der Körper noch entwickelt, und ein Proteinmangel solche Körperlichen entwicklungen behindert.
-- Ballaststoffmangel: Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursacchen und erhöht das Risiko für Darmkrebs signifikant.
-- Zu wenig Vollkornprodukte: Vollkornprodukte enthalten deutlich mehr Ballaststoffe, B-Vitamine, Mineralstoffe wie Magnesium und Eisen. Durch einen Mangel an Vollkornprodukten können folgende Probleme entstehen: 
-  - Verdauungsprobleme
-  - Erhöhter Blutzucker
-  - Herz-Kreislauf-Erkrankungen
-  - Schwächeres Sättigungsgefühl, was zu Heißhungerattacken und somit zu Übergewicht führen kann.
-- Mangel an Hochwertigen Fetten: Fettreicher Fisch wie Lachs, Makrele oder Hering ist die wichtigste natürliche Quelle für Omega-3-Fettsäuren, die der Körper kaum selbst herstellen kann. Da sich das Gehirn bis ins frühe Erwachsenenalter entwickelt, ist ein Mangel bei Jugendlichen besonders kritisch und kann für schlechtere kognitive Leistungen und Konzentrationprobleme sorgen, weche für die Bildung an der Schule besonders Problematisch sind.
 
 
 
