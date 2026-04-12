@@ -239,14 +239,14 @@ Von den sieben bewerteten Kriterien konnten sechs beurteilt werden – eines dav
 Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkomponenten wurden deutlich und erheblich nicht erfüllt. Bei den meisten Komponenten lag die tatsächliche Häufigkeit um den Faktor 2–4 unterhalb des jeweiligen DGE-Mindestwerts – eine signifikante Abweichung von den etablierten Ernährungsrichtlinien. Dies ist besonders auffällig, da der Caterer Tressbrüder auf seiner Website ausdrücklich mit einer DGE-konformen Schulverpflegung wirbt und der Verpflegungsbeauftragte Team Gutes Essen bestätigte mir gegenüber, dass sich das Verpflegungsangebot an den DGE-Leitlinien orientiert. Die einzige Ernährungskomponente, die in ausreichender Menge angeboten wurde, ist Wasser – das jedoch aus schuleigenen Trinkautomaten stammt und nicht von Tressbrüdern geliefert wird.
 
 #### Nährstoffzusammensetzung
-Die Närstoffmängel oder Überversorgungen habe ich im Folgenden kurz zusammengefasst:
+Die Närstoffmängel habe ich im Folgenden kurz zusammengefasst:
 
-- Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen DGE.
-- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen DGE.
-- Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen DGE.
-- Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen DGE.
-- Die Häufigkeit von Fleisch überschreitet die Empfehlungen DGE.
-- Die Häufigkeit von Fisch unterschreitet die Empfehlungen DGE.
+- Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von Fisch und fettreichem Fisch unterschreitet die Empfehlungen der DGE.
 
 
 
@@ -268,7 +268,10 @@ Eine unausgewogene Ernährung mit Mangel an Proteinen, Ballaststoffen und Vollko
   - Erhöhter Blutzucker
   - Herz-Kreislauf-Erkrankungen
   - Schwächeres Sättigungsgefühl, was zu Heißhungerattacken und somit zu Übergewicht führen kann.
- 
+- Mangel an Hochwertigen Fetten: Fettreicher Fisch wie Lachs, Makrele oder Hering ist die wichtigste natürliche Quelle für Omega-3-Fettsäuren, die der Körper kaum selbst herstellen kann. Da sich das Gehirn bis ins frühe Erwachsenenalter entwickelt, ist ein Mangel bei Jugendlichen besonders kritisch und kann für schlechtere kognitive Leistungen und Konzentrationprobleme sorgen, weche für die Bildung an der Schule besonders Problematisch sind.
+
+
+
 
 
 
