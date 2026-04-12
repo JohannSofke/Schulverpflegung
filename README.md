@@ -422,6 +422,18 @@ Dieses Kriterium bewerte ich als erfüllt.
 
 
 
+#### Wünsche und Anregungen der Schüler
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Wünsche und Anregungen der Schüler soweit wie möglich bei der Speiseplanung berücksichtigt sind. Dies kann durch persöhnliche Gespräche, Fragebögen oder den Verpflegungsausschuss erfolgen. 
+
+**Beispiel:** Füge Foto von Fragebogen ein.
+
+**Durchführung:** In dem Zeitraum der Feldstudie fanden keine Umfagen statt. Jedoch wurden ab dem 15. Dezember ein Block mit fragebögen, und eine Wahlurne aufgestellt. Hier können die Schüler ihre Wünsche äußern, sowie das bisherige Essen nach den Kriterien Auswahl, Geschmack, Aussehen und Menge bewerten.
+
+**Ergebnis:** Ich bewerte dieses Kriterium als erfüllt. Trotzdem hatte ich nicht das Gefühl, dass sih seit dem die Qualität nachn den wünschen und Bewertungen der Schüler verändert hat. 
+
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
