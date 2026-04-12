@@ -442,6 +442,32 @@ Dieses Kriterium bewerte ich als erfüllt.
 **Ergebnis:** Da die Religiösen Essgewohnheiten des Islams nicht beachtet werden, und ein Großteil der Schüler unserer Schule dem Islam angehört, bewerte ich dieses Kriterium als nicht erfüllt.
 
 
+### Der Einsatz von verarbeiteten Lebensmitteln (Convenience-Produkten) in der Gemeinschaftsverpflegung
+In diesem Kapitel (4.1.2) werden alle Kriterien zu Convenience-Produkten beschrieben. Das Kapitel teilt Lebensmittel in 2 Klassen der Verarbeitung ein, welche jedoch ungenau beschrieben sind. Es sind die Klassen hochverarbeitet und gerigverarbeitet. Es fehlt eine exakte Definition zu Verarbeitet und Unverarbeitet, weshalb ich die Gerichte nicht in diese zwei Klassen einzuteilen. Da es jedoch einen Standart gibt, die NOVA-Gruppen, die sehr exakt Lebensmittel in 4 Gruppen des Verarbeitungsgrades einteilen, wollte ich diesen nutzen, und nicht die zwei Gruppen der DGE. Diese vier Gruppen sind von allen Bewertungsmöglichkeiten am weitesten verbreitet. Doch auch der weit Verbreitete NOVA-Score, der die Lebensmittel nach ihrem Verarbeitungsgrad in 4 Gruppen unterteilt:  
+
+#### Gruppe 1
+Lebensmittel sind unverarbeitete und minimalverarbeitete lebensmittel. Es sind Lebensmittel, die so aus der natur kommen, oder lebensmittel, die durch Trocknen, Zerkleinern, Mahlen und andere prozesse verarbeitet wurden, um das Lebensmittel lagerfähiger zu machen, zu konservieren oder Essbarer zu machen. Beistiele sind Pflanzenteile, Teile von Tieren und Wasser. Bei solchen Lebensmitteln bleiben die meisten Nährstuffe enthalten. Bei den folgenden gruppen, auf welche mehr Verarbeitungsprozesse eingewirkt haben, wurden mehr und mehr Närstoffe zerstört.
+
+#### Gruppe 2
+Lebensmittel bezeichnet man als Verarbeitete Küchenzutaten Zutaten. Beispiele sind Öle, Butter und Zucker. Sie werden zur Zubereitung von Gruppe 1 Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe 1 Lebensmitteln gewonnen.
+
+#### Gruppe 3
+Lebensmittel werden aus Lebensmitteln der Gruppe 1 mit Hilfe der Gruppe 2 Lebensmittel hergestellt. Beispiele sind Brot, Käse sowie eingelegte Gruppe 1 Lebensmittel. Die Verarbeitungsverfahren sind alkohohlfreies Gähren sowie Konservierungs- und Kochmethoden. Der Zweck für diese Verarbeitung ist die verbesserung des Geschmackes, der Konstistenz sowie die Haltbarkeit zu verlängern.
+
+#### Gruppe 4
+Ultrahochverarbeitete Lebensmittel werden durch Zusazstoffe aus Gruppe 1 und 3 Lebensmitteln hergestellt. Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Sie sind die ungesündesten, da durch die vielen Verarbeitungsschritte die meisten Nährstoffe zerstört werden. Zudem enthalten sie Transfette und Einfachzucker. 
+
+bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen Schritte beschreibt, die ein Lebensmittel durchläuft, jedoch nichts über die chemische Zusammensetzung des Endprodukts aussagt, die letztlich die physiologische Wirkung bestimmt. Ein Prozess kann Nährstoffe zerstören, erhalten oder sogar erst verfügbarer machen, die Richtung des Effekts ist nicht im Grad der Verarbeitung bestimmt, sondern hängt vom konkreten Verfahren und Ausgangsstoff ab. Darum habe ich ein eigenes System erstellt, welchs Genau diesen kritisierten Aspekt berücksichtigt:
+
+**Klasse 1 Zerteilt, nicht verändert.** Die molekulare Struktur des Lebensmittels bleibt intakt, es wird lediglich in kleinere Einheiten getrennt. Der Körper erhält exakt das, was die Natur produziert hat. Beispiele: geschnittener Apfel, gehackte Nüsse, pürierte Banane.
+
+**Klasse 2 Verändert, aber durch naturanaloge Prozesse.** Biologische oder physikalische Methoden verändern die Molekülstruktur auf Wegen, die auch in der Natur vorkommen (Mikroben, Hitze, Kälte). Diese Prozesse können Nährstoffe verfügbarer machen oder schädliche Stoffe neutralisieren. Beispiele: Sauerkraut, Joghurt, gekochte Kartoffeln, Tiefkühlerbsen.
+
+**Klasse 3 – Verändert mit Substanzverlust.** Durch Raffination werden gezielt Bestandteile entfernt, Ballaststoffe, Vitamine, Mineralstoffe. Das Lebensmittel wird ärmer als sein Ausgangsstoff, die Nährstoffdichte sinkt. Beispiele: Weißmehl (Schale und Keimling entfernt), raffiniertes Sonnenblumenöl, weißer Reis.
+
+**Klasse 4 – Verändert mit Fremdstoffzufuhr.** Dem Lebensmittel werden Substanzen hinzugefügt, die darin natürlicherweise nicht vorkommen – entweder durch chemische Reaktionen (Maillard bei >100°C, Pökeln, Räuchern) oder durch industrielle Zusatzstoffe. Der Körper wird mit Molekülen konfrontiert, auf die er evolutionär nicht eingestellt ist. Beispiele: Softdrinks mit Farbstoffen, Fertiggerichte mit Emulgatoren und Geschmacksverstärkern.
+
+Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebensmittel von seinem natürlichen Molekülprofil entfernt – ob durch Wegnahme oder Hinzufügung – desto höher die Klasse.
 
 
 ## Anhang
