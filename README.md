@@ -536,6 +536,16 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
+#### Eindeutige Tierart bei Fleisch und Fisch
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Tierart bei Fleisch, Wurstwaren und Fisch eindeutig benannt ist. Dies ist aus Kulturellen und Religiösen gründen sehr wichtig. 
+
+**Durchführung:** Um dieses Kriterium zu bewerten, habe ich zu jedem Gericht dokumentiert, ob die Tierart eindeutig benannt ist. Bei 3 Gerichten war die Tierart unbenannt: Fleischküchle, Chilli con Carne und Fischstäbchen tragen nicht die Tierart im Namen. Bei Fleischküchle und Chilli con Carne wurde die Tierart in Form eines Tierkopfes auf dem Speiseplan dargestellt. Jedoch wurde bei den Fischstäbchen nur ein Fisch abgebildet, welcher nicht auf die Art des Fisches schließen lässt. 
+
+**Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
+
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
