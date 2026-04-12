@@ -246,7 +246,20 @@ Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzw
 
 
 #### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
-tbc
+
+Eine unausgewogene Ernährung mit Mangel an Proteinen, Ballaststoffen, Mikronährstoffen und Vollkornprodukten kann langfristig zu einer Vielzahl schwerwiegender Erkrankungen führen, von Herz-Kreislauf-Erkrankungen bis hin zu beschleunigtem Muskelabbau: 
+
+- Proteinmangel: Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Eiweißbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung, Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen sehr problematisch, weil sich der Körper noch entwickelt, und ein Proteinmangel solche Körperlichen entwicklungen für immer aufhalten kann.
+- Ballaststoffmangel: Eine ballaststoffarme Ernährung verursacht chronische Verdauungsprobleme wie Verstopfung und erhöht das Risiko für Darmkrebs signifikant.
+- Mikronährstoffmangel: Fehlen Vitamine und Mineralstoffe dauerhaft, schwächt sich das Immunsystem, und die Anfälligkeit für Infekte steigt.
+- Zu wenig Vollkornprodukte: Vollkornprodukte enthalten deutlich mehr Ballaststoffe, B-Vitamine, Mineralstoffe wie Magnesium und Eisen. Durch einen Mangel an Vollkornprodukten können folgende Probleme entstehen: 
+-  Verdauungsprobleme
+-  Erhöhter Blutzucker
+- Herz-Kreislauf-Erkrnkungen
+- Schwächeres Sättigungsgefühl, was zu Heißhungerattacken und somit zu Übergewicht führen kann.
+
+
+
 
 
 
