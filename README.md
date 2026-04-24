@@ -575,6 +575,21 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 **Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer Druckschrift geschrieben, die genug groß ist.
 
 **Schlussfolgerung:** Ich bewerte dieses Kriterium als erfüllt.
+
+#### Übersichtliche Gestaltung der Menülinien
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass das Angebot mehrer Menülinien übersichtlich dargestellt ist, und dass das gesundheitsfördernde und nachhaltige Speiseangebot hervorgehoben ist.
+
+**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander dargestellt. Jedoch wird nicht das Gesundheitsfördernde Speiseangebot hervorgehoben, sondern das Vegetarische und das "Klima-fitte". 
+
+**Ergebnis:** Ich bewerte dieses Kriterium als teilweise erfüllt. 
+
+Zudem sollte die DGE den Begriff "übersichtlich" klarer beschreiben, um eine objektive Bewertung zu erleichtern.
+
+
+
+
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
