@@ -560,6 +560,14 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Ergebnis:** Dieses Kriterium wurde nicht bewertet. 
 
+#### Eindeutige und übersichtliche Darstellung der Preise
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Preise eindeutig und übersichtlich dargestellt werden, wenn sie ausgewiesen werden.
+
+**Durchführung:** Der Speiseplan der Tressbrüder weißt keine Preise aus.
+
+**Ergebnis:** Dieses Kriterium wurde nicht bewertet.
+
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
