@@ -552,6 +552,13 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt. 
 
+#### Kennzeichnung der Nährwerte
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die rechtlichen Vorgaben beachtet werden, wenn Nährwerte im Speiseplan gekennzeichnet sind.
+
+**Durchführung:** Im Speiseplan der Mittagsverpflegung wurden während der Feldstudie keine Nährwerte gekennzeichnet. 
+
+**Ergebnis:** Dieses Kriterium wurde nicht bewertet. 
 
 ## Anhang
 
