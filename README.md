@@ -544,6 +544,13 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
+#### Eindeutige Benennung der Alternativen von Fleisch und Fisch
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Basis von Alternativen von Fleisch, Fisch, Ei, Milch und Milchprodukten im Speiseplan eindeutig benannt sind. 
+
+**Durchführung:** In dem Zeitfenster der Feldstudie wurde bei jedem Ersatzprodukt dessen Basis eindeutig benannt. 
+
+**Ergebnis:** Ich bewerte dieses Kriterium als erfüllt. 
 
 
 ## Anhang
