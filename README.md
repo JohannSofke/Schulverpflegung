@@ -568,6 +568,13 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
 
+#### Zielgruppengerechte Gestaltung des Speiseplans
+
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehört eine ausreichend große Schrift, sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler/innen. 
+
+**Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer Druckschrift geschrieben, die genug groß ist.
+
+**Schlussfolgerung:** Ich bewerte dieses Kriterium als erfüllt.
 ## Anhang
 
 ### Analyse Ausgewählter öffentlich zugänglicher Informationen
