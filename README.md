@@ -576,19 +576,17 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehört eine ausreichend große Schrift, sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler/innen. 
 
-**Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer Druckschrift geschrieben, die genug groß ist.
+**Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer Druckschrift geschrieben, die ausreichend groß ist.
 
-**Schlussfolgerung:** Ich bewerte dieses Kriterium als erfüllt.
+**Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
 
 #### Übersichtliche Gestaltung der Menülinien
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass das Angebot mehrer Menülinien übersichtlich dargestellt ist, und dass das gesundheitsfördernde und nachhaltige Speiseangebot hervorgehoben ist.
 
-**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander dargestellt. Jedoch wird nicht das Gesundheitsfördernde Speiseangebot hervorgehoben, sondern das Vegetarische und das "Klima-fitte". 
+**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander dargestellt. Jedoch wird nicht das Gesundheitsfördernde Speiseangebot hervorgehoben. Die Menülinie "Vegfit" lässt nicht darauf schließen, ob das Gericht Vegetarisch oder Vegan ist. Die Menülinie "Klimafit" scheint auch nicht besser für das Klima zu sein, wie der Name wirbt. Beide Menülinien sind Irreführend benannt und sagen nichts über das eigentliche Gericht aus.
 
-**Ergebnis:** Ich bewerte dieses Kriterium als teilweise erfüllt. 
-
-Zudem sollte die DGE den Begriff "übersichtlich" klarer beschreiben, um eine objektive Bewertung zu erleichtern.
+**Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. 
 
 
 
