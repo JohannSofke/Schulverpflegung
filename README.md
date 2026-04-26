@@ -548,9 +548,9 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die Basis von Alternativen von Fleisch, Fisch, Ei, Milch und Milchprodukten im Speiseplan eindeutig benannt sind. 
 
-**Durchführung:** In dem Zeitfenster der Feldstudie wurde bei jedem Ersatzprodukt dessen Basis eindeutig benannt. 
+**Durchführung:** In dem Zeitfenster der Feldstudie wurde kein Fleischersatzprodukt serviert. 
 
-**Ergebnis:** Ich bewerte dieses Kriterium als erfüllt. 
+**Ergebnis:** Dieses Kriterium wurde nicht bewertet. 
 
 #### Kennzeichnung der Nährwerte
 
