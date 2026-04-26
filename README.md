@@ -584,7 +584,7 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass das Angebot mehrer Menülinien übersichtlich dargestellt ist, und dass das gesundheitsfördernde und nachhaltige Speiseangebot hervorgehoben ist.
 
-**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander dargestellt. Jedoch wird nicht das Gesundheitsfördernde Speiseangebot hervorgehoben. Die Menülinie "Vegfit" lässt nicht darauf schließen, ob das Gericht Vegetarisch oder Vegan ist. Die Menülinie "Klimafit" scheint auch nicht besser für das Klima zu sein, wie der Name wirbt. Beide Menülinien sind Irreführend benannt und sagen nichts über das eigentliche Gericht aus.
+**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander aufgeführt. Allerdings wird das gesundheitsfördernde Speiseangebot nicht explizit hervorgehoben. Der Name „Veg-fit" lässt nicht erkennen, ob das jeweilige Gericht vegetarisch oder vegan ist. Ebenso bleibt unklar, was „Klima-fit" konkret bedeutet. Da beide Menünamen auf unterschiedlichen Dimensionen bewertet werden, die eine auf Ernährungsweise, die andere auf Umweltwirkung, fehlt ein gemeinsamer Vergleichsaspekt: Es ist nicht ersichtlich, ob die „Klima-fit" Menülinie auch Mischkost enthält, und ob die „Veg-fit" Menülinie umweltschädlich ist. Die Namen wirken daher eher wie Marketingbegriffe, die keine verlässliche Aussage über die tatsächlichen Eigenschaften der Menülinien treffen. Beide Menülinien sind irreführend benannt und erfüllen somit die Anforderung einer transparenten und informativen Kennzeichnung nicht.
 
 **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. 
 
