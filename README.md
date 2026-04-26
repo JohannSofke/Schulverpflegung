@@ -1,13 +1,13 @@
-## Erfolg hat viele Faktoren – Anwendung des Anna-Karenina-Prinzips zur Analyse der Mittagsverpflegung am Carlo Schmidt Gymnasium Tübingen.
+## Erfolg hat viele Faktoren – Anwendung des Anna-Karenina-Prinzips zur Analyse der Mittagsverpflegung am Carlo-Schmid-Gymnasium Tübingen.
 
-Zu Beginn des Schuljahres 2025/2026 haben alle Tübinger Schulmensen einen neuen Caterer erhalten. Der neue Caterer sind die Tressbrüder [TBR]. Seit deren Einführung meinen Schüler verschiedener Schulen in Tübingen, meine Mitschüler am Carlo Schmidt Gymnasium (CSG) und ich eine Verschlechterung bei der Mittagsverpflegung gegenüber den Vorjahren zu beobachten. Es stellt sich daher die Frage nach der objektiven Qualität der Mittagsverpflegung.
+Zu Beginn des Schuljahres 2025/2026 haben alle Tübinger Schulmensen einen neuen Caterer erhalten. Der neue Caterer sind die Tressbrüder [TBR]. Seit deren Einführung meinen Schüler verschiedener Schulen in Tübingen, meine Mitschüler am Carlo-Schmid-Gymnasium (CSG) und ich eine Verschlechterung bei der Mittagsverpflegung gegenüber den Vorjahren zu beobachten. Es stellt sich daher die Frage nach der objektiven Qualität der Mittagsverpflegung.
 
 Diese Frage werde ich aus der Perspektive der Deutschen Gesellschaft für Ernährung (DGE), die wissenschaftliche Fachgesellschaft für Ernährung in Deutschland [DGE], beantworten. Zur Bewertung der Mittagsverpflegung nutze ich die Checkliste aus dem "DGE-Qualitätsstandard für die Verpflegung in Schulen" [QDGE]. Dabei werden verschiedene Kriterien der Mittagsverpflegung vorgestellt: Planung, Einkauf, Zubereitung, Ausgabe, Entsorgung und Reinigung. Ich werde mich bei der 
 Bewertung auf das Kapitel Planung beschränken. Der Planung kommt eine besondere Rolle zu, denn sie stellt die Grundlage für das gesamte Verpflegungskonzept dar. Dabei ist das Kapitel Planung deutlich weitreichender, als der Name vermuten lässt, wie es im Laufe dieser Arbeit noch deutlich werden wird. Ich werde alle Kriterien aus dem Kapitel Planung bewerten, zu denen ich Einblick habe. Ziel der Analyse ist es, eine Faktenbasis für eine objektive Diskussion zur Verfügung zu stellen.
 
 ## Motivation
 
-Mein Name ist Johann Sofke. Als Schüler der Klasse 8a am Carlo Schmidt Gymnasium Tübingen, einer offenen Ganztagsschule, nutze ich regelmäßig die Mensa zum Mittagessen. 
+Mein Name ist Johann Sofke. Als Schüler der Klasse 8a am Carlo-Schmid-Gymnasium Tübingen, einer offenen Ganztagsschule, nutze ich regelmäßig die Mensa zum Mittagessen. 
 
 Zu Beginn dieses Schuljahres 2025/2026 wurde in allen Tübinger Schulmensen der Caterer gewechselt. Nach diesem Wechsel stellte ich fest, dass das Schulessen in mehreren Aspekten schlechter wurde als im Vorjahr: Die Portionen fallen kleiner aus als in den Jahren zuvor und sättigen nicht, die Gerichte sind in ihrer Makronährstoffzusammensetzung unausgewogen, und die im Speiseplan ausgewiesenen Vor- und Nachspeisen sowie Salate werden nicht mehr serviert. 
 
@@ -23,7 +23,7 @@ Entsprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare K
 
 Wie in der Motivation beschrieben, habe ich zunächst recherchiert, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen" [QDGE] bereitstellt. Die DGE ist eine unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [SQS] aus dem Jahr 2015 27% der befragten Schulen an, diese umzusetzen.
 
-Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen" mit denen ich alle relevanten Kriterien besprochen, und im Kapitel "Durchführung und Ergebnisse" bewertet habe.  Jedoch geb mir  keine Zitier erlaubni Team "Gutes Essen" teilte mis mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tress-Brüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (Da mir keine Zitiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tress-Brüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
+Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen" mit denen ich alle relevanten Kriterien besprochen, und im Kapitel "Durchführung und Ergebnisse" bewertet habe.  Jedoch geb mir  keine Zitier erlaubni Team "Gutes Essen" teilte mis mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tressbrüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (Da mir keine Zitiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tressbrüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
 
 Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wird an 20 Schultagen dokumentiert: Jedes Gericht wird fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung habe ich mir von meiner Schulleiterin Frau Ott ausstellen lassen. Weiterhin verwende ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2% liegt (bestimmt mit Referenzgewichten).
 
@@ -73,7 +73,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 - Kioskbetreiber (an unserer Schule nicht vorhanden)
 - Eltern und Schüler (vertreten durch die entsprechenden Beiräte)
 
-**Durchführung:** zur Bewertung des Kriteriums habe ich Team „Gutes Essen“ konsultiert. Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmidt-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Man kann davon ausgehen, dass diese fehlende Zusammenarbeit der Hauptgrund für die fehlende Qualität in der Schulverpflegung ist. 
+**Durchführung:** zur Bewertung des Kriteriums habe ich Team „Gutes Essen“ konsultiert. Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmid-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Man kann davon ausgehen, dass diese fehlende Zusammenarbeit der Hauptgrund für die fehlende Qualität in der Schulverpflegung ist. 
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
@@ -730,7 +730,7 @@ Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber
 
 ## Quellennachweis
 - [STB1] Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
-- [STB2] Schwäbisches Tagblatt vom 1. Dezember 2025, "Tress-Brüder bessern nach"
+- [STB2] Schwäbisches Tagblatt vom 1. Dezember 2025, "Tressbrüder bessern nach"
 - [JGR1] Sitzung des Jugendgemeinderates - 10.10.2025
 - [TBR] https://www.tressbrueder.de
 - [DGE] https://www.dge.de
