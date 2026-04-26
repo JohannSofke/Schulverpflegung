@@ -560,7 +560,7 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Ergebnis:** Dieses Kriterium wurde nicht bewertet. 
 
-**Weiterführende Gedanken:** Wie dem Kapitel Kalorienbedarf im Anhang zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor dem diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, uund Schüler und Eltern auf den Mangel aufmerksam zu machen.
+**Weiterführende Gedanken:** Wie dem Kapitel Kalorienbedarf im Anhang zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor dem diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, und Schüler und Eltern auf den Mangel aufmerksam zu machen.
 
 #### Eindeutige und übersichtliche Darstellung der Preise
 
@@ -569,6 +569,8 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 **Durchführung:** Der Speiseplan der Tressbrüder weißt keine Preise aus.
 
 **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
+
+**Weiterführende Gedanken:** Es ist empfehlenswert, die Preise auf dem Speiseplan auszuweisen, um den Eltern und Schülern gegenüber Transparenz zu schaffen, insbesondere auch die Subventionen der Stadt Tübingen, dem Landkreis tübingen und dem Bund, da dies von den Steuergeldern gezahlt wird. Wenn die Preise nicht ausgewiesen sind, ist es allen Akteuren nicht möglich, selbstständig das Preis Leistungsverhältnis zu bewerten. 
 
 #### Zielgruppengerechte Gestaltung des Speiseplans
 
