@@ -703,7 +703,7 @@ Folgende Punkte sind noch anzumerken:
 - Bei Mädchen in der Alterskategorie 10-12 Jahre wurde der Kalorienbedarf nur um ~85% gedeckt. 
 - Bei Jungen in der Alterskategorie 16-18 Jahre wurde der Kalorienbedarf nur um ~60%.
 - Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5 mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
-- Dass ein Bauerneintopf mit nur 209 kcal noch ein Vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
+- Dass ein Bauerneintopf mit nur 230 kcal noch ein Vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
 
 
 ### Langfristige Folgen eines Kaloriendefizits
