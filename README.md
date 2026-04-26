@@ -590,9 +590,13 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. 
 
 ### Endfazit
+Mit der Feldstudie im Rahmen einer Wissenschaftlichen Arbeit habe ich eine Faktenbasierte Diskussionsgrundlage erzeugt, anhand derer die Qualität der Mittagsverpflegung Objektiv bewertet werden kann. Hierbei bin ich zu folgendem Ergebnis gekommen: 
+Von 39 kriterien habe ich 10 nicht bewertet. 17 Kriterien habe ich als nicht erfüllt, und 13 Kriterien als erfüllt bewertet.
+Dramatisch ist vor allem, dass die Kriterien, die unmittelbar etwas mit der Ernährung zu tun haben, verfehlt wurden. Insesondere sind hier die Mengen und Verhältnisse hervorzuheben. Damit verfehlt die Mittagsverpflegung ihre Hauptfunktion: Die Versorgung des Menschen mit allen relevanten Närstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
 
-
-
+### Ausblick
+- Ergebnisse mit den Verpflegungsbeauftragten und anderen akteuren teilen.
+  Seit der Feldstudie sind nun schon einige Monate vergangen, in denen sich viel geändert hat: In der Mensa wurden Poster der Tressbrüder aufgehängt, Quizzes über andere Länder und Traditionen wurden überall auf den Tischen aufgestellt, doch an dem eigentlichen Problem, der Qualität des Essens, hat sich seitdem nichts geändert: Die Portionen sind immer noch zu klein, die Nährstoffzusammensetzung ist nach wie vor unausgewogen, und Simon Tress versteht sich nach Presse-darstellungen immer noch als Verkanntes Genie, aber als Kind kann ich es sagen: Der Kaiser ist nackt.
 
 
 ## Anhang
