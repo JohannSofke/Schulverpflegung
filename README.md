@@ -673,7 +673,6 @@ Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und 
 Wobei die prozentuale Kalorienaufnahme der Mittagsmalzeit im Bereich von 25% [OMX] bis 35% [JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30% fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmalzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Malzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allearmeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
 
 Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmalzeit für alle Altersgruppen und beide Geschlechter:
-dann mach jetzt doch noch die tabelle mit nur 30 % des tagesbedarf für das mittagnessen. lass gewicht und größe aus.
 
 | Altersgruppe | Tagesbedarf ♂ | **Mittagessen ♂ (30%)** | Tagesbedarf ♀ | **Mittagessen ♀ (30%)** |
 |---|---|---|---|---|
