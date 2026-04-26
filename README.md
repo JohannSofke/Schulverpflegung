@@ -23,7 +23,7 @@ Entprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare Kr
 
 Wie in der Motivation beschrieben, habe ich zunächst recherchiert, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen" [QDGE] bereitstellt. Die DGE ist eine unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [SQS] aus dem Jahr 2015 27% der befragten Schulen an, diese umzusetzen.
 
-Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen" mit denen ich alle relevanten Kriterien besprochen, und im Kapitel "Durchführung und Ergebnisse" bewertet habe.  Jedoch geb mir  keine Zitier erlaubni Team "Gutes Essen" teilte mis mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tress-Brüdern nicht vertraglich festgesetzt ist, sich der Vertrag aber an den DGE-Qualitätsstandarts und Mindestmengen orientiert (Da mir keine Zittiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tress-Brüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
+Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen" mit denen ich alle relevanten Kriterien besprochen, und im Kapitel "Durchführung und Ergebnisse" bewertet habe.  Jedoch geb mir  keine Zitier erlaubni Team "Gutes Essen" teilte mis mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tress-Brüdern nicht vertraglich festgesetzt ist, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiert (Da mir keine Zittiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tress-Brüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
 
 Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wird an 20 Schultagen dokumentiert: Jedes Gericht wird fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung habe ich mir von meiner Schulleiterin Frau Ott ausstellen lassen. Weiterhin verwende ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2% liegt (bestimmt mit Referenzgewichten).
 
@@ -31,7 +31,7 @@ Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu pr�
 
 ### Qualität in der Schulverpflegung
 
-In dem DGE Qualitätsstandart definiert Kapitel 2, Qualität in der Schulverpflegung entwickeln, den Qualitätsstandart, und wie er an Schulen umzusetzen ist. Es benennt  alle Akteure, das sind alle Mitverantwortlichen für die Schulverpflegung, und beschreibt, wie diese die Verpflegungsqualität nach dem Qualitätsstandart ausrichten können, und dann kontinuierlich beobachten und verbessern können. Dafür werden in diesem Kapitel alle Kritierien zu den Akteuren und dem Verpflegungskonzept beschrieben. 
+In dem DGE Qualitätsstandard definiert Kapitel 2, Qualität in der Schulverpflegung entwickeln, den Qualitätsstandard, und wie er an Schulen umzusetzen ist. Es benennt  alle Akteure, das sind alle Mitverantwortlichen für die Schulverpflegung, und beschreibt, wie diese die Verpflegungsqualität nach dem Qualitätsstandard ausrichten können, und dann kontinuierlich beobachten und verbessern können. Dafür werden in diesem Kapitel alle Kritierien zu den Akteuren und dem Verpflegungskonzept beschrieben. 
 
 #### Der Verpflegungsbeauftragte
 
@@ -130,7 +130,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 Von sieben Kriterien habe ich vier bewerten können, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit beginn des Schuljahrees nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung. 
 
 ### Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
-In dem DGE Qualitätsstandart benennt Kapitel 4, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
+In dem DGE Qualitätsstandard benennt Kapitel 4, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu Servieren sind. Zu diesen Komponenten zählen:
 
 - Sättigungsbeilage(Getreide, Getreideprodukte und Kartoffeln)
 - Gemüse und Salat
@@ -215,7 +215,7 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 #### Öle und Fette 
 
-**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Rapsöl standartmäßig bei der Zubereitung eingesetzt wird. 
+**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass Rapsöl standardmäßig bei der Zubereitung eingesetzt wird. 
 
 **Durchführung:** Da ich nicht weiß, welche Fette und Öle bei der Zubereitung verwendet wurden, kann ich dieses Kriterium nicht bewerten. 
 
@@ -278,7 +278,7 @@ Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzw
 
 ## Weitere Kriterien zur Planung
 
-In Kapitel 4.1 des DGE Qualitätsstandarts werden außerdem weitere Kriterien an die Speiseplanung gestellt. Di  ese werde ich in diesem Kapitel bewerten. 
+In Kapitel 4.1 des DGE Qualitätsstandards werden außerdem weitere Kriterien an die Speiseplanung gestellt. Di  ese werde ich in diesem Kapitel bewerten. 
 
 
 
@@ -444,7 +444,7 @@ Dieses Kriterium bewerte ich als erfüllt.
 
 
 ### Der Einsatz von verarbeiteten Lebensmitteln (Convenience-Produkten) in der Gemeinschaftsverpflegung
-In diesem Kapitel (4.1.2) werden alle Kriterien zu Convenience-Produkten beschrieben. Das Kapitel teilt Lebensmittel in 2 Klassen der Verarbeitung ein, welche jedoch ungenau beschrieben sind. Es sind die Klassen hochverarbeitet und gerigverarbeitet. Es fehlt eine exakte Definition zu Verarbeitet und Unverarbeitet, weshalb ich die Gerichte nicht in diese zwei Klassen einzuteilen. Da es jedoch einen Standart gibt, die NOVA-Gruppen, die sehr exakt Lebensmittel in 4 Gruppen des Verarbeitungsgrades einteilen, wollte ich diesen nutzen, und nicht die zwei Gruppen der DGE. Diese vier Gruppen sind von allen Bewertungsmöglichkeiten am weitesten verbreitet. Doch auch der weit Verbreitete NOVA-Score, der die Lebensmittel nach ihrem Verarbeitungsgrad in 4 Gruppen unterteilt:  
+In diesem Kapitel (4.1.2) werden alle Kriterien zu Convenience-Produkten beschrieben. Das Kapitel teilt Lebensmittel in 2 Klassen der Verarbeitung ein, welche jedoch ungenau beschrieben sind. Es sind die Klassen hochverarbeitet und gerigverarbeitet. Es fehlt eine exakte Definition zu Verarbeitet und Unverarbeitet, weshalb ich die Gerichte nicht in diese zwei Klassen einzuteilen. Da es jedoch einen Standard gibt, die NOVA-Gruppen, die sehr exakt Lebensmittel in 4 Gruppen des Verarbeitungsgrades einteilen, wollte ich diesen nutzen, und nicht die zwei Gruppen der DGE. Diese vier Gruppen sind von allen Bewertungsmöglichkeiten am weitesten verbreitet. Doch auch der weit Verbreitete NOVA-Score, der die Lebensmittel nach ihrem Verarbeitungsgrad in 4 Gruppen unterteilt:  
 
 #### Gruppe 1
 Lebensmittel sind unverarbeitete und minimalverarbeitete lebensmittel. Es sind Lebensmittel, die so aus der natur kommen, oder lebensmittel, die durch Trocknen, Zerkleinern, Mahlen und andere prozesse verarbeitet wurden, um das Lebensmittel lagerfähiger zu machen, zu konservieren oder Essbarer zu machen. Beistiele sind Pflanzenteile, Teile von Tieren und Wasser. Bei solchen Lebensmitteln bleiben die meisten Nährstuffe enthalten. Bei den folgenden gruppen, auf welche mehr Verarbeitungsprozesse eingewirkt haben, wurden mehr und mehr Närstoffe zerstört.
