@@ -21,11 +21,11 @@ Entsprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare K
 
 ## Vorbereitung 
 
-Wie in der Motivation beschrieben, habe ich zunächst recherchiert, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen" [QDGE] bereitstellt. Die DGE ist eine unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [SQS] aus dem Jahr 2015 27% der befragten Schulen an, diese umzusetzen.
+Wie in der Motivation beschrieben, habe ich zunächst recherchiert, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen" [QDGE] bereitstellt. Die DGE ist eine unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [SQS] aus dem Jahr 2015 27 % der befragten Schulen an, diese umzusetzen.
 
 Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen" mit denen ich alle relevanten Kriterien besprochen, und im Kapitel "Durchführung und Ergebnisse" bewertet habe.  Jedoch geb mir  keine Zitier erlaubni Team "Gutes Essen" teilte mis mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tressbrüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (Da mir keine Zitiererlaubnis gegeben wurde, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tressbrüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [TKSV].
 
-Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wird an 20 Schultagen dokumentiert: Jedes Gericht wird fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung habe ich mir von meiner Schulleiterin Frau Ott ausstellen lassen. Weiterhin verwende ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2% liegt (bestimmt mit Referenzgewichten).
+Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wird an 20 Schultagen dokumentiert: Jedes Gericht wird fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung habe ich mir von meiner Schulleiterin Frau Ott ausstellen lassen. Weiterhin verwende ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2 % liegt (bestimmt mit Referenzgewichten).
 
 ## Durchführung und Ergebnisse 
 
@@ -48,17 +48,17 @@ Zur Bewertung der Kriterien habe ich Team "Gutes Essen" um eine Zitiererlaubnis 
 
 **Durchführung:** Team „Gutes Essen“ informierte mich darüber, dass ein Verpflegungskonzept vorliege, und auch, über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt sei. Diese Anforderungen orientierten sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [TKSV] wird jedoch mit DGE-konformen Gerichten in der Kinder und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser wissenschaftlichen Arbeit gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten. 
 Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken müsse. Darüber hinaus soll das Essen täglich pünktlich ausgegeben werden. Weiterhin gelten folgende Kriterien im Verpflegungskonzept: 
-- Der CO2-Footprint soll um 50% kleiner sein im Vergleich zu anderen Mensen in Deutschland. 
-- Der Wasserverbrauch soll um 75% kleiner sein als in anderen Mensen in Deutschland
-- Der Vitascore soll um 20% höher sein als an anderen Schulen
+- Der CO2-Footprint soll um 50 % kleiner sein im Vergleich zu anderen Mensen in Deutschland. 
+- Der Wasserverbrauch soll um 75 % kleiner sein als in anderen Mensen in Deutschland
+- Der Vitascore soll um 20 % höher sein als an anderen Schulen
 - Früchte, Reis und Kakao aus Übersee ist fair gehandelt
 
-Dabei fällt die Gewichtung folgendermaßen aus: Preis 50%, Betreiberkonzept 20%, Nachhaltigkeitskonzept 15% und Wasserverbrauch, CO2 Footprint und Vita-Score zusammen 15%.
+Dabei fällt die Gewichtung folgendermaßen aus: Preis 50 %, Betreiberkonzept 20 %, Nachhaltigkeitskonzept 15 % und Wasserverbrauch, CO2 Footprint und Vita-Score zusammen 15 %.
 
 **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
 
 **Weiterführende Überlegungen:**
-Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team "Gutes Essen" nur mit 5% gewichtet.
+Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team "Gutes Essen" nur mit 5 % gewichtet.
 
 Außerdem wird die Gesundheit der Verpflegung nach dem Vita Score bewertet, welcher primär dazu dient, das Risiko für ernährungsbedingte Krankheiten zu minimieren, und kein Indikator für eine gesundheitlich ausgewogene Gesamtzusammensetzung der Verpflegung ist, die sich am konkreten Bedarf orientiert. 
 
@@ -152,23 +152,23 @@ Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren. 
 
 Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, habe ich während meiner Feldstudie immer das Gericht gewählt, mit welchem ich am besten Wochenweise die Empfehlungen der DGE annähern konnte. Das waren dann immer die Gerichte, die tierische Produkte, Vollkorngetreide, Gemüse, Salat und Obst beinhalteten.
 
-Insgesamt habe ich in meiner Feldstudie also an 20 Tagen das von mir gewählte Gericht dokumentiert und bewertet. 
+Insgesamt habe ich in meiner Feldstudie also an 20 Verpflegungstagen das von mir gewählte Gericht dokumentiert und bewertet. 
 
 #### Die Sättigungsbeilage
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höchstens einmal Kartoffeln.
 
 
-**Durchführung:** Zur Durchführung habe ich alle in den 20 Tagen der Feldstudie servierten Sättigungsbeilagen gezählt und kategorisiert. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Tagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten. Die Süßkartoffeln, der Reis und der Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4 mal Vollkornprodukte geben müssen. Außerdem gab es 6 mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft. 
+**Durchführung:** Zur Durchführung habe ich alle in den 20 Verpflegungstagen der Feldstudie servierten Sättigungsbeilagen gezählt und kategorisiert. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Verpflegungstagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten. Die Süßkartoffeln, der Reis und der Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4-mal Vollkornprodukte geben müssen. Außerdem gab es 6-mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft. 
 
 **Ergebnis:** Die Höchstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daher bewerte ich dieses Kriterium als grenzwertig nicht erfüllt.
 
 
 #### Gemüse und Salat
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2 mal in der Form von Rohkost serviert werden, und einmal von der Sorte Hülsenfrüchte.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2-mal in der Form von Rohkost serviert werden, und einmal von der Sorte Hülsenfrüchte.
 
-**Durchführung:** In den 20 Tagen der Feldstudie wurde insgesamt 11 Gemüse serviert, was nur ungefähr halb so viel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Tagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Tagen empfohlen wird. Damit gab es nur ein Viertel so viel
+**Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde insgesamt 11 Gemüse serviert, was nur ungefähr halb so viel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Verpflegungstagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Verpflegungstagen empfohlen wird. Damit gab es nur ein Viertel so viel
 Rohkost und Hülsenfrüchte wie gefordert.
 
 **Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf eine gesunde Ernährung gelegt wird. 
@@ -184,7 +184,7 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von dieser Häufigkeit mindestens einmal Stückobst. 
 
-**Durchführung:** In den 20 Tagen der Feldstudie wurde nur 2 mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges mal Stückobst.
+**Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde nur 2-mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges mal Stückobst.
 
 **Ergebnis:** Ich bewerte dieses Kriterium als signifikant nicht erfüllt.
 
@@ -197,9 +197,9 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 #### Milch und Milchprodukte 
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2 mal Milch oder Milchprodukte serviert werden. 
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2-mal Milch oder Milchprodukte serviert werden. 
 
-**Durchführung:** In den 20 Tagen der Feldstudie gab es nur an 2 Verpflegungstagen Milchprodukte, beide male in Form von Quark. 
+**Durchführung:** In den 20 Verpflegungstagen der Feldstudie gab es nur an 2 Verpflegungstagen Milchprodukte, beide male in Form von Quark. 
 
 **Ergebnis:** Dieses Kriterium bewerte ich als signifikant nicht erfüllt.
 
@@ -207,9 +207,9 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 #### Fleisch, Wurst, Fisch und Eier
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höchstens 1 mal Fleisch serviert wird. Davon in 20 Verpflegungstagen mindestens 2 mal mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1 mal Fisch serviert werden, davon in 20 Verpflegungstagen mindestens 2 mal fettreicher Fisch.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höchstens 1-mal Fleisch serviert wird. Davon in 20 Verpflegungstagen mindestens 2-mal mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1-mal Fisch serviert werden, davon in 20 Verpflegungstagen mindestens 2-mal fettreicher Fisch.
 
-**Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höchstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert unterschreitet. Außerdem wurde in 20 Verpflegungstagen nur 1 mal Fisch serviert, womit die Mindestangabe um den Faktor 4 unterschritten wurde. Kein einziges mal wurde fettreicher Fisch serviert.
+**Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höchstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert unterschreitet. Außerdem wurde in 20 Verpflegungstagen nur 1-mal Fisch serviert, womit die Mindestangabe um den Faktor 4 unterschritten wurde. Kein einziges mal wurde fettreicher Fisch serviert.
 
 **Ergebnis:** Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. Deshalb bewerte ich dieses Kriterium als signifikant nicht erfüllt. 
 
@@ -271,7 +271,7 @@ Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber
 
 
 #### Kaloriendefizit
-Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 30% unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 30 % unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
 
 
@@ -297,7 +297,7 @@ In Kapitel 4.1 des DGE Qualitätsstandards werden außerdem weitere Kriterien an
 **Beschreibung des Kriteriums:** Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechslungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel, Grünkern, Bulgur und Hirse verwendet wird. 
 
 
-**Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Tagen angeboten. Das unterteilte sich in 
+**Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Verpflegungstagen angeboten. Das unterteilte sich in 
 - 7 × Kartoffeln
 - 5 × Reis
 - 5 × Nudelteigprodukte, davon wahrscheinlich 4 × Weizen, 1 × Dinkel
@@ -357,14 +357,14 @@ Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten
 
 #### Industriell hergestellte Alternativen zu Fleisch und Fisch
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in der Mittagsverpflegung hergestellte Alternativen zu Fleisch und Fisch maximal 4 mal in 20 Verpflegungstagen angeboten werden. Diese Alternativen können auf Basis von folgenden Lebensmitteln hergestellt werden: Soja, Tofu, Lupinen, Pilz oder Milch.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass in der Mittagsverpflegung hergestellte Alternativen zu Fleisch und Fisch maximal 4-mal in 20 Verpflegungstagen angeboten werden. Diese Alternativen können auf Basis von folgenden Lebensmitteln hergestellt werden: Soja, Tofu, Lupinen, Pilz oder Milch.
 
 
 **Durchführung:** Hier habe ich eine Liste von allen Gerichten mit industriell hergestellten Alternativen zu Fleisch und Fisch in den 20 Verpflegungstagen erstellt:
 
 Linsenbratlinge (Linsen)
 
-Es wurden  insgesamt 1 mal industrielle Alternativen zu Fleisch und Fisch innerhalb von 20 Verpflegungstagen angeboten. 
+Es wurden  insgesamt 1-mal industrielle Alternativen zu Fleisch und Fisch innerhalb von 20 Verpflegungstagen angeboten. 
 
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
@@ -509,7 +509,7 @@ Dieses Kapitel(4.1.3) beschreibt alle Kriterien zur Gestaltung und Bereitstellun
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass der aktuelle Speiseplan vorab regelmäßig für Schüler und Eltern barrierefrei zugänglich ist. Dafür muss der Speiseplan online und vorort ausgehängt sein. 
 
 **Durchführung:** 
-Zur Bewertung habe ich die Tage, an denen der aktuelle Speiseplan online zur Verfügung stand, und die Tage, an denen er vorort ausgehängt war, gezählt. An 13 von 20 Tagen stand der aktuelle Speiseplan online zur Verfügung. An den anderen 7 Tagen war er online nicht aktuell. An 13 von 20 Tagen wurde der aktuelle Speiseplan vor Ort ausgehängt.  Grundsätzlich hing der Speiseplan auch immer auf der Höhe eines Erwachsenen, wodurch er für die sehr kleinen Schüler nicht einsehbar ist.
+Zur Bewertung habe ich die Tage, an denen der aktuelle Speiseplan online zur Verfügung stand, und die Tage, an denen er vorort ausgehängt war, gezählt. An 13 von 20 Verpflegungstagen stand der aktuelle Speiseplan online zur Verfügung. An den anderen 7 Verpflegungstagen war er online nicht aktuell. An 13 von 20 Verpflegungstagen wurde der aktuelle Speiseplan vor Ort ausgehängt.  Grundsätzlich hing der Speiseplan auch immer auf der Höhe eines Erwachsenen, wodurch er für die sehr kleinen Schüler nicht einsehbar ist.
 
 **Ergebnis:** Ich bewerte das Kriterium als nicht erfüllt.
 
@@ -533,7 +533,7 @@ Zur Bewertung habe ich die Tage, an denen der aktuelle Speiseplan online zur Ver
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass auf dem Speiseplan über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe Informiert wird.
 
-**Durchführung:** Der Speiseplan informiert auf der zweiten Seite über alle Allergene. Jedoch wurde bis auf 2 Tage immer nur die erste Seite des Speiseplans ausgehängt, jedoch nicht die Seite mit den Allergenen. Online hingegen waren die Allergene bei jeden Speiseplan einsehbar.
+**Durchführung:** Der Speiseplan informiert auf der zweiten Seite über alle Allergene. Jedoch wurde bis auf 2 Verpflegungstage immer nur die erste Seite des Speiseplans ausgehängt, jedoch nicht die Seite mit den Allergenen. Online hingegen waren die Allergene bei jeden Speiseplan einsehbar.
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
@@ -670,11 +670,11 @@ Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und 
 - 2 Zwischenmahlzeit
 - Abendessen
 
-Wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25% [OMX] bis 35% [JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30% fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmahlzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Mahlzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allermeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
+Wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25 % [OMX] bis 35 % [JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30 % fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmahlzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Mahlzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allermeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
 
 Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlzeit für alle Altersgruppen und beide Geschlechter:
 
-| Altersgruppe | Tagesbedarf ♂ | **Mittagessen ♂ (30%)** | Tagesbedarf ♀ | **Mittagessen ♀ (30%)** |
+| Altersgruppe | Tagesbedarf ♂ | **Mittagessen ♂ (30 %)** | Tagesbedarf ♀ | **Mittagessen ♀ (30 %)** |
 |---|---|---|---|---|
 | 10–12 Jahre | ~1.985 kcal | **~596 kcal** | ~1.990 kcal | **~597 kcal** |
 | 13–15 Jahre | ~2.446 kcal | **~734 kcal** | ~2.221 kcal | **~666 kcal** |
@@ -684,13 +684,13 @@ Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlze
 
 ### Kalorienaufnahme der Schulverpflegung
 
-Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, habe ich die Daten meiner Feldstudie herangezogen. Ich habe anschließend für jedes Gericht die Makronährstoffe abgeschätzt (Fette, Kohlenhydrate, Proteine und Ballaststoffe), und daraus das Kalorienangebot abgeschätzt. Für die Abschätzung der Zusammensetzung habe ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht genutzt. Darüber hinaus habe ich KI verwendet, und meine Oma, die promovierte Ernährungsberaterin ist, hat die Ergebnisse plausibilisiert. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ±20% beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5%. 
+Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, habe ich die Daten meiner Feldstudie herangezogen. Ich habe anschließend für jedes Gericht die Makronährstoffe abgeschätzt (Fette, Kohlenhydrate, Proteine und Ballaststoffe), und daraus das Kalorienangebot abgeschätzt. Für die Abschätzung der Zusammensetzung habe ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht genutzt. Darüber hinaus habe ich KI verwendet, und meine Oma, die promovierte Ernährungsberaterin ist, hat die Ergebnisse plausibilisiert. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern – etwa einer durchgängigen Über- oder Unterschätzung von Portionen – hilft die Mittelung nicht.
 
 Es ergeben sich folgende Ergebnisse:
 
-- Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (±20%)
-- Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (±20%)
-- Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (±5%)
+- Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (± 20 %)
+- Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (± 20 %)
+- Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (± 5 %)
 
 Folgende Punkte sind noch anzumerken:
 
@@ -700,9 +700,9 @@ Folgende Punkte sind noch anzumerken:
 
 ### Zwischenfazit
 - Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten. 
-- Bei Mädchen in der Alterskategorie 10-12 Jahre wurde der Kalorienbedarf nur um ~85% gedeckt. 
-- Bei Jungen in der Alterskategorie 16-18 Jahre wurde der Kalorienbedarf nur um ~60%.
-- Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5 mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
+- Bei Mädchen in der Alterskategorie 10-12 Jahre wurde der Kalorienbedarf nur um ~85 % gedeckt. 
+- Bei Jungen in der Alterskategorie 16-18 Jahre wurde der Kalorienbedarf nur um ~60 %.
+- Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
 - Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
 
 
@@ -713,7 +713,7 @@ Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre)
 - Wachstum und Körpergröße
 Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
 - Knochen und Muskulatur
-Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30% des gesamten adulten Knochenmineralgehalts werden in diesen Jahren aufgebaut. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
+Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in diesen Jahren aufgebaut. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
 - Pubertät und Hormonsystem
 Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
 - Immunsystem und Wundheilung
