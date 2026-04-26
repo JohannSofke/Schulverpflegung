@@ -556,9 +556,11 @@ Zur Bewertung habe ich die Tage, an denen der Aktuelle Speiseplan online zur Ver
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass die rechtlichen Vorgaben beachtet werden, wenn Nährwerte im Speiseplan gekennzeichnet sind.
 
-**Durchführung:** Im Speiseplan der Mittagsverpflegung wurden während der Feldstudie keine Nährwerte gekennzeichnet. 
+**Durchführung:** Im Speiseplan der Mittagsverpflegung wurden keine Nährwerte ausgewiesen, weshalb dieses Kriterium nicht anwendbar ist. 
 
 **Ergebnis:** Dieses Kriterium wurde nicht bewertet. 
+
+**Weiterführende Gedanken:** Wie dem Kapitel Kalorienbedarf im Anhang zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor dem diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, uund Schüler und Eltern auf den Mangel aufmerksam zu machen.
 
 #### Eindeutige und übersichtliche Darstellung der Preise
 
