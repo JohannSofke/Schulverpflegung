@@ -15,7 +15,7 @@ Auch andere Schüler, Eltern [STB1], [STB2] und der Jugendgemeinderat [JGR1] dis
 
 Nach einem Informationsabend über Jugend forscht an unserer Schule entschied ich mich, meine ohnehin geplanten Untersuchungen in einer wissenschaftlichen Arbeit zu verfassen, um eine Faktenbasis für eine objektive Diskussion bereitzustellen. Ich verspreche mir davon Aufmerksamkeit für die entscheidenden Aspekte der Ernährung, die deutlich jenseits von Geschmack liegen, mit dem Ziel, dass die Mittagsverpflegung wieder seine Hauptfunktion erfüllen kann: Die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
 
-Eine ausreichende Mittagsverpflegung ist mir persönlich wichtig, da ich selbst Untergewicht habe und mich bewusst ernähre. Außerdem interessiere ich mich für die Fachbereiche Biologie und Chemie und weiß, wie ein gesundes Essen beschaffen sein muss. In der siebten und achten Klasse behandelten wir zudem das Thema Ernährung im Biologieunterricht.
+Eine ausreichende Mittagsverpflegung ist mir persönlich wichtig, da ich mich für die Fachbereiche Biologie und Chemie interessiere und weiß, wie ein gesundes Essen beschaffen sein muss. In der siebten und achten Klasse behandelten wir zudem das Thema Ernährung im Biologieunterricht.
 
 Entsprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare Kriterien recherchieren, und anschließend für unsere Mittagsverpflegung bewerten.
 
@@ -613,7 +613,7 @@ Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen z
 - Austausch zwischen Eltern und Stadt: Eltern wünschen sich bei der Stadt, dass Mahlzeiten weniger gezuckert sind. 
 - Austausch zwischen der Stadt und den Tressbrüdern: Anstelle ungezuckerte Nachtische zu servieren, wie zum Beispiel Obst am Stück oder Naturjoghurt mit Nüssen und Beeren, entfernt die Stadt den Nachtisch ersatzlos vom Speiseplan.
 - Austausch zwischen Schule und Eltern: Dem Vertreter des Elternbeirates wird es untersagt, am Mittagessen der Grundschule teilzunehmen, um sich selbst ein Bild vom Geschehen zu verschaffen. 
-- Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nachhause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Herr Thomas Schmitt, Vorsitzender des Gesamtelternbeirats, wertet die Unzufriedenheit der Schüler ab: "Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein" und stellt vorweg: "Es sind Grundschüler".
+- Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nach Hause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Der Vorsitzende des Gesamtelternbeirats wertet die Unzufriedenheit der Schüler ab: "Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein" und stellt vorweg: "Es sind Grundschüler".
 
 So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team "Gutes Essen") koordiniert und moderiert werden. 
 
