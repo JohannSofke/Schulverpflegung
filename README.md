@@ -2,7 +2,7 @@
 
 Zu Beginn des Schuljahres 2025/2026 haben alle Tübinger Schulmensen einen neuen Caterer erhalten. Der neue Caterer sind die Tressbrüder [TBR]. Seit deren Einführung meinen Schüler verschiedener Schulen in Tübingen, meine Mitschüler am Carlo-Schmid-Gymnasium (CSG) und ich eine Verschlechterung bei der Mittagsverpflegung gegenüber den Vorjahren zu beobachten. Es stellt sich daher die Frage nach der objektiven Qualität der Mittagsverpflegung.
 
-Der Titel dieser Arbeit greift das Anna-Karenina-Prinzip auf, das auf den Eingangssatz des Romans *Anna Karenina* von Lew Tolstoi zurückgeht: „Alle glücklichen Familien gleichen einander, jede unglückliche Familie ist unglücklich auf ihre Weise." Verallgemeinert besagt das Prinzip, dass Erfolg in komplexen Systemen nur dann eintritt, wenn alle Bedingungen gleichzeitig erfüllt sind, während das Verfehlen einer einzigen Bedingung bereits zum Scheitern führen kann. Auf die Schulverpflegung übertragen bedeutet das, dass eine gelingende Mittagsverpflegung das gleichzeitige Erfüllen einer Vielzahl von Kriterien voraussetzt, von der Nährstoffzusammensetzung über die Auswahl und Verarbeitung der Lebensmittel bis hin zur Kommunikation mit Schülern und Eltern. Genau diese Vielzahl an Kriterien systematisch zu prüfen, ist das Ziel der vorliegenden Arbeit.
+Der Titel dieser Arbeit greift das Anna-Karenina-Prinzip auf, das auf den Eingangssatz des Romans *Anna Karenina* von Lew Tolstoi zurückgeht: „Alle glücklichen Familien gleichen einander, jede unglückliche Familie ist unglücklich auf ihre Weise." Verallgemeinert besagt das Prinzip, dass Erfolg in komplexen Systemen nur dann eintritt, wenn alle Bedingungen gleichzeitig erfüllt sind, während das Verfehlen einer einzigen Bedingung bereits zum Scheitern führen kann. Auf die Schulverpflegung übertragen bedeutet das, dass eine gelingende Mittagsverpflegung das gleichzeitige Erfüllen einer Vielzahl von Kriterien voraussetzt – von der Nährstoffzusammensetzung über die Auswahl und Verarbeitung der Lebensmittel bis hin zur Kommunikation mit Schülern und Eltern. Genau diese Vielzahl an Kriterien systematisch zu prüfen, ist das Ziel der vorliegenden Arbeit.
 
 Diese Frage werde ich aus der Perspektive der Deutschen Gesellschaft für Ernährung (DGE), die wissenschaftliche Fachgesellschaft für Ernährung in Deutschland [DGE], beantworten. Zur Bewertung der Mittagsverpflegung nutze ich die Checkliste aus dem "DGE-Qualitätsstandard für die Verpflegung in Schulen" [QDGE]. Dabei werden verschiedene Kriterien der Mittagsverpflegung vorgestellt: Planung, Einkauf, Zubereitung, Ausgabe, Entsorgung und Reinigung. Ich werde mich bei der 
 Bewertung auf das Kapitel Planung beschränken. Der Planung kommt eine besondere Rolle zu, denn sie stellt die Grundlage für das gesamte Verpflegungskonzept dar. Dabei ist das Kapitel Planung deutlich weitreichender, als der Name vermuten lässt, wie es im Laufe dieser Arbeit noch deutlich werden wird. Ich werde alle Kriterien aus dem Kapitel Planung bewerten, zu denen ich Einblick habe. Ziel der Analyse ist es, eine Faktenbasis für eine objektive Diskussion zur Verfügung zu stellen.
@@ -263,8 +263,8 @@ Eine unausgewogene Ernährung mit Mangel an Proteinen, Vollkornprodukten, Fetten
   - Erhöhtem Blutzucker
   - Herz-Kreislauf-Erkrankungen
   - Einem schwächeren Sättigungsgefühl, was Heißhungerattacken und in der Folge Übergewicht begünstigen kann
-- **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen, was sich negativ auf schulische Bildung auswirkt.
-- **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und erhöht das Risiko für Darmkrebs signifikant. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
+- **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen [OM3], was sich negativ auf schulische Bildung auswirkt.
+- **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und ist mit einem erhöhten Risiko für Darmkrebs assoziiert [WCRF]. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
 
 
 Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können. Zumindest erkenne ich in diesen Ergebnissen ein ernstes moralisches Problem, wenn die Schüler in der Schule mit einem derart ungenügenden Mittagsmenü versorgt werden.
@@ -438,7 +438,7 @@ Dieses Kriterium bewerte ich als erfüllt.
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass kulturspezifische, regionale und religiöse Essgewohnheiten berücksichtigt werden. Dies kann zum Beispiel durch Projektwochen mit Speisen aus unterschiedlichen Regionen, Ländern oder Großereignissen ermöglicht werden. 
 
-**Durchführung:** In der gesamten Zeit gab es nur einmal solch eine Aktion. Jedoch wurden auch Gerichte serviert, die nicht traditionell aus Italien kommen, wie zum Beispiel Pizzasuppe, welche ein Deutsches Partygericht ist. Auch gibt es an unserer Schule fast keine italienischen Schüler, dafür aber sehr viele muslimische Schüler, deren Essgewohnheiten in der Speiseplanung nicht berücksichtigt wurden. 
+**Durchführung:** In der gesamten Zeit gab es nur einmal solch eine Aktion. Jedoch wurden auch Gerichte serviert, die nicht traditionell aus Italien kommen, wie zum Beispiel Pizzasuppe, welche kein traditionelles italienisches Gericht ist. Auch gibt es an unserer Schule fast keine italienischen Schüler, dafür aber sehr viele muslimische Schüler, deren Essgewohnheiten in der Speiseplanung nicht berücksichtigt wurden. 
 
 **Ergebnis:** Da die religiösen Essgewohnheiten des Islams nicht beachtet werden, und ein Großteil der Schüler unserer Schule dem Islam angehört, bewerte ich dieses Kriterium als nicht erfüllt.
 
@@ -713,7 +713,7 @@ Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre)
 - Wachstum und Körpergröße
 Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
 - Knochen und Muskulatur
-Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in diesen Jahren aufgebaut. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
+Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in den vier Jahren um die maximale Wachstumsgeschwindigkeit aufgebaut [PBM]. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
 - Pubertät und Hormonsystem
 Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
 - Immunsystem und Wundheilung
@@ -741,6 +741,9 @@ Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber
 - [FAQE] https://www.dge.de/fileadmin/dok/gesunde-ernaehrung/faq/DGE-FAQ-Energie-2015.pdf
 - [OMX] https://www.klinikum-bochum.de/files/klinikum-bochum/dokumente/fachbereiche/kinder-und-jugendmedizin/Sonstiges/Ke_OMK_Akt%20Ernmed_2017%20AutorPDF.pdf
 - [JUF] https://www.jobundfit.de/fuer-tischgaeste/energiebedarf
+- [PBM] https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.00099/full
+- [OM3] https://pmc.ncbi.nlm.nih.gov/articles/PMC10498982/
+- [WCRF] https://pmc.ncbi.nlm.nih.gov/articles/PMC3213242/
 
 
 ## 7 Hilfsmittel
