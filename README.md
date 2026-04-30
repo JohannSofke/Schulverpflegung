@@ -426,7 +426,7 @@ Lebensmittel sind unverarbeitete und minimalverarbeitete Lebensmittel. Es sind L
 
 #### 4.13.2 Gruppe 2
 
-Lebensmittel bezeichnet man als verarbeitete Küchenzutaten. Beispiele sind Öle, Butter und Zucker. Sie werden zur Zubereitung von Gruppe 1 Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe 1 Lebensmitteln gewonnen.
+Lebensmittel bezeichnet man als verarbeitete kulinarische Zutaten (engl. *processed culinary ingredients*). Beispiele sind Öle, Butter, Zucker und Salz. Sie werden zur Zubereitung von Gruppe 1 Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe 1 Lebensmitteln (oder durch Extraktion aus der Natur, etwa Salz aus Meerwasser) gewonnen.
 
 #### 4.13.3 Gruppe 3
 
@@ -434,7 +434,7 @@ Lebensmittel werden aus Lebensmitteln der Gruppe 1 mit Hilfe der Gruppe 2 Lebens
 
 #### 4.13.4 Gruppe 4
 
-Ultrahochverarbeitete Lebensmittel werden durch Zusatzstoffe aus Gruppe 1 und 3 Lebensmitteln hergestellt. Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Sie sind die ungesündesten, da durch die vielen Verarbeitungsschritte die meisten Nährstoffe zerstört werden. Zudem enthalten sie Transfette und Einfachzucker.
+Ultrahochverarbeitete Lebensmittel sind Industrieformulierungen aus mehreren Zutaten, in denen typischerweise Substanzen verwendet werden, die in haushaltsüblicher Küche nicht vorkommen (etwa hydrierte Öle, Maltodextrin, Proteinisolate, Geschmacksverstärker und Emulgatoren). Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Durch die vielen Verarbeitungsschritte werden viele Nährstoffe der Ausgangslebensmittel reduziert. Häufig — aber nicht zwingend — enthalten solche Produkte zusätzlich Transfette und hohe Anteile an Einfachzuckern.
 
 bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen Schritte beschreibt, die ein Lebensmittel durchläuft, jedoch nichts über die chemische Zusammensetzung des Endprodukts aussagt, die letztlich die physiologische Wirkung bestimmt. Ein Prozess kann Nährstoffe zerstören, erhalten oder sogar erst verfügbarer machen, die Richtung des Effekts ist nicht im Grad der Verarbeitung bestimmt, sondern hängt vom konkreten Verfahren und Ausgangsstoff ab. Darum erstellte ich ein eigenes System, welches genau diesen kritisierten Aspekt berücksichtigt:
 
