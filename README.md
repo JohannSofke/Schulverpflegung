@@ -569,7 +569,7 @@ Mit der Feldstudie im Rahmen einer wissenschaftlichen Arbeit erzeugte ich eine f
 Von 39 Kriterien bewertete ich 10 nicht. 17 Kriterien bewertete ich als nicht erfüllt und 13 Kriterien als erfüllt.
 Dramatisch ist vor allem, dass die Kriterien, die unmittelbar etwas mit der Ernährung zu tun haben, verfehlt wurden. Insbesondere sind hier die Mengen und Verhältnisse hervorzuheben. Damit verfehlt die Mittagsverpflegung ihre Hauptfunktion: Die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
 
-### 4.16 Ausblick
+### 4.16 Persönlicher Ausblick
 
 * Ergebnisse mit den Verpflegungsbeauftragten und anderen Akteuren teilen.
   Seit der Feldstudie sind nun schon einige Monate vergangen, in denen sich viel geändert hat: In der Mensa wurden Poster der Tressbrüder aufgehängt, Quizzes über andere Länder und Traditionen wurden überall auf den Tischen aufgestellt, doch an dem eigentlichen Problem, der Qualität des Essens, hat sich seitdem nichts geändert: Die Portionen sind immer noch zu klein, die Nährstoffzusammensetzung ist nach wie vor unausgewogen, und Simon Tress versteht sich nach Pressedarstellungen immer noch als verkanntes Genie, aber als Kind kann ich es sagen: Der Kaiser ist nackt.
