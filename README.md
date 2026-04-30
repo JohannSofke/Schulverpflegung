@@ -266,7 +266,7 @@ Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber
 
 #### 3.4.4 Kaloriendefizit
 
-Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den Referenzwert eines durchschnittlichen 14-jährigen Schülers um schätzungsweise 30 % unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
 ## 4 Weitere Kriterien zur Planung
 
@@ -603,38 +603,45 @@ So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusa
 
 Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitragsgebern.
 
-#### 5.2.2 Grundenergieumsatz unterschiedliche Formeln
+#### 5.2.2 Ruheenergieverbrauch nach DGE-Formel
 
-Der erste Beitragsgeber ist der Grundenergieumsatz, also die Energie, die der Körper bei vollständiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Grundenergieumsatz gibt es unterschiedliche Formeln wie zum Beispiel die Formel der DGE, die der WHO und die Harris Benedict Formel. Diese sind alle sehr ähnlich und berücksichtigen typischerweise Geschlecht, Alter, Körpergewicht und Körpergröße. Anhand der Harris Benedict Formel werde ich jetzt den Grundenergieumsatz eines durchschnittlichen 14-jährigen Jungen berechnen. Die Grundformel für Jungen: GU = 66,47 + 13,7 × M/kg + 5,0 x l/cm - 6,8 × T/A jetzt setze folgende Parameter in die Gleichung ein:
+Der erste Beitragsgeber ist der Ruheenergieverbrauch, also die Energie, die der Körper bei körperlicher und geistiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Ruheenergieverbrauchs gibt es unterschiedliche Formeln, etwa die Formel der Deutschen Gesellschaft für Ernährung (DGE), die Schofield-Formel und die Harris-Benedict-Formel von 1919. Die Werte dieser Formeln können sich um 100 bis 300 kcal pro Tag unterscheiden, weshalb die Wahl der Formel die Ergebnisse spürbar beeinflusst. Da diese Arbeit den DGE-Qualitätsstandard zugrunde legt, verwende ich konsequent die von der DGE selbst empfohlene Formel [FAQE]:
 
-* durchschnittliches Gewicht M = 58 kg
-* Alter T = 14 Jahren
-* Körpergröße l = 167 cm
-* Die Formel ist für Jungen, weshalb ich das Geschlecht nicht mehr in die Formel einbauen muss. Für Mädchen gibt es eine andere Formel.
+- **Männer:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg + 1,009 − 0,01452 × Alter in Jahren + 3,21) × 239
+- **Frauen:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg − 0,01452 × Alter in Jahren + 3,21) × 239
 
-GU = 66,47 + 13,7 × 58 + 5,0 × 167 - 6,8 × 14 = 66,47 + 794,6 + 835,0 - 95,2 = 1.600,87 kcal/Tag.
-Der Grundumsatz eines durchschnittlichen 14-jährigen Jungen ist 1.600 kcal am Tag.
+Die Harris-Benedict-Formel von 1919 ist hingegen für Erwachsene entwickelt worden und für Jugendliche nicht ohne Weiteres geeignet, weil sie den zusätzlichen Energiebedarf für das Wachstum nicht abbildet. Anhand der DGE-Formel berechne ich nun den Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen. Ich setze folgende Parameter ein:
+
+- durchschnittliches Gewicht M = 58 kg
+- Alter T = 14 Jahre
+
+Ruheenergieverbrauch = (0,047 × 58 + 1,009 − 0,01452 × 14 + 3,21) × 239
+= (2,726 + 1,009 − 0,2033 + 3,21) × 239
+= 6,742 × 239
+≈ 1.611 kcal/Tag.
+
+Der Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen liegt also bei etwa 1.600 kcal pro Tag.
 
 #### 5.2.3 Grad an Physischer Aktivität
 
-Der zweite Beitragsgeber ist der Grad an Physischer Aktivität, auch PAL-Faktor genannt. Dieser Faktor wird mit dem Grundumsatz multipliziert. Hier sind die PAL-Faktoren für unterschiedliche Bewegungsgrade:
+Der zweite Beitragsgeber ist der Grad an physischer Aktivität, auch PAL-Faktor genannt. Dieser Faktor wird mit dem Ruheenergieverbrauch multipliziert. Hier sind die PAL-Faktoren für unterschiedliche Bewegungsgrade [FAQE]:
 
-* Sitzende oder liegende Aktivität: 1,4
-* Überwiegend sitzen, teilweise stehen oder gehen: 1,6
-* Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
-* Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
+- Sitzende oder liegende Aktivität: 1,4
+- Überwiegend sitzen, teilweise stehen oder gehen: 1,6
+- Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
+- Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
 
-Multipliziert man jetzt den Grundenergieumsatz des durchschnittlichen 14-jährigen Jungen von 1.600 kcal mit dem PAL-Wert von einem durchschnittlichen Schulalltag von 1,6, so kommt man auf einen Gesamtenergieumsatz von 2.500 kcal.
+Multipliziert man den Ruheenergieverbrauch des durchschnittlichen 14-jährigen Jungen von rund 1.611 kcal mit dem PAL-Wert von 1,6 für einen durchschnittlichen Schulalltag, ergibt sich ein Gesamtenergieumsatz von rund 2.578 kcal pro Tag. Bei Kindern und Jugendlichen kommt zusätzlich noch ein Energieanteil für das Wachstum hinzu, der in den offiziellen DGE-Richtwerttabellen bereits enthalten ist.
 
 #### 5.2.4 Zwischenfazit
 
-Hier ist die Tabelle für den Tagesbedarf aller Altersgruppen von beiden Geschlechtern:
+Die DGE veröffentlicht für Kinder und Jugendliche Richtwerte für die durchschnittliche Energiezufuhr, die den Ruheenergieverbrauch, den PAL-Wert und den zusätzlichen Energiebedarf für das Wachstum bereits zusammenfassen. Die folgende Tabelle zeigt die Richtwerte für PAL 1,4 (überwiegend sitzende Tätigkeit, etwa typischer Schulalltag ohne zusätzlichen Sport) und PAL 1,6 (sitzende Tätigkeit mit zusätzlicher Bewegung im Alltag) [FAQE]:
 
-| Altersgruppe | Größe ♂ | Gewicht ♂ | Grundumsatz ♂ | **Tagesbedarf ♂** | Größe ♀ | Gewicht ♀ | Grundumsatz ♀ | **Tagesbedarf ♀** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10–12 Jahre | 147 cm | 38 kg | 1.240 kcal | **~1.985 kcal** | 150 cm | 41 kg | 1.244 kcal | **~1.990 kcal** |
-| 13–15 Jahre | 166 cm | 54 kg | 1.529 kcal | **~2.446 kcal** | 162 cm | 54 kg | 1.388 kcal | **~2.221 kcal** |
-| 16–18 Jahre | 177 cm | 70 kg | 1.779 kcal | **~2.847 kcal** | 165 cm | 61 kg | 1.449 kcal | **~2.319 kcal** |
+| Altersgruppe | **Richtwert ♂ PAL 1,4** | **Richtwert ♂ PAL 1,6** | **Richtwert ♀ PAL 1,4** | **Richtwert ♀ PAL 1,6** |
+| --- | --- | --- | --- | --- |
+| 10 bis unter 13 Jahre | ~1.900 kcal | ~2.200 kcal | ~1.700 kcal | ~2.000 kcal |
+| 13 bis unter 15 Jahre | ~2.300 kcal | ~2.600 kcal | ~1.900 kcal | ~2.200 kcal |
+| 15 bis unter 19 Jahre | ~2.600 kcal | ~3.000 kcal | ~2.000 kcal | ~2.300 kcal |
 
 #### 5.2.5 Verteilung der Kalorienaufnahme über den Tag
 
@@ -650,11 +657,11 @@ Wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25 % [
 
 Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlzeit für alle Altersgruppen und beide Geschlechter:
 
-| Altersgruppe | Tagesbedarf ♂ | **Mittagessen ♂ (30 %)** | Tagesbedarf ♀ | **Mittagessen ♀ (30 %)** |
+| Altersgruppe | **Mittagessen ♂ PAL 1,4** | **Mittagessen ♂ PAL 1,6** | **Mittagessen ♀ PAL 1,4** | **Mittagessen ♀ PAL 1,6** |
 | --- | --- | --- | --- | --- |
-| 10–12 Jahre | ~1.985 kcal | **~596 kcal** | ~1.990 kcal | **~597 kcal** |
-| 13–15 Jahre | ~2.446 kcal | **~734 kcal** | ~2.221 kcal | **~666 kcal** |
-| 16–18 Jahre | ~2.847 kcal | **~854 kcal** | ~2.319 kcal | **~696 kcal** |
+| 10 bis unter 13 Jahre | ~570 kcal | ~660 kcal | ~510 kcal | ~600 kcal |
+| 13 bis unter 15 Jahre | ~690 kcal | ~780 kcal | ~570 kcal | ~660 kcal |
+| 15 bis unter 19 Jahre | ~780 kcal | ~900 kcal | ~600 kcal | ~690 kcal |
 
 ### 5.3 Kalorienaufnahme der Schulverpflegung
 
@@ -673,11 +680,11 @@ Folgende Punkte sind noch anzumerken:
 
 ### 5.4 Zwischenfazit
 
-* Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten.
-* Bei Mädchen in der Alterskategorie 10-12 Jahre wurde der Kalorienbedarf nur um ~85 % gedeckt.
-* Bei Jungen in der Alterskategorie 16-18 Jahre wurde der Kalorienbedarf nur um ~60 %.
-* Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
-* Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
+- Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten.
+- Bei Mädchen in der Alterskategorie 10 bis unter 13 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 600 kcal nur zu etwa 85 % gedeckt.
+- Bei Jungen in der Alterskategorie 15 bis unter 19 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 900 kcal nur zu etwa 57 % gedeckt.
+- Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
+- Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
 
 ### 5.5 Langfristige Folgen eines Kaloriendefizits
 
