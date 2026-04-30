@@ -643,6 +643,8 @@ Die DGE veröffentlicht für Kinder und Jugendliche Richtwerte für die durchsch
 | 13 bis unter 15 Jahre | ~2.300 kcal | ~2.600 kcal | ~1.900 kcal | ~2.200 kcal |
 | 15 bis unter 19 Jahre | ~2.600 kcal | ~3.000 kcal | ~2.000 kcal | ~2.300 kcal |
 
+*Tabelle 1: DGE-Richtwerte für die durchschnittliche tägliche Energiezufuhr von Kindern und Jugendlichen nach Altersgruppe, Geschlecht und PAL-Wert. Quelle: Deutsche Gesellschaft für Ernährung [FAQE].*
+
 #### 5.2.5 Verteilung der Kalorienaufnahme über den Tag
 
 Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und jungen Erwachsenen eines Tages auf 5 Mahlzeiten zu verteilen:
@@ -662,6 +664,8 @@ Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlze
 | 10 bis unter 13 Jahre | ~570 kcal | ~660 kcal | ~510 kcal | ~600 kcal |
 | 13 bis unter 15 Jahre | ~690 kcal | ~780 kcal | ~570 kcal | ~660 kcal |
 | 15 bis unter 19 Jahre | ~780 kcal | ~900 kcal | ~600 kcal | ~690 kcal |
+
+*Tabelle 2: Daraus abgeleiteter Kalorienbedarf für die Mittagsmahlzeit (30 % des Tagesbedarfs), eigene Berechnung auf Basis der DGE-Richtwerte aus Tabelle 1.*
 
 ### 5.3 Kalorienaufnahme der Schulverpflegung
 
