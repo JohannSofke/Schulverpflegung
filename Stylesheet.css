@@ -1,0 +1,544 @@
+<style>
+/* ===========================================================================
+   MARKOR SCIENTIFIC STYLESHEET v6.34 (lean build)
+   Paste into: Markor → Settings → Format → Markdown → HTML head inject.
+   v6.34: pixel-diagnostic revealed that in light mode, Markor's own
+   default theme tints the <pre> background a slightly warm grey
+   rgb(245,242,240), while our explicit #f5f5f5 = rgb(245,245,245)
+   only wins in dark mode (because of !important there). Adds
+   !important to the main-block backgrounds for pre, blockquote and
+   inline code so the box backgrounds are pixel-identical between
+   light and dark mode.
+   =========================================================================== */
+
+/* === Color scheme: this is a light-only document. */
+:root {
+  color-scheme: light only;
+}
+html, body {
+  background: #ffffff !important;
+  color: #000 !important;
+}
+*:not(pre *):not(code *), *::before, *::after {
+  color: #000;
+}
+
+/* === Code block default text color: black for unclassified tokens
+       (variable names, identifiers without specific Prism class).
+       This anchor is essential — without it, force-dark inverts these
+       to light grey in dark mode, while classified tokens below keep
+       their assigned colors via higher specificity. */
+pre,
+pre code,
+pre[class*="language-"],
+code[class*="language-"] {
+  color: #000 !important;
+}
+
+/* === Prism Light theme token colors === */
+pre .token.keyword,
+pre .token.builtin,
+pre .token.boolean,
+pre code .token.keyword,
+pre code .token.builtin,
+pre code .token.boolean       { color: #07a !important; }
+pre .token.string,
+pre .token.char,
+pre code .token.string,
+pre code .token.char          { color: #690 !important; }
+pre .token.number,
+pre code .token.number        { color: #905 !important; }
+pre .token.comment,
+pre code .token.comment       { color: #708090 !important; }
+pre .token.function,
+pre .token.class-name,
+pre code .token.function,
+pre code .token.class-name    { color: #dd4a68 !important; }
+pre .token.operator,
+pre .token.punctuation,
+pre code .token.operator,
+pre code .token.punctuation   { color: #999 !important; }
+pre .token.variable,
+pre code .token.variable      { color: #000 !important; }
+
+/* === Page layout, page numbers, no number on title page === */
+@page {
+  size: A4;
+  margin: 2.5cm 2.5cm 2.5cm 3cm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: "Charter", "Linux Libertine", "Georgia", serif;
+    font-size: 10pt;
+    color: #000;
+  }
+}
+
+@page :first {
+  @bottom-center {
+    content: "";
+  }
+}
+
+/* === Body typography (Charter serif, 11pt, justified, hyphenated) === */
+body {
+  font-family: "Charter", "Linux Libertine", "Georgia", serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  font-feature-settings: "liga" 1, "kern" 1;
+  -webkit-font-feature-settings: "liga" 1, "kern" 1;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  counter-reset: h1 figure table listing;
+}
+
+/* === Headings: reset borders, then numbered automatically (1., 1.1, 1.1.1) === */
+h1, h2, h3, h4, h5, h6 {
+  border: none !important;
+  border-bottom: none !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+  padding-bottom: 0 !important;
+}
+
+h1 {
+  counter-reset: h2;
+  counter-increment: h1;
+  font-size: 18pt;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+h2 {
+  counter-reset: h3;
+  counter-increment: h2;
+  font-size: 14pt;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+h3 {
+  counter-increment: h3;
+  font-size: 12pt;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-top: 1.1em;
+  margin-bottom: 0.3em;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h1::before { content: counter(h1) ". "; }
+h2::before { content: counter(h1) "." counter(h2) " "; }
+h3::before { content: counter(h1) "." counter(h2) "." counter(h3) " "; }
+
+/* === Journal-style document header: title (no number, centered, large)
+       and metadata line; gap below matches h1 margin-top exactly === */
+body > h1:first-of-type {
+  counter-increment: none;
+  text-align: center;
+  font-size: 22pt;
+  font-weight: bold;
+  margin: 0;
+  line-height: 1.25;
+}
+body > h1:first-of-type::before {
+  content: "";
+}
+
+body > h1:first-of-type + p {
+  text-align: center;
+  text-indent: 0;
+  font-size: 11pt;
+  
+  margin: 0.8em 0 32.4pt 0;
+}
+
+/* === Abstract = first blockquote: rendered with centered "Zusammenfassung"
+       label, no callout look (overrides admonition style below) === */
+body > blockquote:first-of-type {
+  margin: 1.5em 2.4em 1.8em 2.4em;
+  padding: 0;
+  font-size: 11pt;
+  text-align: justify;
+  line-height: 1.5;
+  border-left: none;
+  background: transparent !important;
+  color: #000;
+}
+body > blockquote:first-of-type::before {
+  content: "Zusammenfassung";
+  display: block;
+  font-family: sans-serif !important;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14pt;
+  margin-bottom: 0.5em;
+}
+body > blockquote:first-of-type p {
+  text-indent: 0;
+}
+
+/* === Admonition boxes = all other blockquotes; user marks type with
+       "**Anmerkung:**", "**Definition:**", "**Beispiel:**" prefix === */
+blockquote {
+  margin: 1.2em 0;
+  padding: 0.7em 1em;
+  font-size: 11pt;
+  border-left: 3px solid #888;
+  background: #f5f5f5 !important;
+  color: #000;
+  page-break-inside: avoid;
+}
+blockquote p {
+  text-indent: 0;
+  margin: 0;
+}
+
+/* === "---" in markdown becomes invisible page break (only top-level hr;
+       the inner hr that flexmark inserts into .footnotes is hidden) === */
+body > hr {
+  display: block;
+  page-break-before: always;
+  break-before: page;
+  border: none;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+/* === Paragraphs: classic 2.4em first-line indent, except after
+       headings, lists, blockquotes and figures (no indent there) === */
+p {
+  margin: 0;
+  text-indent: 2.4em;
+  orphans: 3;
+  widows: 3;
+}
+h1 + p, h2 + p, h3 + p,
+blockquote + p, ul + p, ol + p,
+figure + p {
+  text-indent: 0;
+}
+
+/* === Tables: caption ABOVE (paragraph before table), horizontal-rules
+       only (1px top, 2px header sep, 1px bottom), no vertical lines === */
+p:has(+ table),
+p:has(+ div > table),
+p:has(+ figure > table) {
+  counter-increment: table;
+  font-size: 9.5pt;
+  font-style: italic;
+  text-align: center;
+  text-indent: 0;
+  margin: 1.2em 0 0.4em 0;
+}
+p:has(+ table)::before,
+p:has(+ div > table)::before,
+p:has(+ figure > table)::before {
+  content: "Tabelle " counter(table) ": ";
+  font-weight: bold;
+  font-style: normal;
+}
+
+table {
+  border-collapse: collapse;
+  border: none !important;
+  margin: 0 auto 1.2em auto;
+  font-size: 10pt;
+  page-break-inside: avoid;
+}
+table th {
+  border-top: 1px solid #000 !important;
+  border-bottom: 2px solid #000 !important;
+  border-left: none !important;
+  border-right: none !important;
+  font-weight: bold;
+  padding: 0.4em 0.8em;
+  text-align: left;
+}
+table td {
+  border: none !important;
+  padding: 0.4em 0.8em;
+  text-align: left;
+}
+table tr:last-child td {
+  border-top: none !important;
+  border-bottom: 1px solid #000 !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+/* === Figures: caption BELOW via figcaption (auto-prefixed "Abbildung N:"),
+       1px black border around img/svg === */
+figure {
+  margin: 1.2em auto;
+  text-align: center;
+  page-break-inside: avoid;
+}
+figure img,
+figure svg {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+figcaption {
+  font-size: 9.5pt;
+  font-style: italic;
+  margin-top: 0.4em;
+  counter-increment: figure;
+}
+figcaption::before {
+  content: "Abbildung " counter(figure) ": ";
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* === Code: caption ABOVE (paragraph before pre), inline + block code
+       same hellgrey background, monospace, no hyphenation === */
+p:has(+ pre),
+p:has(+ div > pre),
+p:has(+ figure > pre) {
+  counter-increment: listing;
+  font-size: 9.5pt;
+  font-style: italic;
+  text-align: center;
+  text-indent: 0;
+  margin: 1.2em 0 0.4em 0;
+}
+p:has(+ pre)::before,
+p:has(+ div > pre)::before,
+p:has(+ figure > pre)::before {
+  content: "Listing " counter(listing) ": ";
+  font-weight: bold;
+  font-style: normal;
+}
+
+code {
+  font-family: "Source Code Pro", "Courier New", monospace;
+  font-size: 0.92em;
+  background: #f5f5f5 !important;
+  padding: 1px 4px;
+  border-radius: 2px;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+pre {
+  background: #f5f5f5 !important;
+  padding: 0.7em 1em;
+  border-left: 3px solid #888;
+  border-radius: 0;
+  font-size: 0.92em;
+  overflow-x: auto;
+  page-break-inside: avoid;
+  margin: 0 0 1.2em 0;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+pre code {
+  background: transparent !important;
+  padding: 0;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+
+/* === Lists: square bullets for ul, native numbers for ol, both 2.4em
+       padding-left to match the document's unified indent metric === */
+ul, ol {
+  text-align: left;
+  margin: 0.4em 0;
+  padding-left: 2.4em;
+}
+ul {
+  list-style: square;
+}
+ul > li,
+ol > li {
+  margin-bottom: 0.2em;
+}
+
+li p {
+  text-indent: 0;
+  margin: 0;
+}
+
+/* === Bibliography (Variante A): the .footnotes block from Markor's
+       footnote extension is repurposed as the literature section.
+       Auto-numbered "[N]" markers, hanging indent, "Literatur" heading
+       via ::before. !important on typography defeats Markor defaults.
+       Multiple [^key] uses of the same source merge automatically. === */
+.footnotes {
+  font-family: "Charter", "Linux Libertine", "Georgia", serif !important;
+  font-size: 11pt !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1.5 !important;
+  color: #000 !important;
+  text-align: justify !important;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  font-feature-settings: "liga" 1, "kern" 1;
+  -webkit-font-feature-settings: "liga" 1, "kern" 1;
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+.footnotes::before {
+  content: "Literatur" !important;
+  display: block !important;
+  font-family: sans-serif !important;
+  font-size: 18pt !important;
+  font-weight: bold !important;
+  font-style: normal !important;
+  font-variant: normal !important;
+  line-height: 1.2 !important;
+  color: #000 !important;
+  text-align: justify !important;
+  margin: 1.8em 0 0.6em 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+}
+.footnotes ol {
+  list-style-position: outside;
+  padding-left: 2.4em !important;
+  margin: 0 !important;
+}
+.footnotes ol > li {
+  font-family: "Charter", "Linux Libertine", "Georgia", serif !important;
+  font-size: 11pt !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  line-height: 1.5 !important;
+  color: #000 !important;
+  text-align: justify !important;
+  text-indent: 0 !important;
+  padding-left: 0 !important;
+  margin-bottom: 0.5em !important;
+  page-break-inside: avoid;
+}
+
+.footnotes ol > li::marker {
+  content: "[" counter(list-item) "]\00a0\00a0";
+  font-family: "Charter", "Linux Libertine", "Georgia", serif;
+  font-size: 11pt;
+  font-weight: normal;
+  color: #000;
+}
+
+.footnotes ol > li p {
+  font-family: "Charter", "Linux Libertine", "Georgia", serif !important;
+  font-size: 11pt !important;
+  font-weight: normal !important;
+  font-style: normal !important;
+  line-height: 1.5 !important;
+  color: #000 !important;
+  text-indent: 0 !important;
+  margin: 0 !important;
+  display: inline;
+}
+
+.footnotes a.footnote-backref {
+  display: none;
+}
+
+/* === Citation markers in body: rendered as "[N]" at baseline (Vancouver/
+       ICMJE), with NBSP before the bracket; flexmark may put the
+       .footnote-ref class on different elements, so handle all cases === */
+sup.footnote-ref,
+sup:has(.footnote-ref) {
+  font-size: 1em;
+  line-height: inherit;
+  vertical-align: baseline;
+}
+
+.footnote-ref::before { content: "\00a0["; }
+.footnote-ref::after  { content: "]"; }
+
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+.footnote-ref,
+.footnote-ref a,
+sup a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* === Defensive override against Android WebView force-dark.
+       When the system is in dark mode, the WebView may try to invert
+       colors per-element based on heuristics. This block re-asserts
+       the light palette on every element that has its own background
+       or text color, so force-dark finds no "darkenable" target.
+       The @media query alone signals "this page handles dark mode
+       itself" — that disables force-dark in newer Chromium builds.
+       The explicit values are belt-and-suspenders for older WebViews. === */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background: #ffffff !important;
+    color: #000 !important;
+  }
+  /* Re-assert text color universally, but exclude Prism token spans
+     inside code blocks so syntax highlighting stays visible */
+  *:not(pre *):not(code *), *::before, *::after {
+    color: #000 !important;
+  }
+  /* Re-assert backgrounds on every box element */
+  blockquote {
+    background: #f5f5f5 !important;
+  }
+  body > blockquote:first-of-type {
+    background: transparent !important;
+  }
+  pre, pre[class*="language-"], code[class*="language-"] {
+    background: #f5f5f5 !important;
+  }
+  pre code,
+  pre span,
+  pre code span,
+  pre .token,
+  code .token {
+    background: transparent !important;
+  }
+  code {
+    background: #f5f5f5 !important;
+  }
+  /* Borders explicit */
+  table th {
+    border-top-color: #000 !important;
+    border-bottom-color: #000 !important;
+  }
+  table tr:last-child td {
+    border-bottom-color: #000 !important;
+  }
+  figure img,
+  figure svg {
+    border-color: #000 !important;
+  }
+}
+
+</style>
+    
