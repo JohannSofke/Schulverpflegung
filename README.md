@@ -43,17 +43,13 @@ In dem DGE Qualitätsstandard definiert Kapitel 2, Qualität in der Schulverpfle
 
 ### Der Verpflegungsbeauftragte
 
-**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass ein/e Verpflegungsbeauftragte/r vorhanden ist. Dies kann eine einzelne Person oder ein Team sein, das die Verpflegung zentral koordiniert.
-
+Dieses Kriterium besagt, dass ein/e Verpflegungsbeauftragte/r vorhanden ist. Dies kann eine einzelne Person oder ein Team sein, das die Verpflegung zentral koordiniert.
 **Durchführung:** In Tübingen gibt es im Fachbereich Bildung, Betreuung, Jugend und Sport die Abteilung „Service-Center Bildung und Betreuung". In dieser Abteilung kümmert sich das Team „Gutes Essen" um die Mittagsverpflegung in den städtischen Kindereinrichtungen und Schulen, und ist somit für die zentrale Organisation der Verpflegung zuständig.
 Zur Bewertung der Kriterien bat ich Team „Gutes Essen" um eine Zitiererlaubnis, auf welche jedoch keine Antwort kam. Daher kann ich im Folgenden den Inhalt der Email nur sinngemäß wiedergeben.
-
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
 ### Das Verpflegungskonzept
-
-**Beschreibung des Kriteriums:** Dieses Kriterium besagt, dass ein Verpflegungskonzept vorliegt.
-
+Dieses Kriterium besagt, dass ein Verpflegungskonzept vorliegt.
 **Durchführung:** Team „Gutes Essen" informierte mich darüber, dass ein Verpflegungskonzept vorliege, und auch, über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt sei. Diese Anforderungen orientierten sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [^TKSV] wird jedoch mit DGE-konformen Gerichten in der Kinder und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser wissenschaftlichen Arbeit gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten.
 Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken müsse. Darüber hinaus soll das Essen täglich pünktlich ausgegeben werden. Weiterhin gelten folgende Kriterien im Verpflegungskonzept:
 
