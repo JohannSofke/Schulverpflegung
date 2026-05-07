@@ -355,7 +355,7 @@ Es ergeben sich folgende Ergebnisse:
 Folgende Punkte sind noch anzumerken:
 
 * Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des Mittagessens stark rationiert ist.
-* Den Schülern werden keine altersgerechten Portionsgrößen serviert, die Schüler bekommen alle ungefähr die gleiche Portionsgröße. Dies ist belegbar durch den Umstand, dass die Teller in der Regel schon vorrätig befüllt werden, und dann zufällig zu einem Schüler zugeteilt werden.
+* Den Schülern werden keine altersgerechten Portionsgrößen serviert; alle bekommen ungefähr die gleiche Portionsgröße. Diese gleichmäßige, nicht-altersgerechte Portionierung lässt sich daran belegen, dass die Teller in der Regel schon vorrätig befüllt und anschließend zufällig zu den Schülern zugeteilt werden.
 
 ## Zwischenfazit
 
