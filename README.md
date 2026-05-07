@@ -268,7 +268,121 @@ Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber
 
 ### Kaloriendefizit
 
-Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet – ein Befund, der im Anhang dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet – ein Befund, der im folgenden Kapitel Kalorienbedarf dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+
+# Kalorienbedarf
+
+## Gesamtenergieumsatz
+
+Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitragsgebern.
+
+## Ruheenergieverbrauch nach DGE-Formel
+
+Der erste Beitragsgeber ist der Ruheenergieverbrauch, also die Energie, die der Körper bei körperlicher und geistiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Ruheenergieverbrauchs gibt es unterschiedliche Formeln, etwa die Formel der Deutschen Gesellschaft für Ernährung (DGE), die Schofield-Formel und die Harris-Benedict-Formel von 1919. Die Werte dieser Formeln können sich um 100 bis 300 kcal pro Tag unterscheiden, weshalb die Wahl der Formel die Ergebnisse spürbar beeinflusst. Da diese Arbeit den DGE-Qualitätsstandard zugrunde legt, verwende ich konsequent die von der DGE selbst empfohlene Formel [^FAQE]:
+
+- **Männer:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg + 1,009 − 0,01452 × Alter in Jahren + 3,21) × 239
+- **Frauen:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg − 0,01452 × Alter in Jahren + 3,21) × 239
+
+Die Harris-Benedict-Formel von 1919 ist hingegen für Erwachsene entwickelt worden und für Jugendliche nicht ohne Weiteres geeignet, weil sie den zusätzlichen Energiebedarf für das Wachstum nicht abbildet. Anhand der DGE-Formel berechne ich nun den Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen. Ich setze folgende Parameter ein:
+
+- durchschnittliches Gewicht M = 58 kg
+- Alter T = 14 Jahre
+
+Ruheenergieverbrauch = (0,047 × 58 + 1,009 − 0,01452 × 14 + 3,21) × 239
+= (2,726 + 1,009 − 0,2033 + 3,21) × 239
+= 6,742 × 239
+≈ 1.611 kcal/Tag.
+
+Der Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen liegt also bei etwa 1.600 kcal pro Tag.
+
+## Grad an Physischer Aktivität
+
+Der zweite Beitragsgeber ist der Grad an physischer Aktivität, auch PAL-Faktor genannt. Dieser Faktor wird mit dem Ruheenergieverbrauch multipliziert. Hier sind die PAL-Faktoren für unterschiedliche Bewegungsgrade [^FAQE]:
+
+- Sitzende oder liegende Aktivität: 1,4
+- Überwiegend sitzen, teilweise stehen oder gehen: 1,6
+- Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
+- Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
+
+Multipliziert man den Ruheenergieverbrauch des durchschnittlichen 14-jährigen Jungen von rund 1.611 kcal mit dem PAL-Wert von 1,6 für einen durchschnittlichen Schulalltag, ergibt sich ein Gesamtenergieumsatz von rund 2.578 kcal pro Tag. Bei Kindern und Jugendlichen kommt zusätzlich noch ein Energieanteil für das Wachstum hinzu, der in den offiziellen DGE-Richtwerttabellen bereits enthalten ist.
+
+## Richtwerte für die durchschnittliche Energiezufuhr
+
+Die DGE veröffentlicht für Kinder und Jugendliche Richtwerte für die durchschnittliche Energiezufuhr, die den Ruheenergieverbrauch, den PAL-Wert und den zusätzlichen Energiebedarf für das Wachstum bereits zusammenfassen. Die folgende Tabelle zeigt die Richtwerte für PAL 1,4 (überwiegend sitzende Tätigkeit, etwa typischer Schulalltag ohne zusätzlichen Sport) und PAL 1,6 (sitzende Tätigkeit mit zusätzlicher Bewegung im Alltag) [^FAQE]:
+
+DGE-Richtwerte für die durchschnittliche tägliche Energiezufuhr von Kindern und Jugendlichen nach Altersgruppe, Geschlecht und PAL-Wert. Quelle: Deutsche Gesellschaft für Ernährung [^FAQE].
+
+| Altersgruppe | Richtwert ♂ PAL 1,4 | Richtwert ♂ PAL 1,6 | Richtwert ♀ PAL 1,4 | Richtwert ♀ PAL 1,6 |
+| --- | --- | --- | --- | --- |
+| 10 bis unter 13 Jahre | ~1.900 kcal | ~2.200 kcal | ~1.700 kcal | ~2.000 kcal |
+| 13 bis unter 15 Jahre | ~2.300 kcal | ~2.600 kcal | ~1.900 kcal | ~2.200 kcal |
+| 15 bis unter 19 Jahre | ~2.600 kcal | ~3.000 kcal | ~2.000 kcal | ~2.300 kcal |
+
+
+
+## Verteilung der Kalorienaufnahme über den Tag
+
+Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und jungen Erwachsenen eines Tages auf 5 Mahlzeiten zu verteilen:
+
+* Frühstück
+* 1 Zwischenmahlzeit
+* Mittagessen
+* 2 Zwischenmahlzeit
+* Abendessen
+
+Wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25 % [^OMX] bis 35 % [^JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30 % fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmahlzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Mahlzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allermeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
+
+Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlzeit für alle Altersgruppen und beide Geschlechter:
+
+Daraus abgeleiteter Kalorienbedarf für die Mittagsmahlzeit (30 % des Tagesbedarfs), eigene Berechnung auf Basis der DGE-Richtwerte aus Tabelle 1.
+
+| Altersgruppe | Mittagessen ♂ PAL 1,4 | Mittagessen ♂ PAL 1,6 | Mittagessen ♀ PAL 1,4 | Mittagessen ♀ PAL 1,6 |
+| --- | --- | --- | --- | --- |
+| 10 bis unter 13 Jahre | ~570 kcal | ~660 kcal | ~510 kcal | ~600 kcal |
+| 13 bis unter 15 Jahre | ~690 kcal | ~780 kcal | ~570 kcal | ~660 kcal |
+| 15 bis unter 19 Jahre | ~780 kcal | ~900 kcal | ~600 kcal | ~690 kcal |
+
+## Kalorienaufnahme der Schulverpflegung
+
+Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, zog ich die Daten meiner Feldstudie heran. Anschließend schätzte ich für jedes Gericht die Makronährstoffe ab (Fette, Kohlenhydrate, Proteine und Ballaststoffe) und leitete daraus das Kalorienangebot ab. Für die Abschätzung der Zusammensetzung nutzte ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht. Darüber hinaus verwendete ich KI, und meine Oma, die promovierte Ernährungsberaterin ist, plausibilisierte die Ergebnisse. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern – etwa einer durchgängigen Über- oder Unterschätzung von Portionen – hilft die Mittelung nicht.
+
+Es ergeben sich folgende Ergebnisse:
+
+* Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (± 20 %)
+* Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (± 20 %)
+* Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (± 5 %)
+
+Folgende Punkte sind noch anzumerken:
+
+* Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des Mittagessens stark rationiert ist.
+* Den Schülern werden keine altersgerechten Portionsgrößen serviert, die Schüler bekommen alle ungefähr die gleiche Portionsgröße. Dies ist belegbar durch den Umstand, dass die Teller in der Regel schon vorrätig befüllt werden, und dann zufällig zu einem Schüler zugeteilt werden.
+
+## Zwischenfazit
+
+- Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten.
+- Bei Mädchen in der Alterskategorie 10 bis unter 13 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 600 kcal nur zu etwa 85 % gedeckt.
+- Bei Jungen in der Alterskategorie 15 bis unter 19 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 900 kcal nur zu etwa 57 % gedeckt.
+- Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
+- Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
+
+## Langfristige Folgen eines Kaloriendefizit
+
+Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
+
+* Wachstum und Körpergröße
+  Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
+* Knochen und Muskulatur
+  Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in den vier Jahren um die maximale Wachstumsgeschwindigkeit aufgebaut [^PBM]. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
+* Pubertät und Hormonsystem
+  Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
+* Immunsystem und Wundheilung
+  Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Energie und Mikronährstoffe fehlen.
+* Gehirn und kognitive Entwicklung
+  Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Folgen, die sich bis ins Erwachsenenalter ziehen können.
+* Risiko für Essstörungen
+  Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich, insbesondere wenn das Defizit bewusst herbeigeführt wird.
+
+Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können.
 
 # Weitere Kriterien zur Planung
 
@@ -432,7 +546,7 @@ Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebens
 
 ### Der Einsatz von unverarbeiteten oder geringverarbeiteten Lebensmitteln
 
-Dieses Kriterium fordert, dass unverarbeitete oder geringverarbeitete Lebensmittel zur weiteren Verarbeitung vor Ort bevorzugt eingesetzt werden. Unverarbeitete oder geringverarbeitete Lebensmittel entsprechen auf meiner Skala Klasse 1 und 2.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass unverarbeitete oder geringverarbeitete Lebensmittel zur weiteren Verarbeitung vor Ort bevorzugt eingesetzt werden. Unverarbeitete oder geringverarbeitete Lebensmittel entsprechen auf meiner Skala Klasse 1 und 2.
 
 **Durchführung:** Zur Bewertung bewertete ich jedes Gericht nach meiner Skala. Das Ergebnis zeigte, dass nur 3 der 20 Gerichte in Klasse 2 eingeteilt wurden und die restlichen 17 in Klasse 3.
 
@@ -515,7 +629,7 @@ Zur Bewertung zählte ich die Tage, an denen der aktuelle Speiseplan online zur 
 
 **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
 
-**Weiterführende Gedanken:** Wie dem Kapitel Kalorienbedarf im Anhang zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, und Schüler und Eltern auf den Mangel aufmerksam zu machen.
+**Weiterführende Gedanken:** Wie dem Kapitel Kalorienbedarf zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, und Schüler und Eltern auf den Mangel aufmerksam zu machen.
 
 ### Eindeutige und übersichtliche Darstellung der Preise
 
@@ -570,120 +684,6 @@ Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen z
 * Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nach Hause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Der Vorsitzende des Gesamtelternbeirats wertet die Unzufriedenheit der Schüler ab: "Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein" und stellt vorweg: "Es sind Grundschüler".
 
 So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team "Gutes Essen") koordiniert und moderiert werden.
-
-## Kalorienbedarf
-
-### Gesamtenergieumsatz
-
-Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitragsgebern.
-
-### Ruheenergieverbrauch nach DGE-Formel
-
-Der erste Beitragsgeber ist der Ruheenergieverbrauch, also die Energie, die der Körper bei körperlicher und geistiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Ruheenergieverbrauchs gibt es unterschiedliche Formeln, etwa die Formel der Deutschen Gesellschaft für Ernährung (DGE), die Schofield-Formel und die Harris-Benedict-Formel von 1919. Die Werte dieser Formeln können sich um 100 bis 300 kcal pro Tag unterscheiden, weshalb die Wahl der Formel die Ergebnisse spürbar beeinflusst. Da diese Arbeit den DGE-Qualitätsstandard zugrunde legt, verwende ich konsequent die von der DGE selbst empfohlene Formel [^FAQE]:
-
-- **Männer:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg + 1,009 − 0,01452 × Alter in Jahren + 3,21) × 239
-- **Frauen:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg − 0,01452 × Alter in Jahren + 3,21) × 239
-
-Die Harris-Benedict-Formel von 1919 ist hingegen für Erwachsene entwickelt worden und für Jugendliche nicht ohne Weiteres geeignet, weil sie den zusätzlichen Energiebedarf für das Wachstum nicht abbildet. Anhand der DGE-Formel berechne ich nun den Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen. Ich setze folgende Parameter ein:
-
-- durchschnittliches Gewicht M = 58 kg
-- Alter T = 14 Jahre
-
-Ruheenergieverbrauch = (0,047 × 58 + 1,009 − 0,01452 × 14 + 3,21) × 239
-= (2,726 + 1,009 − 0,2033 + 3,21) × 239
-= 6,742 × 239
-≈ 1.611 kcal/Tag.
-
-Der Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen liegt also bei etwa 1.600 kcal pro Tag.
-
-### Grad an Physischer Aktivität
-
-Der zweite Beitragsgeber ist der Grad an physischer Aktivität, auch PAL-Faktor genannt. Dieser Faktor wird mit dem Ruheenergieverbrauch multipliziert. Hier sind die PAL-Faktoren für unterschiedliche Bewegungsgrade [^FAQE]:
-
-- Sitzende oder liegende Aktivität: 1,4
-- Überwiegend sitzen, teilweise stehen oder gehen: 1,6
-- Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
-- Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
-
-Multipliziert man den Ruheenergieverbrauch des durchschnittlichen 14-jährigen Jungen von rund 1.611 kcal mit dem PAL-Wert von 1,6 für einen durchschnittlichen Schulalltag, ergibt sich ein Gesamtenergieumsatz von rund 2.578 kcal pro Tag. Bei Kindern und Jugendlichen kommt zusätzlich noch ein Energieanteil für das Wachstum hinzu, der in den offiziellen DGE-Richtwerttabellen bereits enthalten ist.
-
-### Zwischenfazit
-
-Die DGE veröffentlicht für Kinder und Jugendliche Richtwerte für die durchschnittliche Energiezufuhr, die den Ruheenergieverbrauch, den PAL-Wert und den zusätzlichen Energiebedarf für das Wachstum bereits zusammenfassen. Die folgende Tabelle zeigt die Richtwerte für PAL 1,4 (überwiegend sitzende Tätigkeit, etwa typischer Schulalltag ohne zusätzlichen Sport) und PAL 1,6 (sitzende Tätigkeit mit zusätzlicher Bewegung im Alltag) [^FAQE]:
-
-DGE-Richtwerte für die durchschnittliche tägliche Energiezufuhr von Kindern und Jugendlichen nach Altersgruppe, Geschlecht und PAL-Wert. Quelle: Deutsche Gesellschaft für Ernährung [^FAQE].
-
-| Altersgruppe | Richtwert ♂ PAL 1,4 | Richtwert ♂ PAL 1,6 | Richtwert ♀ PAL 1,4 | Richtwert ♀ PAL 1,6 |
-| --- | --- | --- | --- | --- |
-| 10 bis unter 13 Jahre | ~1.900 kcal | ~2.200 kcal | ~1.700 kcal | ~2.000 kcal |
-| 13 bis unter 15 Jahre | ~2.300 kcal | ~2.600 kcal | ~1.900 kcal | ~2.200 kcal |
-| 15 bis unter 19 Jahre | ~2.600 kcal | ~3.000 kcal | ~2.000 kcal | ~2.300 kcal |
-
-
-
-### Verteilung der Kalorienaufnahme über den Tag
-
-Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und jungen Erwachsenen eines Tages auf 5 Mahlzeiten zu verteilen:
-
-* Frühstück
-* 1 Zwischenmahlzeit
-* Mittagessen
-* 2 Zwischenmahlzeit
-* Abendessen
-
-Wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25 % [^OMX] bis 35 % [^JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30 % fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmahlzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Mahlzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allermeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
-
-Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlzeit für alle Altersgruppen und beide Geschlechter:
-
-Daraus abgeleiteter Kalorienbedarf für die Mittagsmahlzeit (30 % des Tagesbedarfs), eigene Berechnung auf Basis der DGE-Richtwerte aus Tabelle 1.
-
-| Altersgruppe | Mittagessen ♂ PAL 1,4 | Mittagessen ♂ PAL 1,6 | Mittagessen ♀ PAL 1,4 | Mittagessen ♀ PAL 1,6 |
-| --- | --- | --- | --- | --- |
-| 10 bis unter 13 Jahre | ~570 kcal | ~660 kcal | ~510 kcal | ~600 kcal |
-| 13 bis unter 15 Jahre | ~690 kcal | ~780 kcal | ~570 kcal | ~660 kcal |
-| 15 bis unter 19 Jahre | ~780 kcal | ~900 kcal | ~600 kcal | ~690 kcal |
-
-## Kalorienaufnahme der Schulverpflegung
-
-Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, zog ich die Daten meiner Feldstudie heran. Anschließend schätzte ich für jedes Gericht die Makronährstoffe ab (Fette, Kohlenhydrate, Proteine und Ballaststoffe) und leitete daraus das Kalorienangebot ab. Für die Abschätzung der Zusammensetzung nutzte ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht. Darüber hinaus verwendete ich KI, und meine Oma, die promovierte Ernährungsberaterin ist, plausibilisierte die Ergebnisse. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern – etwa einer durchgängigen Über- oder Unterschätzung von Portionen – hilft die Mittelung nicht.
-
-Es ergeben sich folgende Ergebnisse:
-
-* Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (± 20 %)
-* Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (± 20 %)
-* Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (± 5 %)
-
-Folgende Punkte sind noch anzumerken:
-
-* Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des Mittagessens stark rationiert ist.
-* Den Schülern werden keine altersgerechten Portionsgrößen serviert, die Schüler bekommen alle ungefähr die gleiche Portionsgröße. Dies ist belegbar durch den Umstand, dass die Teller in der Regel schon vorrätig befüllt werden, und dann zufällig zu einem Schüler zugeteilt werden.
-
-## Zwischenfazit
-
-- Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten.
-- Bei Mädchen in der Alterskategorie 10 bis unter 13 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 600 kcal nur zu etwa 85 % gedeckt.
-- Bei Jungen in der Alterskategorie 15 bis unter 19 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 900 kcal nur zu etwa 57 % gedeckt.
-- Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
-- Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
-
-## Langfristige Folgen eines Kaloriendefizit
-
-Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
-
-* Wachstum und Körpergröße
-  Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
-* Knochen und Muskulatur
-  Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in den vier Jahren um die maximale Wachstumsgeschwindigkeit aufgebaut [^PBM]. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
-* Pubertät und Hormonsystem
-  Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
-* Immunsystem und Wundheilung
-  Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Energie und Mikronährstoffe fehlen.
-* Gehirn und kognitive Entwicklung
-  Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Folgen, die sich bis ins Erwachsenenalter ziehen können.
-* Risiko für Essstörungen
-  Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich, insbesondere wenn das Defizit bewusst herbeigeführt wird.
-
-Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können.
 
 # Hilfsmittel
 
