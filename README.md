@@ -8,9 +8,9 @@ Johann Sofke · Carlo-Schmid-Gymnasium, Tübingen · 4. Mai 2026
 
 Zu Beginn des Schuljahres 2025/2026 haben alle Tübinger Schulmensen einen neuen Caterer erhalten. Der neue Caterer sind die Tressbrüder [^TBR]. Seit deren Einführung meinen Schüler verschiedener Schulen in Tübingen, meine Mitschüler am Carlo-Schmid-Gymnasium (CSG) und ich eine Verschlechterung bei der Mittagsverpflegung gegenüber den Vorjahren zu beobachten. Es stellt sich daher die Frage nach der objektiven Qualität der Mittagsverpflegung.
 
-Der Titel dieser Arbeit greift das Anna-Karenina-Prinzip auf, das auf den Eingangssatz des Romans *Anna Karenina* von Lew Tolstoi zurückgeht: „Alle glücklichen Familien gleichen einander, jede unglückliche Familie ist unglücklich auf ihre Weise." Verallgemeinert besagt das Prinzip, dass Erfolg in komplexen Systemen nur dann eintritt, wenn alle Bedingungen gleichzeitig erfüllt sind, während das Verfehlen einer einzigen Bedingung bereits zum Scheitern führen kann. Auf die Schulverpflegung übertragen bedeutet das, dass eine gelingende Mittagsverpflegung das gleichzeitige Erfüllen einer Vielzahl von Kriterien voraussetzt, von der Nährstoffzusammensetzung über die Auswahl und Verarbeitung der Lebensmittel bis hin zur Kommunikation mit Schülern und Eltern. Genau diese Vielzahl an Kriterien systematisch zu prüfen, ist das Ziel der vorliegenden Arbeit.
+Der Titel dieser Arbeit greift das Anna-Karenina-Prinzip auf, das auf den Eingangssatz des Romans *Anna Karenina* von Lew Tolstoi zurückgeht: „Alle glücklichen Familien gleichen einander, jede unglückliche Familie ist unglücklich auf ihre Weise.“ Verallgemeinert besagt das Prinzip, dass Erfolg in komplexen Systemen nur dann eintritt, wenn alle Bedingungen gleichzeitig erfüllt sind, während das Verfehlen einer einzigen Bedingung bereits zum Scheitern führen kann. Auf die Schulverpflegung übertragen bedeutet das, dass eine gelingende Mittagsverpflegung das gleichzeitige Erfüllen einer Vielzahl von Kriterien voraussetzt, von der Nährstoffzusammensetzung über die Auswahl und Verarbeitung der Lebensmittel bis hin zur Kommunikation mit Schülern und Eltern. Genau diese Vielzahl an Kriterien systematisch zu prüfen, ist das Ziel der vorliegenden Arbeit.
 
-Diese Frage werde ich aus der Perspektive der Deutschen Gesellschaft für Ernährung (DGE), nach eigenen Angaben die wissenschaftliche Fachgesellschaft für Ernährung in Deutschland [^DGE], beantworten. Zur Bewertung der Mittagsverpflegung nutze ich die Checkliste aus dem "DGE-Qualitätsstandard für die Verpflegung in Schulen" [QDGE]. Dabei werden verschiedene Kriterien der Mittagsverpflegung vorgestellt: Planung, Einkauf, Zubereitung, Ausgabe, Entsorgung und Reinigung. Ich werde mich bei der
+Diese Frage werde ich aus der Perspektive der Deutschen Gesellschaft für Ernährung (DGE), nach eigenen Angaben die wissenschaftliche Fachgesellschaft für Ernährung in Deutschland [^DGE], beantworten. Zur Bewertung der Mittagsverpflegung nutze ich die Checkliste aus dem „DGE-Qualitätsstandard für die Verpflegung in Schulen“ [QDGE]. Dabei werden verschiedene Kriterien der Mittagsverpflegung vorgestellt: Planung, Einkauf, Zubereitung, Ausgabe, Entsorgung und Reinigung. Ich werde mich bei der
 Bewertung auf das Kapitel Planung beschränken. Der Planung kommt eine besondere Rolle zu, denn sie stellt die Grundlage für das gesamte Verpflegungskonzept dar. Dabei ist das Kapitel Planung deutlich weitreichender, als der Name vermuten lässt, wie es im Laufe dieser Arbeit noch deutlich werden wird. Ich werde alle Kriterien aus dem Kapitel Planung bewerten, zu denen ich Einblick habe. Ziel der Analyse ist es, eine Faktenbasis für eine objektive Diskussion zur Verfügung zu stellen.
 
 # Motivation
@@ -19,7 +19,7 @@ Mein Name ist Johann Sofke. Als Schüler der Klasse 8a am Carlo-Schmid-Gymnasium
 
 Zu Beginn dieses Schuljahres 2025/2026 wurde in allen Tübinger Schulmensen der Caterer gewechselt. Nach diesem Wechsel stellte ich fest, dass das Schulessen in mehreren Aspekten schlechter wurde als im Vorjahr: Die Portionen fallen kleiner aus als in den Jahren zuvor und sättigen nicht, die Gerichte sind in ihrer Makronährstoffzusammensetzung unausgewogen, und die im Speiseplan ausgewiesenen Vor- und Nachspeisen sowie Salate werden nicht mehr serviert.
 
-Auch andere Schüler, Eltern [^STB1], [^STB2] und der Jugendgemeinderat [^JGR1] diskutieren über die Mittagsverpflegung - allerdings wird überwiegend der Geschmack kritisiert, über die man zwar vortrefflich streiten, aber nicht wissenschaftlich debattieren kann, und es wird kritisiert, dass die Mittagsverpflegung nicht kindgerecht gestaltet ist – ein Argument, dessen Berechtigung von der konkreten Definition von "kindgerecht" abhängt; auf diesen Begriff gehe ich im Anhang differenziert ein.
+Auch andere Schüler, Eltern [^STB1], [^STB2] und der Jugendgemeinderat [^JGR1] diskutieren über die Mittagsverpflegung - allerdings wird überwiegend der Geschmack kritisiert, über die man zwar vortrefflich streiten, aber nicht wissenschaftlich debattieren kann, und es wird kritisiert, dass die Mittagsverpflegung nicht kindgerecht gestaltet ist – ein Argument, dessen Berechtigung von der konkreten Definition von „kindgerecht“ abhängt; auf diesen Begriff gehe ich im Anhang differenziert ein.
 
 Nach einem Informationsabend über Jugend forscht an unserer Schule entschied ich mich, meine ohnehin geplanten Untersuchungen in einer wissenschaftlichen Arbeit zu verfassen, um eine Faktenbasis für eine objektive Diskussion bereitzustellen. Ich verspreche mir davon Aufmerksamkeit für die entscheidenden Aspekte der Ernährung, die deutlich jenseits von Geschmack liegen, mit dem Ziel, dass die Mittagsverpflegung wieder seine Hauptfunktion erfüllen kann: Die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
 
@@ -29,9 +29,9 @@ Entsprechend werde ich in dieser wissenschaftlichen Arbeit objektiv bewertbare K
 
 # Vorbereitung
 
-Wie in der Motivation beschrieben, recherchierte ich zunächst, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen" [QDGE] bereitstellt. Die DGE ist eine laut eigenen Angaben unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Diese Unabhängigkeit ist allerdings nicht unumstritten: Im Wikipedia-Artikel zur DGE wird unter anderem eine Recherche des Recherchezentrums Correctiv von September 2021 angeführt, die der DGE im Kontext der Milchempfehlungen Nähe zur Lebensmittelindustrie vorwirft [WDGE]. Da der DGE-Qualitätsstandard die einzige Bewertungsgrundlage dieser Arbeit ist, ist es mir wichtig, diese Einschränkung transparent zu machen. Sie schwächt die Argumentation dieser Arbeit nicht – im Gegenteil: Mehrere der zentralen Befunde (zu wenig Gemüse, Obst und Vollkornprodukte, zu wenig Fisch, Kaloriendefizit) bestehen unabhängig von der Frage industrieller Einflussnahme. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [^SQS] aus dem Jahr 2015 27 % der befragten Schulen an, diese umzusetzen.
+Wie in der Motivation beschrieben, recherchierte ich zunächst, ob wissenschaftliche Vorgaben für die Gestaltung der Mittagsverpflegung an Schulen existieren, die als objektive Bewertungsgrundlage dienen können. Eine kurze Internetrecherche zeigte, dass die Deutsche Gesellschaft für Ernährung (DGE) den „DGE-Qualitätsstandard für die Verpflegung an Schulen“ [QDGE] bereitstellt. Die DGE ist eine laut eigenen Angaben unabhängige wissenschaftliche Fachgesellschaft, die ernährungswissenschaftliche Forschung sowie Ernährungsberatung und -aufklärung zur Gesundheitsförderung betreibt [WDGE]. Diese Unabhängigkeit ist allerdings nicht unumstritten: Im Wikipedia-Artikel zur DGE wird unter anderem eine Recherche des Recherchezentrums Correctiv von September 2021 angeführt, die der DGE im Kontext der Milchempfehlungen Nähe zur Lebensmittelindustrie vorwirft [WDGE]. Da der DGE-Qualitätsstandard die einzige Bewertungsgrundlage dieser Arbeit ist, ist es mir wichtig, diese Einschränkung transparent zu machen. Sie schwächt die Argumentation dieser Arbeit nicht – im Gegenteil: Mehrere der zentralen Befunde (zu wenig Gemüse, Obst und Vollkornprodukte, zu wenig Fisch, Kaloriendefizit) bestehen unabhängig von der Frage industrieller Einflussnahme. Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, Einkauf, Zubereitung und Ausgabe. Obwohl die Empfehlung gesetzlich nicht verpflichtend ist, gaben laut Studie [^SQS] aus dem Jahr 2015 27 % der befragten Schulen an, diese umzusetzen.
 
-Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team "Gutes Essen", mit denen ich alle relevanten Kriterien besprach und im Kapitel "Durchführung und Ergebnisse" bewertete. Auf meine Bitte um eine Zitiererlaubnis hat Team "Gutes Essen" jedoch nicht reagiert. Team "Gutes Essen" teilte mir mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tressbrüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (Da Team "Gutes Essen" auf meine Bitte um eine Zitiererlaubnis nicht reagiert hat, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tressbrüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt" [^TKSV].
+Um zu klären, ob der Caterer meiner Schule die Empfehlungen umsetzt, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team „Gutes Essen“, mit denen ich alle relevanten Kriterien besprach und im Kapitel „Durchführung und Ergebnisse“ bewertete. Auf meine Bitte um eine Zitiererlaubnis hat Team „Gutes Essen“ jedoch nicht reagiert. Team „Gutes Essen“ teilte mir mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tressbrüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (Da Team „Gutes Essen“ auf meine Bitte um eine Zitiererlaubnis nicht reagiert hat, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite versprechen die Tressbrüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt“ [^TKSV].
 
 Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wurde an 20 Schultagen dokumentiert: Jedes Gericht wurde fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung ließ ich mir von meiner Schulleiterin Frau Ott ausstellen. Weiterhin verwendete ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2 % liegt (bestimmt mit Referenzgewichten).
 
@@ -43,14 +43,14 @@ In dem DGE Qualitätsstandard definiert Kapitel 2, Qualität in der Schulverpfle
 
 ### Der Verpflegungsbeauftragte
 
-Dieses Kriterium besagt, dass ein/e Verpflegungsbeauftragte/r vorhanden ist. Dies kann eine einzelne Person oder ein Team sein, das die Verpflegung zentral koordiniert.
-**Durchführung:** In Tübingen gibt es im Fachbereich Bildung, Betreuung, Jugend und Sport die Abteilung „Service-Center Bildung und Betreuung". In dieser Abteilung kümmert sich das Team „Gutes Essen" um die Mittagsverpflegung in den städtischen Kindereinrichtungen und Schulen, und ist somit für die zentrale Organisation der Verpflegung zuständig.
-Zur Bewertung der Kriterien bat ich Team „Gutes Essen" um eine Zitiererlaubnis, auf welche jedoch keine Antwort kam. Daher kann ich im Folgenden den Inhalt der Email nur sinngemäß wiedergeben.
+Dieses Kriterium besagt, dass ein Verpflegungsbeauftragter vorhanden ist. Dies kann eine einzelne Person oder ein Team sein, das die Verpflegung zentral koordiniert.
+**Durchführung:** In Tübingen gibt es im Fachbereich Bildung, Betreuung, Jugend und Sport die Abteilung „Service-Center Bildung und Betreuung“. In dieser Abteilung kümmert sich das Team „Gutes Essen“ um die Mittagsverpflegung in den städtischen Kindereinrichtungen und Schulen, und ist somit für die zentrale Organisation der Verpflegung zuständig.
+Zur Bewertung der Kriterien bat ich Team „Gutes Essen“ um eine Zitiererlaubnis, auf welche jedoch keine Antwort kam. Daher kann ich im Folgenden den Inhalt der Email nur sinngemäß wiedergeben.
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
 ### Das Verpflegungskonzept
 Dieses Kriterium besagt, dass ein Verpflegungskonzept vorliegt.
-**Durchführung:** Team „Gutes Essen" informierte mich darüber, dass ein Verpflegungskonzept vorliege, und auch, über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt sei. Diese Anforderungen orientierten sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [^TKSV] wird jedoch mit DGE-konformen Gerichten in der Kinder und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser wissenschaftlichen Arbeit gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten.
+**Durchführung:** Team „Gutes Essen“ informierte mich darüber, dass ein Verpflegungskonzept vorliege, und auch, über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt sei. Diese Anforderungen orientierten sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [^TKSV] wird jedoch mit DGE-konformen Gerichten in der Kinder und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser wissenschaftlichen Arbeit gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten.
 Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken müsse. Darüber hinaus soll das Essen täglich pünktlich ausgegeben werden. Weiterhin gelten folgende Kriterien im Verpflegungskonzept:
 
 * Der CO2-Footprint soll um 50 % kleiner sein im Vergleich zu anderen Mensen in Deutschland.
@@ -63,7 +63,7 @@ Dabei fällt die Gewichtung folgendermaßen aus: Preis 50 %, Betreiberkonzept 20
 **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
 
 **Weiterführende Überlegungen:**
-Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team "Gutes Essen" nur mit 5 % gewichtet.
+Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team „Gutes Essen“ nur mit 5 % gewichtet.
 
 Außerdem wird die Gesundheit der Verpflegung nach dem Vita Score bewertet, welcher primär dazu dient, das Risiko für ernährungsbedingte Krankheiten zu minimieren, und kein Indikator für eine gesundheitlich ausgewogene Gesamtzusammensetzung der Verpflegung ist, die sich am konkreten Bedarf orientiert.
 
@@ -79,7 +79,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 * Kioskbetreiber (an unserer Schule nicht vorhanden)
 * Eltern und Schüler (vertreten durch die entsprechenden Beiräte)
 
-**Durchführung:** Zur Bewertung des Kriteriums konsultierte ich Team „Gutes Essen". Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmid-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Ich vermute, dass diese fehlende Zusammenarbeit ein wesentlicher Grund für die fehlende Qualität in der Schulverpflegung ist. Diese kausale Verknüpfung bleibt jedoch eine Hypothese, die ich mit den vorliegenden Daten nicht direkt belegen kann.
+**Durchführung:** Zur Bewertung des Kriteriums konsultierte ich Team „Gutes Essen“. Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmid-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Ich vermute, dass diese fehlende Zusammenarbeit ein wesentlicher Grund für die fehlende Qualität in der Schulverpflegung ist. Diese kausale Verknüpfung bleibt jedoch eine Hypothese, die ich mit den vorliegenden Daten nicht direkt belegen kann.
 
 **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
@@ -87,7 +87,7 @@ Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung u
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Mitarbeitenden des Verpflegungsbereiches kontinuierlich weitergebildet werden.
 
-**Durchführung:** Zur Bewertung des Kriteriums konsultierte ich den Verpflegungsbeauftragten (Team „Gutes Essen"). Team „Gutes Essen" informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügten. Darüber hinaus liege die Verantwortung der Weiterbildung und Schulung des Personals des Caterers beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Team "Gutes Essen" nur unvollständig ist, oder ob tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
+**Durchführung:** Zur Bewertung des Kriteriums konsultierte ich den Verpflegungsbeauftragten (Team „Gutes Essen“). Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügten. Darüber hinaus liege die Verantwortung der Weiterbildung und Schulung des Personals des Caterers beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Team „Gutes Essen“ nur unvollständig ist, oder ob tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
 
 **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
 
@@ -132,7 +132,7 @@ Von sieben Kriterien konnte ich vier bewerten, davon drei als erfüllt und eines
 
 ## Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
 
-In dem DGE Qualitätsstandard benennt Kapitel 4, "Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung", alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu servieren sind. Zu diesen Komponenten zählen:
+In dem DGE Qualitätsstandard benennt Kapitel 4, „Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung“, alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu servieren sind. Zu diesen Komponenten zählen:
 
 * Sättigungsbeilage (Getreide, Getreideprodukte und Kartoffeln)
 * Gemüse und Salat
@@ -153,6 +153,8 @@ Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren. 
 * Der Schließung unserer Mensa freitags, während der Caterer weiterhin andere Schulen belieferte. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
 
 Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, wählte ich während meiner Feldstudie immer das Gericht, mit welchem ich am besten wochenweise die Empfehlungen der DGE annähern konnte. Das waren dann immer die Gerichte, die tierische Produkte, Vollkorngetreide, Gemüse, Salat und Obst beinhalteten.
+
+**Methodische Anmerkung:** Diese gezielte Auswahl macht meine Untersuchung methodisch bewusst zu einer Best-Case-Schätzung: Ich bewerte jeweils das Gericht, das den DGE-Vorgaben am nächsten kommt, nicht ein zufällig ausgewähltes oder gemitteltes. Dieses Vorgehen stärkt die Aussagekraft der späteren Befunde, denn wenn bereits das nach DGE-Kriterien günstigere der beiden täglichen Gerichte die Vorgaben deutlich verfehlt, gilt das für das tatsächliche Durchschnittsangebot der Mensa erst recht.
 
 Insgesamt dokumentierte und bewertete ich in meiner Feldstudie also an 20 Verpflegungstagen das von mir gewählte Gericht.
 
@@ -189,7 +191,7 @@ Rohkost und Hülsenfrüchte wie gefordert.
 
 **Kritische Gedanken:**
 
-* Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen", zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
+* Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
 * Durch das Wegfallen des Nachtisches wird auch die gesamt Kalorienaufnahme durch die Mittagsverpflegung verringert.
 * Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott, und einmal Kirschmichel mit Vanillesoße, und sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden, und ein Hauptgericht nicht ersetzen sollen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass man süße Speisen aus dem Menü eliminiert, sondern hat einen Lieferanten von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü eliminiert.
 * Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
@@ -392,7 +394,7 @@ In Kapitel 4.1 des DGE Qualitätsstandards werden außerdem weitere Kriterien an
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verpflegungstag angeboten wird.
 
-**Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine "Veg-fit" heißt, die immer vegetarisch ist, und die andere "Klima-fit" ist, welche auch tierische Produkte beinhaltet. Hierbei liegt das Problem bei den Namen: aus "Veg-fit" lässt sich nicht erschließen, ob es sich um eine vegetarische oder vegane Menülinie handelt. Der Name "Klimafit" lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird.
+**Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine „Veg-fit“ heißt, die immer vegetarisch ist, und die andere „Klima-fit“ ist, welche auch tierische Produkte beinhaltet. Hierbei liegt das Problem bei den Namen: aus „Veg-fit“ lässt sich nicht erschließen, ob es sich um eine vegetarische oder vegane Menülinie handelt. Der Name „Klimafit“ lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird.
 
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
@@ -469,7 +471,7 @@ Es wurden insgesamt 1-mal industrielle Alternativen zu Fleisch und Fisch innerha
 
 **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
-**Verbesserungsvorschlag:** Es war nicht aus dem Speiseplan offensichtlich, ob die Gerichte Fleischalternativen enthalten. Außerdem sollte die DGE den Begriff "Industriell hergestellte Alternative zu Fleisch und Fisch" exakter definieren, sodass man die Einhaltung des Kriteriums besser überprüfen kann.
+**Verbesserungsvorschlag:** Es war nicht aus dem Speiseplan offensichtlich, ob die Gerichte Fleischalternativen enthalten. Außerdem sollte die DGE den Begriff „Industriell hergestellte Alternative zu Fleisch und Fisch“ exakter definieren, sodass man die Einhaltung des Kriteriums besser überprüfen kann.
 
 ## Getränke
 Deses Kriterium fordert, dass den Schülern in der Mittagsverpflegung mindestens 0,2 Liter eines energiefreien Getränkes zur Verfügung gestellt werden soll.
@@ -542,7 +544,7 @@ bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen S
 
 Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebensmittel von seinem natürlichen Molekülprofil entfernt – ob durch Wegnahme oder Hinzufügung – desto höher die Klasse.
 
-**Methodische Einordnung:** Bei dem hier beschriebenen 4-Klassen-System (Klasse 1 bis Klasse 4) handelt es sich um ein eigenes Bewertungsschema, das ich für diese Arbeit entwickelt habe. Es ist nicht wissenschaftlich validiert, nicht durch unabhängige Studien überprüft und ersetzt keinen etablierten Standard wie den NOVA-Score. Die mit diesem Schema gewonnenen Ergebnisse (Einstufungen einzelner Gerichte und die daraus abgeleiteten Häufigkeiten) sind daher mit Vorsicht zu interpretieren und sollten als orientierender Eigenversuch verstanden werden, nicht als belastbare Klassifikation im Sinne eines Standards. Die Verwendung des Schemas in den folgenden Kriterien (4.13.5 und 4.13.6) dient dazu, die Lücke der unzureichend definierten DGE-Klassen "hochverarbeitet" und "geringverarbeitet" pragmatisch zu schließen.
+**Methodische Einordnung:** Bei dem hier beschriebenen 4-Klassen-System (Klasse 1 bis Klasse 4) handelt es sich um ein eigenes Bewertungsschema, das ich für diese Arbeit entwickelt habe. Es ist nicht wissenschaftlich validiert, nicht durch unabhängige Studien überprüft und ersetzt keinen etablierten Standard wie den NOVA-Score. Die mit diesem Schema gewonnenen Ergebnisse (Einstufungen einzelner Gerichte und die daraus abgeleiteten Häufigkeiten) sind daher mit Vorsicht zu interpretieren und sollten als orientierender Eigenversuch verstanden werden, nicht als belastbare Klassifikation im Sinne eines Standards. Die Verwendung des Schemas in den folgenden Kriterien (4.13.5 und 4.13.6) dient dazu, die Lücke der unzureichend definierten DGE-Klassen „hochverarbeitet“ und „geringverarbeitet“ pragmatisch zu schließen.
 
 ### Der Einsatz von unverarbeiteten oder geringverarbeiteten Lebensmitteln
 
@@ -587,7 +589,7 @@ Zur Bewertung zählte ich die Tage, an denen der aktuelle Speiseplan online zur 
 
 ### Eindeutige Bezeichnung der Speisen im Speiseplan
 
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Speisen im Speiseplan eindeutig bezeichnet sind. Fantasienamen wie "Wikingerpfanne", nicht deutschsprachige Begriffe wie "Ratatouille" und allgemeine Bezeichnungen wie Gemüseeintopf lassen nicht auf die Zutaten um Komponenten des Gerichtes schließen und werden daher nicht verwendet.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass alle Speisen im Speiseplan eindeutig bezeichnet sind. Fantasienamen wie „Wikingerpfanne“, nicht deutschsprachige Begriffe wie „Ratatouille“ und allgemeine Bezeichnungen wie Gemüseeintopf lassen nicht auf die Zutaten um Komponenten des Gerichtes schließen und werden daher nicht verwendet.
 
 **Durchführung:** Zur Bewertung notierte ich zu jedem der 20 Gerichte, ob die Namensgebung der DGE Kriterien erfüllt. Bei 10 der 20 Gerichte war die Bezeichnung eindeutig, bei den restlichen 10 nicht. Negativbeispiele:
 
@@ -642,7 +644,7 @@ Zur Bewertung zählte ich die Tage, an denen der aktuelle Speiseplan online zur 
 **Weiterführende Gedanken:** Es ist empfehlenswert, die Preise auf dem Speiseplan auszuweisen, um den Eltern und Schülern gegenüber Transparenz zu schaffen, insbesondere auch die Subventionen der Stadt Tübingen, dem Landkreis Tübingen und dem Bund, da dies von den Steuergeldern gezahlt wird. Wenn die Preise nicht ausgewiesen sind, ist es allen Akteuren nicht möglich, selbstständig das Preis Leistungsverhältnis zu bewerten.
 
 ### Zielgruppengerechte Gestaltung des Speiseplans
-**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehört eine ausreichend große Schrift, sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler/innen.
+**Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehört eine ausreichend große Schrift, sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler.
 
 **Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer Druckschrift geschrieben, die ausreichend groß ist.
 
@@ -652,7 +654,7 @@ Zur Bewertung zählte ich die Tage, an denen der aktuelle Speiseplan online zur 
 
 **Beschreibung des Kriteriums:** Dieses Kriterium fordert, dass das Angebot mehrer Menülinien übersichtlich dargestellt ist, und dass das gesundheitsfördernde und nachhaltige Speiseangebot hervorgehoben ist.
 
-**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander aufgeführt. Allerdings wird das gesundheitsfördernde Speiseangebot nicht explizit hervorgehoben. Der Name „Veg-fit" lässt nicht erkennen, ob das jeweilige Gericht vegetarisch oder vegan ist. Ebenso bleibt unklar, was „Klima-fit" konkret bedeutet. Da beide Menünamen auf unterschiedlichen Dimensionen bewertet werden, die eine auf Ernährungsweise, die andere auf Umweltwirkung, fehlt ein gemeinsamer Vergleichsaspekt: Es ist nicht ersichtlich, ob die „Klima-fit" Menülinie auch Mischkost enthält, und ob die „Veg-fit" Menülinie umweltschädlich ist. Die Namen wirken daher eher wie Marketingbegriffe, die keine verlässliche Aussage über die tatsächlichen Eigenschaften der Menülinien treffen. Beide Menülinien sind irreführend benannt und erfüllen somit die Anforderung einer transparenten und informativen Kennzeichnung nicht.
+**Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander aufgeführt. Allerdings wird das gesundheitsfördernde Speiseangebot nicht explizit hervorgehoben. Der Name „Veg-fit“ lässt nicht erkennen, ob das jeweilige Gericht vegetarisch oder vegan ist. Ebenso bleibt unklar, was „Klima-fit“ konkret bedeutet. Da beide Menünamen auf unterschiedlichen Dimensionen bewertet werden, die eine auf Ernährungsweise, die andere auf Umweltwirkung, fehlt ein gemeinsamer Vergleichsaspekt: Es ist nicht ersichtlich, ob die „Klima-fit“ Menülinie auch Mischkost enthält, und ob die „Veg-fit“ Menülinie umweltschädlich ist. Die Namen wirken daher eher wie Marketingbegriffe, die keine verlässliche Aussage über die tatsächlichen Eigenschaften der Menülinien treffen. Beide Menülinien sind irreführend benannt und erfüllen somit die Anforderung einer transparenten und informativen Kennzeichnung nicht.
 
 **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt.
 
@@ -668,12 +670,12 @@ Ergebnisse mit den Verpflegungsbeauftragten und anderen Akteuren teilen. Seit de
 
 ## Analyse Ausgewählter öffentlich zugänglicher Informationen
 
-### Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
+### Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“
 
 #### Problemverständnis
-Durch die Aussage: "Die Qualität der Speisen werde als gut bewertet" und "Das von uns gelieferte Essen war von Anfang an einfach zu exotisch, zu wenig kindgerecht." konstruiert Simon Tress einen Deutungsrahmen, der die Leser des Artikels zu seinen Gunsten manipuliert.
+Durch die Aussage: „Die Qualität der Speisen werde als gut bewertet“ und „Das von uns gelieferte Essen war von Anfang an einfach zu exotisch, zu wenig kindgerecht.“ konstruiert Simon Tress einen Deutungsrahmen, der die Leser des Artikels zu seinen Gunsten manipuliert.
 
-Tatsächlich besitzt das Essen nach den Empfehlungen der DGE keine gute Qualität. Das Essen ist auch nicht exotisch im Sinne von ausländisch oder fremd. Beim Begriff "kindgerecht" ist eine differenzierte Auseinandersetzung nötig: Befürworter eines kindgerechten Schulessens argumentieren, dass Speisen für Kinder vertraut, mild gewürzt und akzeptanzfördernd gestaltet sein sollten, damit Kinder gerne und regelmäßig essen. Diese Anforderung hat ihre Berechtigung, denn ein Mittagessen, das nicht gegessen wird, kann seine Versorgungsfunktion nicht erfüllen. Mein Einwand ist allerdings: Wenn "kindgerecht" in der Praxis mit weichen, milden, süßen oder fettigen Speisen mit niedriger Nährstoffdichte gleichgesetzt wird, gerät der Begriff in Konflikt mit der ernährungsphysiologischen Hauptfunktion der Verpflegung, den Körper mit allen relevanten Nährstoffen in ausreichender Menge zu versorgen. Eine sinnvolle Verpflegungsplanung muss beide Anforderungen – Akzeptanz und Nährstoffversorgung – gleichzeitig erfüllen.
+Tatsächlich besitzt das Essen nach den Empfehlungen der DGE keine gute Qualität. Das Essen ist auch nicht exotisch im Sinne von ausländisch oder fremd. Beim Begriff „kindgerecht“ ist eine differenzierte Auseinandersetzung nötig: Befürworter eines kindgerechten Schulessens argumentieren, dass Speisen für Kinder vertraut, mild gewürzt und akzeptanzfördernd gestaltet sein sollten, damit Kinder gerne und regelmäßig essen. Diese Anforderung hat ihre Berechtigung, denn ein Mittagessen, das nicht gegessen wird, kann seine Versorgungsfunktion nicht erfüllen. Mein Einwand ist allerdings: Wenn „kindgerecht“ in der Praxis mit weichen, milden, süßen oder fettigen Speisen mit niedriger Nährstoffdichte gleichgesetzt wird, gerät der Begriff in Konflikt mit der ernährungsphysiologischen Hauptfunktion der Verpflegung, den Körper mit allen relevanten Nährstoffen in ausreichender Menge zu versorgen. Eine sinnvolle Verpflegungsplanung muss beide Anforderungen – Akzeptanz und Nährstoffversorgung – gleichzeitig erfüllen.
 
 #### Problembewältigung
 Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen zwischen jeweils zwei Akteuren gibt. Jedoch ist dem Zeitungsartikel nicht zu entnehmen, dass es eine ganzheitliche Initiative der Stadt mit allen Akteuren gibt, um das Problem zu bewältigen. Beispiele sind:
@@ -681,19 +683,19 @@ Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen z
 * Austausch zwischen Eltern und Stadt: Eltern wünschen sich bei der Stadt, dass Mahlzeiten weniger gezuckert sind.
 * Austausch zwischen der Stadt und den Tressbrüdern: Anstelle ungezuckerte Nachtische zu servieren, wie zum Beispiel Obst am Stück oder Naturjoghurt mit Nüssen und Beeren, entfernt die Stadt den Nachtisch ersatzlos vom Speiseplan.
 * Austausch zwischen Schule und Eltern: Dem Vertreter des Elternbeirates wird es untersagt, am Mittagessen der Grundschule teilzunehmen, um sich selbst ein Bild vom Geschehen zu verschaffen.
-* Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nach Hause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Der Vorsitzende des Gesamtelternbeirats wertet die Unzufriedenheit der Schüler ab: "Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein" und stellt vorweg: "Es sind Grundschüler".
+* Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nach Hause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Der Vorsitzende des Gesamtelternbeirats wertet die Unzufriedenheit der Schüler ab: „Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein“ und stellt vorweg: „Es sind Grundschüler“.
 
-So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team "Gutes Essen") koordiniert und moderiert werden.
+So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team „Gutes Essen“) koordiniert und moderiert werden.
 
 # Hilfsmittel
 
-- "Einfach können, Schriftliche Arbeit" von Björn Rothstein, 1. Auflage, 2023
+- „Einfach können, Schriftliche Arbeit“ von Björn Rothstein, 1. Auflage, 2023
 - [www.perplexity.ai](http://www.perplexity.ai) für Rechtschreib- und Grammatikkorrektur
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1DBRUWVgEYN153EMzyVh5CashKL1XMqwrTI37eoVRBYY/edit?usp=drivesdk) für Dokumentation des Speiseplans und der Checkliste
 - [www.github.com](http://www.github.com) um diese Wissenschaftliche Arbeit zu schreiben
 
-[^STB1]: Schwäbisches Tagblatt vom 28. Oktober 2025, "Kritik am neuen Schulessen"
-[^STB2]: Schwäbisches Tagblatt vom 1. Dezember 2025, "Tressbrüder bessern nach"
+[^STB1]: Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“
+[^STB2]: Schwäbisches Tagblatt vom 1. Dezember 2025, „Tressbrüder bessern nach“
 [^JGR1]: Sitzung des Jugendgemeinderates - 10.10.2025
 [^TBR]: <https://www.tressbrueder.de>
 [^DGE]: <https://www.dge.de>
