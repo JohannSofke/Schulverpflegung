@@ -3,7 +3,7 @@
 Johann Sofke · Carlo-Schmid-Gymnasium, Tübingen · 4. Mai 2026 
 
 > Zu Beginn des Schuljahres 2025/2026 wurde der Caterer aller Tübinger Schulmensen gewechselt. Seitdem werden Geschmack und Portionsgrößen der Mittagsverpflegung am Carlo-Schmid-Gymnasium öffentlich diskutiert; die ernährungsphysiologische Qualität blieb in dieser Diskussion bislang weitgehend unbeachtet. Die vorliegende Arbeit untersucht, ob die Mittagsverpflegung den Anforderungen des DGE-Qualitätsstandards für die Verpflegung in Schulen genügt. An 20 Schultagen zwischen Oktober und November 2025 wurde jedes ausgegebene Gericht fotografiert, gewogen und gegen 39 Kriterien aus dem Planungs-Kapitel des Standards geprüft; zusätzlich wurde der altersabhängige Kalorienbedarf nach DGE-Richtwerten berechnet und mit dem tatsächlichen Kalorienangebot verglichen. Methodisch handelt es sich um eine Best-Case-Schätzung: An jedem Verpflegungstag wurde von zwei verfügbaren Gerichten dasjenige bewertet, das den DGE-Vorgaben am nächsten kam.
-Von den 39 Kriterien konnten 10 mangels Informationszugang nicht bewertet werden; von den verbleibenden Kriterien wurden 17 als nicht erfüllt und 13 als erfüllt eingestuft. Besonders deutlich verfehlt wurden die Häufigkeitsvorgaben für Gemüse, Obst, Milchprodukte und Fisch, die um den Faktor 2 bis 4 unter den DGE-Mindestwerten lagen. Das mittlere Kalorienangebot deckte den DGE-Richtwert eines durchschnittlichen 14-jährigen Schülers nur zu etwa 65 %.
+Von den 39 Kriterien konnten 10 mangels Informationszugang nicht bewertet werden; von den verbleibenden Kriterien wurden 17 als nicht erfüllt und 12 als erfüllt eingestuft. Besonders deutlich verfehlt wurden die Häufigkeitsvorgaben für Gemüse, Obst, Milchprodukte und Fisch, die um den Faktor 2 bis 4 unter den DGE-Mindestwerten lagen. Das mittlere Kalorienangebot deckte den DGE-Richtwert eines durchschnittlichen 14-jährigen Schülers nur zu etwa 65 %.
 Der zentrale Mangel der Mittagsverpflegung liegt demnach nicht im Geschmack oder in der „Kindgerechtheit" der Speisen, sondern in der ernährungsphysiologisch unausgewogenen und kalorisch unzureichenden Zusammensetzung der Menüs. Eine wirksame Verbesserung setzt eine sachlich fundierte Problemdefinition unter koordinierter Beteiligung aller Akteure voraus.
 
 # Einleitung
@@ -528,13 +528,39 @@ Dieses Kriterium fordert, dass das Angebot mehrer Menülinien übersichtlich dar
 - **Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander aufgeführt. Allerdings wird das gesundheitsfördernde Speiseangebot nicht explizit hervorgehoben. Der Name „Veg-fit“ lässt nicht erkennen, ob das jeweilige Gericht vegetarisch oder vegan ist. Ebenso bleibt unklar, was „Klima-fit“ konkret bedeutet. Da beide Menünamen auf unterschiedlichen Dimensionen bewertet werden, die eine auf Ernährungsweise, die andere auf Umweltwirkung, fehlt ein gemeinsamer Vergleichsaspekt: Es ist nicht ersichtlich, ob die „Klima-fit“ Menülinie auch Mischkost enthält, und ob die „Veg-fit“ Menülinie umweltschädlich ist. Die Namen wirken daher eher wie Marketingbegriffe, die keine verlässliche Aussage über die tatsächlichen Eigenschaften der Menülinien treffen. Beide Menülinien sind irreführend benannt und erfüllen somit die Anforderung einer transparenten und informativen Kennzeichnung nicht.
 - **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt.
 
-## Endfazit
+# Endfazit
 Mit der Feldstudie im Rahmen einer wissenschaftlichen Arbeit erzeugte ich eine faktenbasierte Diskussionsgrundlage, anhand derer die Qualität der Mittagsverpflegung objektiv bewertet werden kann. Hierbei kam ich zu folgendem Ergebnis:
-Von 39 Kriterien bewertete ich 10 nicht. 17 Kriterien bewertete ich als nicht erfüllt und 13 Kriterien als erfüllt.
-Dramatisch ist vor allem, dass die Kriterien, die unmittelbar etwas mit der Ernährung zu tun haben, verfehlt wurden. Insbesondere sind hier die Mengen und Verhältnisse hervorzuheben. Damit verfehlt die Mittagsverpflegung ihre Hauptfunktion: Die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
+
+## Zentrale Ergebnisse
+Von 39 geprüften Kriterien aus dem Planungs-Kapitel des DGE-Qualitätsstandards konnten 10 mangels Informationszugang nicht bewertet werden. Von den verbleibenden Kriterien wurden 17 als nicht erfüllt und 12 als erfüllt eingestuft.
+Besonders deutlich unterschritten wurden die Anforderungen, die unmittelbar die ernährungsphysiologische Qualität der Mahlzeiten betreffen:
+- Häufigkeitsvorgaben: Bei Gemüse, Obst, Milchprodukten und Fisch lag das tatsächliche Angebot um den Faktor 2 bis 4 unter den DGE-Mindestwerten.
+- Energiezufuhr: Das mittlere Kalorienangebot der Mittagsmahlzeit unterschritt den DGE-Richtwert je nach Altersgruppe und Geschlecht zwischen 15 % (Mädchen 10–13 Jahre) und 43 % (Jungen 15–19 Jahre).
+- Speiseplangestaltung: Die Saisonalität wurde nur bei 3 von 10 Obst- und Gemüsesorten beachtet, die religiösen und kulturellen Essgewohnheiten wurden nicht berücksichtigt und die Menülinien wurden irreführend benannt (Veg-fit / Klima-fit).
+- Akteurszusammenarbeit: Eine koordinierte Beteiligung aller Verantwortlichen: Schulträger, Caterer, Eltern, Schüler, Lehrer, findet nicht statt.
+
+Methodisch ist hierbei anzumerken, dass an jedem Tag das nach DGE-Kriterien günstigere Gericht für die Feldstudie ausgewählt wurde, es handelt sich also um eine Best-Case Schätzung. Das tatsächiche Durschnittsangebot der Mensa dürfte also die DGE Vorschriften noch deutlicher verfehlen als hier Dokumentiert.
+
+Damit verfehlt die Mittagsverpflegung in ihrer aktuellen Form ihre Hauptfunktion, nämlich die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
+
+## Bedeutung der Ergebnisse
+
+Die einleitende Frage, ob die Schulverpflegung des Carlo-Schmid-Gymnasiuyms den DGE-Standarts genügt, kann auf Basis der Ergebnisse dieser Forschungsarbeit klar verneint werden. Und das liegt nicht an ein paar unerfüllten Kriterien, sondern daran, dass mehr als die Hälfte der Bewertbaren Kriterien nicht erfüllt wurde. 
+
+Die Tragweite der Befunde reicht über die Verfehlung der DGE-Standarts hinaus. Wie im Hauptteil dokumentiert, sind chronisch unausgewogene Nährstoffzusammensetzung und ein anhaltendes Kaloriendefizit in der Wachstumsphase der Schüler mit teils irreversiblen Folgen verbunden, von Körperlichen entwicklungsproblemen in der Pubertät bis hin zu Konzentration und Lernfähigkeit.
+
+Mit diesen Befunden erhoffe ich mir, dass sich auch die diskussion verschiebt, die bislang in Tübingen zwischen den Akteuren geführt wurde. Eltern, Schüler, Stadt und Tressbrüder diskutierten immer über den Geschmack und die Kindgerechtheit. Die vorliegenden Ergebnisse sollen den Fokus auf die Ernährungspysiologische Gurndfunktion verschieben: Die Versorgung des Körpers mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis. Denn wenn ein Essen diese Hauptfunktion nicht erfüllt, spielen Nebenqualitäten wie Geschmack und Umweltfreundlichkeit keine Rolle. 
+
+## Vorraussetzungen für eine Verbesserung
+Eine wirksame Verbesserung der Mittagsverpflegung setzt nicht das Lösen einzelner Kriterien voraus, sondern die Koordinierte beteiligung aller Akteure mit dem Ziel einer gesundheitsfördernden Mittagsverpflegung. Im konkreten bedeutet das:
+
+ - **Koordinierte Zussamenarbeit aller Akteure:** Schulträger, Caterer, Eltern, Schüler, Lehrer und Servicepersonal müssen unter Moderation des Verpflegungsbeauftragten an einem Tisch zusammenfinden.
+ - **Verschiebung der Diskussion vom Geschmack zur Nährstoffversorgung:** Solange die Diskussion auf Akzeptanz und Kindgerechtheit verengt bleibt, werden die ernährungsphysiologischen Mängel nicht adressiert, und können auch nicht behoben werden.
+ 
+
 
 ## Persönlicher Ausblick
-Ergebnisse mit den Verpflegungsbeauftragten und anderen Akteuren teilen. Seit der Feldstudie sind nun schon einige Monate vergangen, in denen sich viel geändert hat: In der Mensa wurden Poster der Tressbrüder aufgehängt, Quizzes über andere Länder und Traditionen wurden überall auf den Tischen aufgestellt, doch an dem eigentlichen Problem, der Qualität des Essens, hat sich seitdem nichts geändert: Die Portionen sind immer noch zu klein, die Nährstoffzusammensetzung ist nach wie vor unausgewogen, und Simon Tress versteht sich nach Pressedarstellungen immer noch als verkanntes Genie, aber als Kind kann ich es sagen: Der Kaiser ist nackt.
+Ich werde diese Ergebnisse mit den Verpflegungsbeauftragten und anderen Akteuren teilen. Seit der Feldstudie sind nun schon einige Monate vergangen, in denen sich viel geändert hat: In der Mensa wurden Poster der Tressbrüder aufgehängt, Quizzes über andere Länder und Traditionen wurden überall auf den Tischen aufgestellt, doch an dem eigentlichen Problem, der Qualität des Essens, hat sich seitdem nichts geändert: Die Portionen sind immer noch zu klein, die Nährstoffzusammensetzung ist nach wie vor unausgewogen, und Simon Tress versteht sich nach Pressedarstellungen immer noch als verkanntes Genie, aber als Kind kann ich es sagen: Der Kaiser ist nackt.
 
 # Anhang
 
