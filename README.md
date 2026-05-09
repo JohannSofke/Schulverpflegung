@@ -326,11 +326,11 @@ Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verp
 ## Abwechslungsreiches Angebot von Getreide, Getreideprodukte und Kartoffeln
 Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechslungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel, Grünkern, Bulgur und Hirse verwendet wird.
 - **Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Verpflegungstagen angeboten. Das unterteilte sich in
-+ 7 × Kartoffeln
-+ 5 × Reis
-+ 5 × Nudelteigprodukte, davon wahrscheinlich 4 × Weizen, 1 × Dinkel
-+ 1 × Albbuchweizenbällchen
-+ 1 × Dinkelknödel
+ + 7 × Kartoffeln
+ + 5 × Reis
+ + 5 × Nudelteigprodukte, davon wahrscheinlich 4 × Weizen, 1 × Dinkel
+ + 1 × Albbuchweizenbällchen
+ + 1 × Dinkelknödel
   Die Verteilung hat durchaus Abwechslung, es ist jedoch noch Luft nach oben.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 - **Verbesserungsvorschlag:** Es sollte angegeben sein, ob ein Getreideprodukt Vollkorn ist. Außerdem gibt es noch viele Getreidesorten, die noch nicht serviert wurden. Mais, Graupen, Hirse, Hafer, Roggen, Grünkern und Bulgur.
