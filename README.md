@@ -44,20 +44,22 @@ Dieses Kriterium fordert, dass ein Verpflegungskonzept vorliegen muss.
 - **Durchführung:** Team „Gutes Essen“ informierte mich darüber, dass ein Verpflegungskonzept vorliege und auch über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt sei. Diese Anforderungen orientierten sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE-Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [^TKSV] wird jedoch mit DGE-konformen Gerichten in der Kinder- und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser wissenschaftlichen Arbeit für gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten.
 Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken müsse. Darüber hinaus soll das Essen täglich pünktlich ausgegeben werden. Weiterhin gelten folgende Kriterien im Verpflegungskonzept:
 
- Der CO2-Footprint soll um 50 % kleiner sein im Vergleich zu anderen Mensen in Deutschland.
- Der Wasserverbrauch soll um 75 % kleiner sein als in anderen Mensen in Deutschland
- Der Vitascore soll um 20 % höher sein als an anderen Schulen
- Früchte, Reis und Kakao aus Übersee ist fair gehandelt
+- Der CO₂-Footprint soll um 50 % kleiner sein im Vergleich zu anderen Mensen in Deutschland.
+- Der Wasserverbrauch soll um 75 % kleiner sein als in anderen Mensen in Deutschland.
+- Der Vitascore soll um 20 % höher sein als an anderen Schulen
+ Früchte, Reis und Kakao aus Übersee sind fair gehandelt.
 
-Dabei fällt die Gewichtung folgendermaßen aus: Preis 50 %, Betreiberkonzept 20 %, Nachhaltigkeitskonzept 15 % und Wasserverbrauch, CO2 Footprint und Vita-Score zusammen 15 %.
+Dabei fällt die Gewichtung folgendermaßen aus: 
+
+-  Preis 50 %
+-  Betreiberkonzept 20 %
+-  Nachhaltigkeitskonzept 15 % 
+-  Wasserverbrauch, CO₂-Footprint und Vita-Score zusammen 15 %
 - **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
-- **Weiterführende Überlegungen:**
-Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge (und die Verpflegung ohne Schadstoffe) zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Team „Gutes Essen“ nur mit 5 % gewichtet.
-Außerdem wird die Gesundheit der Verpflegung nach dem Vita Score bewertet, welcher primär dazu dient, das Risiko für ernährungsbedingte Krankheiten zu minimieren, und kein Indikator für eine gesundheitlich ausgewogene Gesamtzusammensetzung der Verpflegung ist, die sich am konkreten Bedarf orientiert.
-Abschließend sehe ich eine Konflikt zwischen der Hauptfunktion der Ernährung und den ethischen Leitplanken, die die DGE in Umwelt, Soziales und Tierwohl unterteilt. Sie stehen im Verpflegungskonzept in einem Missverhältnis. Ohne Vorwegzunehmen werde ich das bei der Bewertung der weiteren Kriterien belegen können.
+- **Weiterführende Überlegungen:** Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Teams „Gutes Essen“ nur mit 5 % gewichtet.  Damit wird das eigebntliche Ziel der Ernährung aus emienr Sicht zu stark unterrepräsentiert.
 
 ### Die Beteiligung aller Akteure
-Dieses Kriterium fordert, dass alle Akteure an der Verpflegung beteiligt sind. Dies ermöglicht eine kontinuierliche Verbesserung und Verfeinerung des Verpflegungskonzeptes und dient der Klärung von Fragen und Problemen. Folgende Akteure müssen beteiligt sein:
+Dieses Kriterium fordert die kontinuiertliche Zuzsammearbeit aller Akteure:
 
  + Schulträger, Schulleitung und Lehrer
  + Caterer
@@ -70,25 +72,25 @@ Dieses Kriterium fordert, dass alle Akteure an der Verpflegung beteiligt sind. D
 ### Weiterbildung der Mitarbeitenden
 Dieses Kriterium fordert, dass alle Mitarbeitenden des Verpflegungsbereiches kontinuierlich weitergebildet werden.
 
-- **Durchführung:** Zur Bewertung des Kriteriums konsultierte ich den Verpflegungsbeauftragten (Team „Gutes Essen“). Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügten. Darüber hinaus liege die Verantwortung der Weiterbildung und Schulung des Personals des Caterers beim Caterer. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Team „Gutes Essen“ nur unvollständig ist, oder ob tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
-- **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreicht.
-- **Weiterführende Überlegungen:** Sowohl das Ausgabepersonal, als auch die Aufsicht in der Mensa sprechen zum größten Teil nicht Deutsch. Dies führt aufgrund der Sprachbarriere zu Missverständnissen, zu Konflikten und führt im Endeffekt zu einer unangenehmen Atmosphäre, keine Kommunikation ist möglich.
+- **Durchführung:** Zur Bewertung des Kriteriums konsultierte ich Team „Gutes Essen“. Team „Gutes Essen“ informierte mich darüber, dass alle Akteure über eine in ihrem Aufgabenfeld angemessene Qualifikation verfügten. Darüber hinaus liege die Verantwortung der Weiterbildung und Schulung des Personals des Caterers bei den Tressbrüdern. Eine Aussage über die Weiterbildung der anderen Akteure wurde jedoch nicht getroffen. Es ist unklar, ob die Beschreibung des Teams „Gutes Essen“ nur unvollständig ist oder ob tatsächlich keine Weiterbildung der anderen Akteure stattfindet.
+- **Ergebnis:** Ich bewerte dieses Kriterium nicht, da die Informationslage nicht ausreichend ist.
+- **Weiterführende Überlegungen:** Sowohl das Ausgabepersonal als auch die Aufsicht in der Mensa sprechen zum größten Teil kaum Deutsch. Dies führt aufgrund der Sprachbarriere zu Missverständnissen, zu Konflikten und führt im Endeffekt zu einer unangenehmen Atmosphäre und zu einer fehlenden Feedbackackultur insbesondere eine zwischen Schülern, die an der Mittagsverpflegung teilnehmen, kann so nicht etabliert werden
 
 ### Ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe
-Dieses Kriterium besagt, dass ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe eingerichtet sind.
+Dieses Kriterium fordert, dass ergonomisch gestaltete Arbeitsplätze und Arbeitsabläufe für die Mitarbeitenden eingerichtet sind.
 - **Durchführung:** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff.
 - **Ergebnis:** Ich bewerte dieses Kriterium nicht.
 
 ### Wertschätzung der Mitarbeitenden
-Dieses Kriterium besagt, dass die Mitarbeitenden wertgeschätzt werden.
+Dieses Kriterium fordert, dass die Mitarbeitenden wertgeschätzt werden.
 - **Durchführung** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff.
 - **Ergebnis:** Ich bewerte dieses Kriterium nicht.
 - **Weiterführende Überlegungen:** Obwohl ich keine Informationen über die betriebliche Wertschätzung habe, beobachte ich, dass in der Mensa zwischen Schülern und Aufsichtspersonal kein wertschätzender Umgang vorherrscht.
 
-### Regelmäßiges einholen von Feedback
-Dieses Kriterium fordert, dass Feedback regelmäßig eingeholt und ausgewertet wird, und Maßnahmen abgeleitet werden.
+### Regelmäßiges Einholen von Feedback
+Dieses Kriterium fordert, dass Feedback zur Verpflegung regelmäßig eingeholt und ausgewertet wird, um Maßnahmen abzuleiten.
 
-- **Durchführung:** Vor Dezember haben die Tressbrüder kein Feedback von den Schülern eingeholt. Jedoch bekamen die Tressbrüder im November immer mehr Kritik von Eltern und Schülern, woraufhin in unserer Mensa Anfang Dezember ein Briefkasten für Feedback aufgestellt wurde, mit vorgefertigten Feedback-Zetteln. Auf diesen können die Schüler seitdem folgendes bewerten:
+- **Durchführung:** Vor Dezember haben die Tressbrüder kein Feedback von den Schülern eingeholt. Jedoch bekamen die Tressbrüder im November immer mehr Kritik von Eltern und Schülern, woraufhin in unserer Mensa Anfang Dezember ein Briefkasten für Feedback aufgestellt wurde, mit vorgefertigten Feedback-Formularen. Auf diesen können die Schüler seitdem Folgendes bewerten:
 -- Auswahl
 -- Geschmack
 -- Aussehen
@@ -96,9 +98,10 @@ Dieses Kriterium fordert, dass Feedback regelmäßig eingeholt und ausgewertet w
 -- Empfehlungen aufschreiben
  Essenswunsch abgeben.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
+- **Weiterführende Gedanken:** Eine Verbesserung hat sich allerdings nicht eingestellt. Die Probeleme, die von mir in dieser Arbeit besonders hervorgehoben werden, wie zu kleine Portionsgrößen und eine unausgewogenen Zusammenstellung besteht bis Juni 2026 unverändert. Es bleibt somit unklar, welche Maßnamen hier konkret abgeleitet worden sind.
 
 ## Zwischenfazit
-Von sieben Kriterien konnte ich vier bewerten, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt – eine grundlegende Voraussetzung für eine qualitativ hochwertige Schulverpflegung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit Beginn des Schuljahres nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung.
+Von sieben Kriterien konnte ich vier bewerten, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt. Das ist eine grundlegende Vorraussetzung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit Beginn des Schuljahres nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung.
 
 ## Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
 In dem DGE Qualitätsstandard benennt Kapitel 4, „Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung“, alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu servieren sind. Zu diesen Komponenten zählen:
