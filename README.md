@@ -43,29 +43,28 @@ Dieses Kriterium fordert, dass ein Verpflegungsbeauftragter vorhanden sein muss.
 Dieses Kriterium fordert, dass ein Verpflegungskonzept vorliegen muss.
 - **Durchführung:** Team „Gutes Essen“ informierte mich darüber, dass ein Verpflegungskonzept vorliege und auch über die Anforderungen, nach denen das Verpflegungskonzept ausgelegt sei. Diese Anforderungen orientierten sich an den DGE-Richtlinien. Jedoch ist die Einhaltung der DGE-Richtlinien nicht vertraglich festgelegt. Auf der Webseite der Tressbrüder [^TKSV] wird jedoch mit DGE-konformen Gerichten in der Kinder- und Schulverpflegung geworben. Daher halte ich es im Rahmen dieser wissenschaftlichen Arbeit für gerechtfertigt, die Mittagsverpflegung nach den DGE Richtlinien zu bewerten.
 Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken müsse. Darüber hinaus soll das Essen täglich pünktlich ausgegeben werden. Weiterhin gelten folgende Kriterien im Verpflegungskonzept:
+    - Der CO₂-Footprint soll um 50 % kleiner sein im Vergleich zu anderen Mensen in Deutschland.
+    - Der Wasserverbrauch soll um 75 % kleiner sein als in anderen Mensen in Deutschland.
+    - Der Vitascore soll um 20 % höher sein als an anderen Schulen Früchte, Reis und Kakao aus Übersee sind fair gehandelt.
 
-- Der CO₂-Footprint soll um 50 % kleiner sein im Vergleich zu anderen Mensen in Deutschland.
-- Der Wasserverbrauch soll um 75 % kleiner sein als in anderen Mensen in Deutschland.
-- Der Vitascore soll um 20 % höher sein als an anderen Schulen
- Früchte, Reis und Kakao aus Übersee sind fair gehandelt.
+- Dabei fällt die Gewichtung folgendermaßen aus: 
 
-Dabei fällt die Gewichtung folgendermaßen aus: 
+    - Preis 50 %
+    - Betreiberkonzept 20 %
+    - Nachhaltigkeitskonzept 15 % 
+    - Wasserverbrauch, CO₂-Footprint und Vita-Score zusammen 15 %
 
--  Preis 50 %
--  Betreiberkonzept 20 %
--  Nachhaltigkeitskonzept 15 % 
--  Wasserverbrauch, CO₂-Footprint und Vita-Score zusammen 15 %
 - **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
-- **Weiterführende Überlegungen:** Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Teams „Gutes Essen“ nur mit 5 % gewichtet.  Damit wird das eigebntliche Ziel der Ernährung aus emienr Sicht zu stark unterrepräsentiert.
+- **Weiterführende Überlegungen:** Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Teams „Gutes Essen“ nur mit 5 % gewichtet.  Damit wird das eigebntliche Ziel der Ernährung aus meiner Sicht zu stark unterrepräsentiert.
 
 ### Die Beteiligung aller Akteure
 Dieses Kriterium fordert die kontinuiertliche Zuzsammearbeit aller Akteure:
+ - Schulträger, Schulleitung und Lehrer
+ - Caterer
+ - Servicepersonal
+ - Kioskbetreiber (an unserer Schule nicht vorhanden)
+ - Eltern und Schüler (vertreten durch die entsprechenden Beiräte)
 
- + Schulträger, Schulleitung und Lehrer
- + Caterer
- + Servicepersonal
- + Kioskbetreiber (an unserer Schule nicht vorhanden)
- + Eltern und Schüler (vertreten durch die entsprechenden Beiräte)
 - **Durchführung:** Zur Bewertung des Kriteriums konsultierte ich Team „Gutes Essen“. Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmid-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Ich vermute, dass diese fehlende Zusammenarbeit ein wesentlicher Grund für die fehlende Qualität in der Schulverpflegung ist. Diese kausale Verknüpfung bleibt jedoch eine Hypothese, die ich mit den vorliegenden Daten nicht direkt belegen kann.
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
@@ -91,38 +90,37 @@ Dieses Kriterium fordert, dass die Mitarbeitenden wertgeschätzt werden.
 Dieses Kriterium fordert, dass Feedback zur Verpflegung regelmäßig eingeholt und ausgewertet wird, um Maßnahmen abzuleiten.
 
 - **Durchführung:** Vor Dezember haben die Tressbrüder kein Feedback von den Schülern eingeholt. Jedoch bekamen die Tressbrüder im November immer mehr Kritik von Eltern und Schülern, woraufhin in unserer Mensa Anfang Dezember ein Briefkasten für Feedback aufgestellt wurde, mit vorgefertigten Feedback-Formularen. Auf diesen können die Schüler seitdem Folgendes bewerten:
--- Auswahl
--- Geschmack
--- Aussehen
--- Menge des Essens
--- Empfehlungen aufschreiben
- Essenswunsch abgeben.
+    - Auswahl
+    - Geschmack
+    - Aussehen
+    - Menge des Essens
+    - Empfehlungen aufschreiben
+    - Essenswunsch abgeben.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 - **Weiterführende Gedanken:** Eine Verbesserung hat sich allerdings nicht eingestellt. Die Probeleme, die von mir in dieser Arbeit besonders hervorgehoben werden, wie zu kleine Portionsgrößen und eine unausgewogenen Zusammenstellung besteht bis Juni 2026 unverändert. Es bleibt somit unklar, welche Maßnamen hier konkret abgeleitet worden sind.
 
 ## Zwischenfazit
 Von sieben Kriterien konnte ich vier bewerten, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt. Das ist eine grundlegende Vorraussetzung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit Beginn des Schuljahres nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung.
 
-## Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung
-In dem DGE Qualitätsstandard benennt Kapitel 4, „Gestaltung einer Gesundheitsfördernden und Nachhaltigen Verpflegung“, alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu servieren sind. Zu diesen Komponenten zählen:
+## Gestaltung einer gesundheitsfördernden und nachhaltigen Verpflegung
+In dem DGE-Qualitätsstandard benennt Kapitel 4, „Gestaltung einer gesundheitsfördernden und nachhaltigen Verpflegung“, alle Bestandteile der ausgewogenen Ernährung und empfiehlt, wie häufig diese Bestandteile über einen Zeitraum von 5 Verpflegungstagen zu servieren sind. Zu diesen Komponenten zählen:
 
-* Sättigungsbeilage (Getreide, Getreideprodukte und Kartoffeln)
-* Gemüse und Salat
-* Obst
-* Milch und Milchprodukte
-* tierische Produkte (Fleisch, Wurst, Fisch und Eier)
-* Öle und Fette
-* Getränke
+- Sättigungsbeilage (Getreide, Getreideprodukte und Kartoffeln)
+- Gemüse und Salat
+- Obst
+- Milch und Milchprodukte
+- tierische Produkte (Fleisch, Wurst, Fisch und Eier)
+- Gesunde Öle und Fette
+- Getränke
 
 Zur Bewertung führte ich eine Feldstudie in dem Zeitraum vom 6. Oktober 2025 bis zum 25. November 2025 durch, in der ich jedes Gericht dokumentierte.
-Folgende Hinweise sind hierbei zu beachten:
 
-Ich konnte bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren. Dies lag an:
+Hierbeit ist zu beachten, dass ich bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren konnte. Dies lag an:
 
-+ Ferien und Feiertagen
-+ Abwesenheiten
-+ Unterricht an einzelnen Tagen während des Mittagsbandes
-+ Der Schließung unserer Mensa freitags, während der Caterer weiterhin andere Schulen belieferte. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
+- Ferien und Feiertagen
+- Abwesenheiten
+- Unterricht an einzelnen Tagen während des Mittagsbandes
+- der Schließung unserer Mensa freitags, während der Caterer weiterhin andere Schulen belieferte. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
 
 Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, wählte ich während meiner Feldstudie immer das Gericht, mit welchem ich am besten wochenweise die Empfehlungen der DGE annähern konnte. Das waren dann immer die Gerichte, die tierische Produkte, Vollkorngetreide, Gemüse, Salat und Obst beinhalteten.
 
@@ -141,19 +139,19 @@ Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat se
 Rohkost und Hülsenfrüchte wie gefordert.
 - **Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf eine gesunde Ernährung gelegt wird.
 - **Kritische Gedanken:**
-+ Häufig war ein Salat zwar auf dem Speiseplan ausgeschrieben, wurde aber nicht serviert. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber systematisch nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
-+ Durch das Wegfallen des Rohkostsalates wird vom Menü auch ein wichtiger Lieferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe entfernt.
-+ Gerade weil schon so viele minderwertige Sättigungsbeilagen serviert werden, die einen hohen glykämischen Index haben (also Lebensmittel, die den Blutzucker erst stark anheben, und dann schnell wieder abfallen lassen), ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
+    - Häufig war ein Salat zwar auf dem Speiseplan ausgeschrieben, wurde aber nicht serviert. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber systematisch nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+    - Durch das Wegfallen des Rohkostsalates wird vom Menü auch ein wichtiger Lieferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe entfernt.
+    - Gerade weil schon so viele minderwertige Sättigungsbeilagen serviert werden, die einen hohen glykämischen Index haben (also Lebensmittel, die den Blutzucker erst stark anheben, und dann schnell wieder abfallen lassen), ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
 
 ### Obst
 Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von dieser Häufigkeit mindestens einmal Stückobst.
 - **Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde nur 2-mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges mal Stückobst.
 - **Ergebnis:** Ich bewerte dieses Kriterium als signifikant nicht erfüllt.
 - **Kritische Gedanken:**
-+ Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
-+ Durch das Wegfallen des Nachtisches wird auch die gesamt Kalorienaufnahme durch die Mittagsverpflegung verringert.
-+ Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott, und einmal Kirschmichel mit Vanillesoße, und sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden, und ein Hauptgericht nicht ersetzen sollen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass man süße Speisen aus dem Menü eliminiert, sondern hat einen Lieferanten von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü eliminiert.
-+ Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+    - Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
+    - Durch das Wegfallen des Nachtisches wird auch die gesamt Kalorienaufnahme durch die Mittagsverpflegung verringert.
+    - Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott, und einmal Kirschmichel mit Vanillesoße, und sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden, und ein Hauptgericht nicht ersetzen sollen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass man süße Speisen aus dem Menü eliminiert, sondern hat einen Lieferanten von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü eliminiert.
+    - Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
 
 ### Milch und Milchprodukte
 Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2-mal Milch oder Milchprodukte serviert werden.
@@ -185,26 +183,26 @@ Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkompon
 ###  Nährstoffzusammensetzung
 Die Nährstoffmängel fasste ich im Folgenden kurz zusammen:
 
-* Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen der DGE.
-* Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE.
-* Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen der DGE.
-* Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen der DGE.
-* Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE.
-* Die Häufigkeit von Fisch und fettreichem Fisch unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit von Fisch und fettreichem Fisch unterschreitet die Empfehlungen der DGE.
 
 Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mangel des Tressbrüder-Cateringangebots liegt nicht im Geschmack oder in der Kindgerechtheit der Speisen – wie häufig diskutiert wird –, sondern in der strukturell unvollständigen Nährstoffzusammensetzung der Menüs. Bisherige Lösungsversuche der verschiedenen Akteure konzentrierten sich nahezu ausschließlich auf die Frage der Akzeptanz, während die eigentliche Frage der Ernährungsqualität unbeachtet blieb. Diese Fehldiagnose des Problems hat bislang jede wirksame Korrekturmaßnahme verhindert.
 
 ### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
 Eine unausgewogene Ernährung mit Mangel an Proteinen, Vollkornprodukten, Fetten und Ballaststoffen kann langfristig zu einer Vielzahl schwerwiegender Folgen führen:
 
-* **Proteine:** Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung sowie Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen besonders problematisch, weil sich der Körper noch in der Entwicklung befindet und ein Proteinmangel diese körperlichen Prozesse hemmt. Grundsätzlich gilt hierbei, dass nicht nur die Menge des aufgenommenen Proteins entscheidend ist, sondern auch dessen Aminosäurenprofil eine optimale Zusammensetzung aufweisen muss, damit der Körper die Proteine vollständig verwerten kann. Bei pflanzlicher Ernährung ist jedoch die Kombination unterschiedlicher Proteinquellen erforderlich, um ein ausgewogenes Aminosäurenprofil zu gewährleisten.
-* **Kohlenhydrate:** Ein Mangel an hochwertigen Kohlenhydraten in Form von Vollkornprodukten führt zu:
-  + Verdauungsproblemen
-  + Erhöhtem Blutzucker
-  + Herz-Kreislauf-Erkrankungen
-  + Einem schwächeren Sättigungsgefühl, was Heißhungerattacken und in der Folge Übergewicht begünstigen kann
-* **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen [^OM3], was sich negativ auf schulische Bildung auswirkt.
-* **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und ist mit einem erhöhten Risiko für Darmkrebs assoziiert [^WCRF]. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
+- **Proteine:** Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung sowie Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen besonders problematisch, weil sich der Körper noch in der Entwicklung befindet und ein Proteinmangel diese körperlichen Prozesse hemmt. Grundsätzlich gilt hierbei, dass nicht nur die Menge des aufgenommenen Proteins entscheidend ist, sondern auch dessen Aminosäurenprofil eine optimale Zusammensetzung aufweisen muss, damit der Körper die Proteine vollständig verwerten kann. Bei pflanzlicher Ernährung ist jedoch die Kombination unterschiedlicher Proteinquellen erforderlich, um ein ausgewogenes Aminosäurenprofil zu gewährleisten.
+- **Kohlenhydrate:** Ein Mangel an hochwertigen Kohlenhydraten in Form von Vollkornprodukten führt zu:
+    - Verdauungsproblemen
+    - Erhöhtem Blutzucker
+    - Herz-Kreislauf-Erkrankungen
+    - Einem schwächeren Sättigungsgefühl, was Heißhungerattacken und in der Folge Übergewicht begünstigen kann
+- **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen [^OM3], was sich negativ auf schulische Bildung auswirkt.
+- **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und ist mit einem erhöhten Risiko für Darmkrebs assoziiert [^WCRF]. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
 
 Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können. Zumindest erkenne ich in diesen Ergebnissen ein ernstes moralisches Problem, wenn die Schüler in der Schule mit einem derart ungenügenden Mittagsmenü versorgt werden.
 
@@ -329,11 +327,11 @@ Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verp
 ## Abwechslungsreiches Angebot von Getreide, Getreideprodukte und Kartoffeln
 Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechslungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel, Grünkern, Bulgur und Hirse verwendet wird.
 - **Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Verpflegungstagen angeboten. Das unterteilte sich in
- + 7 × Kartoffeln
- + 5 × Reis
- + 5 × Nudelteigprodukte, davon wahrscheinlich 4 × Weizen, 1 × Dinkel
- + 1 × Albbuchweizenbällchen
- + 1 × Dinkelknödel
+    - 7 × Kartoffeln
+    - 5 × Reis
+    - 5 × Nudelteigprodukte, davon wahrscheinlich 4 × Weizen, 1 × Dinkel
+    - 1 × Albbuchweizenbällchen
+    - 1 × Dinkelknödel
   Die Verteilung hat durchaus Abwechslung, es ist jedoch noch Luft nach oben.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 - **Verbesserungsvorschlag:** Es sollte angegeben sein, ob ein Getreideprodukt Vollkorn ist. Außerdem gibt es noch viele Getreidesorten, die noch nicht serviert wurden. Mais, Graupen, Hirse, Hafer, Roggen, Grünkern und Bulgur.
@@ -347,16 +345,16 @@ Das Kriterium fordert, dass frittierte und/oder panierte Produkte maximal 4× in
 ## Das saisonale Gemüse- und Obst Angebot
 Dieses Kriterium fordert, dass das saisonale Gemüse- und Obst Angebot berücksichtigt ist.
 - **Durchführung:** Zur Bewertung listete ich alle Obst- und Gemüsesorten, welche in den 20 Verpflegungstagen serviert wurden, auf und bewertete, ob diese zu der Saison Oktober bis Dezember passen:
-+ Paprika: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober.
-+ Zucchini: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshausanbau nicht üblich in Baden-Württemberg.
-+ Blumenkohl: Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region.
-+ Eingelegte Kirschen: Nicht saisonal. Frische Kirschen: Saison endet Juli. Eingelegte Produkte sind nicht an Saison gebunden.
-+ Bohnen: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich.
-+ Gurken: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshaussaison (Salatgurken) endet typischerweise Oktober, vereinzelt bis November.
-+ Kürbis: Saisonal Oktober-November. Freilandsaison August bis November. Gewächshausanbau nicht üblich. Lagerware bis Dezember verfügbar.
-+ Karotten: Saisonal. Freilandsaison ganzjährig durch Lagerware. Gewächshausanbau ganzjährig für Frischware.
-+ Erbsen: Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich.
-+ Aubergine: Nicht saisonal Oktober-Dezember. Freilandsaison August bis September. Gewächshausanbau endet September bis Oktober.
+    - Paprika: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober.
+    -  Zucchini: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshausanbau nicht üblich in Baden-Württemberg.
+    -  Blumenkohl: Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region.
+    -  Eingelegte Kirschen: Nicht saisonal. Frische Kirschen: Saison endet Juli. Eingelegte Produkte sind nicht an Saison gebunden.
+    -  Bohnen: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich.
+    -  Gurken: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshaussaison (Salatgurken) endet typischerweise Oktober, vereinzelt bis November.
+    -  Kürbis: Saisonal Oktober-November. Freilandsaison August bis November. Gewächshausanbau nicht üblich. Lagerware bis Dezember verfügbar.
+    -  Karotten: Saisonal. Freilandsaison ganzjährig durch Lagerware. Gewächshausanbau ganzjährig für Frischware.
+    -  Erbsen: Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich.
+    -  Aubergine: Nicht saisonal Oktober-Dezember. Freilandsaison August bis September. Gewächshausanbau endet September bis Oktober.
 Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten gab, die nicht saisonal waren, können diese auch nicht regional sein. Sie wurden wahrscheinlich aus anderen Regionen importiert, in denen sie zu der Jahreszeit noch wachsen können.
 - **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt.
 - **Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage fälschlicherweise damit, dass ihre Gerichte saisonal sind.
@@ -388,12 +386,12 @@ Dieses Kriterium fordert, dass der Menüzyklus sich frühestens nach 4 Wochen wi
 Dieses Kriterium fordert, dass die Speisen bunt und abwechslungsreich gestaltet sind. Hier wird vorallem eine Farbliche Zusammenstellung der Bestandteile betont.
 
 - **Durchführung:** Zur Bewertung notierte ich, in wie vielen von 20 Gerichten folgende Farben vorkommen:
-+ Grün: 1 (in Form von wenigen Erbsen)
-+ Rot: 7
-+ Blau: 0
-+ Orange: 4
-+ Lila: 1
-+ Gelb-Braun Töne: 15
+    - Grün: 1 (in Form von wenigen Erbsen)
+    - Rot: 7
+    - Blau: 0
+    - Orange: 4
+    - Lila: 1
+    - Gelb-Braun Töne: 15
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt, da die Farben Grün und Orange nur sehr selten vorkamen, jedoch die weniger ansprechenden Töne wie Gelb und Braun häufig vorkamen.
 - **Verbesserungsvorschlag:** Um das Kriterium eindeutig bewerten zu können, müsste die DGE es exakter formulieren, was ihr hier nicht gelungen ist.
 
@@ -482,10 +480,10 @@ Dieses Kriterium fordert, dass der aktuelle Speiseplan vorab regelmäßig für S
 Dieses Kriterium fordert, dass alle Speisen im Speiseplan eindeutig bezeichnet sind. Fantasienamen wie „Wikingerpfanne“, nicht deutschsprachige Begriffe wie „Ratatouille“ und allgemeine Bezeichnungen wie Gemüseeintopf lassen nicht auf die Zutaten um Komponenten des Gerichtes schließen und werden daher nicht verwendet.
 
 - **Durchführung:** Zur Bewertung notierte ich zu jedem der 20 Gerichte, ob die Namensgebung der DGE Kriterien erfüllt. Bei 10 der 20 Gerichte war die Bezeichnung eindeutig, bei den restlichen 10 nicht. Negativbeispiele:
-+ Chilli con Carne
-+ Bauerneintopf
-+ Vegetarisches Pilz-Ragout
-+ **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
+    - Chilli con Carne
+    - Bauerneintopf
+    - Vegetarisches Pilz-Ragout
+- **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
 ### Informationen über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe
 Dieses Kriterium fordert, dass auf dem Speiseplan über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe Informiert wird.
