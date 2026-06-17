@@ -84,7 +84,7 @@ Dieses Kriterium fordert, dass ergonomisch gestaltete Arbeitsplätze und Arbeits
 Dieses Kriterium fordert, dass die Mitarbeitenden wertgeschätzt werden.
 - **Durchführung** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff.
 - **Ergebnis:** Ich bewerte dieses Kriterium nicht.
-- **Weiterführende Überlegungen:** Obwohl ich keine Informationen über die betriebliche Wertschätzung habe, beobachte ich, dass in der Mensa zwischen Schülern und Aufsichtspersonal kein wertschätzender Umgang vorherrscht.
+- **Weiterführende Überlegungen:** Obwohl ich keine Informationen über die betriebliche Wertschätzung habe, beobachte ich, dass in der Mensa zwischen Schülern und Aufsichtspersonal kein wertschätzender Umgang vorherrscht. Das Mensapresonal nimmt den Schüler/innen beispielsweise ohne Vorwarnung und vorheriges Ausschalten beim Benutzen das Smartphone weg, die Schüler/innen wiederum machen sich über das Mensapersonal lustig und provozieren dieses.
 
 ### Regelmäßiges Einholen von Feedback
 Dieses Kriterium fordert, dass Feedback zur Verpflegung regelmäßig eingeholt und ausgewertet wird, um Maßnahmen abzuleiten.
@@ -94,10 +94,10 @@ Dieses Kriterium fordert, dass Feedback zur Verpflegung regelmäßig eingeholt u
     - Geschmack
     - Aussehen
     - Menge des Essens
-    - Empfehlungen aufschreiben
-    - Essenswunsch abgeben.
+    - Empfehlungen notieren
+    - Essenswünsche abgeben.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
-- **Weiterführende Gedanken:** Eine Verbesserung hat sich allerdings nicht eingestellt. Die Probeleme, die von mir in dieser Arbeit besonders hervorgehoben werden, wie zu kleine Portionsgrößen und eine unausgewogenen Zusammenstellung besteht bis Juni 2026 unverändert. Es bleibt somit unklar, welche Maßnamen hier konkret abgeleitet worden sind.
+- **Weiterführende Überlegungen:** Eine Verbesserung hat sich allerdings nicht eingestellt. Die Probeleme, die von mir in dieser Arbeit besonders hervorgehoben werden, wie zu kleine Portionsgrößen und eine unausgewogenen Zusammenstellung besteht bis Juni 2026 unverändert. Es bleibt somit unklar, welche Maßnamen hier konkret abgeleitet worden sind.
 
 ## Zwischenfazit
 Von sieben Kriterien konnte ich vier bewerten, davon drei als erfüllt und eines als nicht erfüllt. Positiv hervorzuheben ist, dass ein Verpflegungsbeauftragter existiert, und ein Verpflegungskonzept vorliegt. Das ist eine grundlegende Vorraussetzung. Trotz der Bemühungen einzelner Akteure wie Schüler, Eltern und Tressbrüder ist seit Beginn des Schuljahres jedoch keine wesentliche Verbesserung eingetreten. Nach meiner Wahrnehmung liegt dies daran, dass kein gemeinsamer Austausch aller Akteure unter Koordination des Verpflegungsbeauftragten stattfindet und somit keine gemeinsame Problembeschreibung und Lösungsfindung erfolgt. Eine wirksame Zusammenarbeit aller Akteure scheint sich seit Beginn des Schuljahres nicht eingestellt zu haben. Hier erwarte ich das größte Potential zur Verbesserung.
@@ -122,116 +122,106 @@ Hierbeit ist zu beachten, dass ich bei der Feldstudie nicht jedes Gericht kontin
 - Unterricht an einzelnen Tagen während des Mittagsbandes
 - der Schließung unserer Mensa freitags, während der Caterer weiterhin andere Schulen belieferte. Dadurch kann es vorkommen, dass am Freitag bestimmte Komponenten ausgegeben werden, die ich nicht dokumentieren kann.
 
-Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, wählte ich während meiner Feldstudie immer das Gericht, mit welchem ich am besten wochenweise die Empfehlungen der DGE annähern konnte. Das waren dann immer die Gerichte, die tierische Produkte, Vollkorngetreide, Gemüse, Salat und Obst beinhalteten.
+Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, wählte ich während meiner Feldstudie immer das Gericht, mit welchem ich am besten wochenweise die Empfehlungen der DGE annähern konnte. Das waren dann immer die Gerichte, die Vollkorngetreide, tierische Produkte, Gemüse, Salat und Obst beinhalteten. Tierische Produkte habe ich bevorzugt, da diese zu selten serviert werden. Insgesamt dokumentierte und bewertete ich in meiner Feldstudie also an 20 Verpflegungstagen das von mir gewählte Gericht.
 
-**Methodische Anmerkung:** Diese gezielte Auswahl macht meine Untersuchung methodisch bewusst zu einer Best-Case-Schätzung: Ich bewerte jeweils das Gericht, das den DGE-Vorgaben am nächsten kommt, nicht ein zufällig ausgewähltes oder gemitteltes. Dieses Vorgehen stärkt die Aussagekraft der späteren Befunde, denn wenn bereits das nach DGE-Kriterien günstigere der beiden täglichen Gerichte die Vorgaben deutlich verfehlt, gilt das für das tatsächliche Durchschnittsangebot der Mensa erst recht.
-
-Insgesamt dokumentierte und bewertete ich in meiner Feldstudie also an 20 Verpflegungstagen das von mir gewählte Gericht.
+**Methodische Anmerkung:** Diese gezielte Auswahl macht meine Untersuchung methodisch bewusst zu einer Best-Case-Schätzung: Ich bewertete jeweils das Gericht, das den DGE-Vorgaben am nächsten kommt, nicht ein zufällig ausgewähltes oder gemitteltes Gericht. Dieses Vorgehen stärkt die Aussagekraft der späteren Befunde, denn wenn bereits das nach DGE-Kriterien günstigere der beiden täglichen Gerichte die Vorgaben deutlich verfehlt, gilt das für das tatsächliche Durchschnittsangebot der Mensa erst recht.
 
 ### Die Sättigungsbeilage
-Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Davon in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höchstens einmal Kartoffeln.
-- **Durchführung:** Zur Durchführung zählte und kategorisierte ich alle in den 20 Verpflegungstagen der Feldstudie servierten Sättigungsbeilagen. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Verpflegungstagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit Cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten. Die Süßkartoffeln, der Reis und der Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4-mal Vollkornprodukte geben müssen. Außerdem gab es 6-mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft.
-- **Ergebnis:** Die Höchstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. Daher bewerte ich dieses Kriterium als grenzwertig nicht erfüllt.
+Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Von diesen werden in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höchstens einmal Kartoffeln serviert.
+- **Durchführung:** Zur Durchführung zählte und kategorisierte ich alle in den 20 Verpflegungstagen der Feldstudie servierten Sättigungsbeilagen. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Verpflegungstagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten: die Süßkartoffeln, den Reis und den Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4-mal Vollkornprodukte geben müssen. Außerdem gab es 6-mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft.
+- **Ergebnis:**  Ich bewerte dieses Kriterium als grenzwertig nicht erfüllt. Die Höchstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. 
 
 ### Gemüse und Salat
-Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2-mal in der Form von Rohkost serviert werden, und einmal von der Sorte Hülsenfrüchte.
-- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde insgesamt 11 Gemüse serviert, was nur ungefähr halb so viel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Verpflegungstagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Verpflegungstagen empfohlen wird. Damit gab es nur ein Viertel so viel
+Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2-mal in der Form von Rohkost serviert werden und einmal von der Sorte Hülsenfrüchte.
+- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde insgesamt 11-mal Gemüse serviert, was nur ungefähr halb so viel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Verpflegungstagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Verpflegungstagen empfohlen wird. Damit gab es nur ein Viertel so viel
 Rohkost und Hülsenfrüchte wie gefordert.
-- **Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. Bei diesem Kriterium wird klar, wie wenig Wert in der Mittagsverpflegung an Tübinger Schulen auf eine gesunde Ernährung gelegt wird.
-- **Kritische Gedanken:**
-    - Häufig war ein Salat zwar auf dem Speiseplan ausgeschrieben, wurde aber nicht serviert. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber systematisch nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
-    - Durch das Wegfallen des Rohkostsalates wird vom Menü auch ein wichtiger Lieferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe entfernt.
-    - Gerade weil schon so viele minderwertige Sättigungsbeilagen serviert werden, die einen hohen glykämischen Index haben (also Lebensmittel, die den Blutzucker erst stark anheben, und dann schnell wieder abfallen lassen), ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
+- **Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. 
+- **Weiterführende Überlegungen:** Häufig war ein Salat zwar auf dem Speiseplan ausgeschrieben, wurde aber nicht serviert. Dies hat unter Umständen sogar rechtliche Relevanz, und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen. Durch dieses Wegfallen des Rohkostsalates wird vom Menü auch ein wichtiger Lieferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe entfernt. Gerade weil schon so viele minderwertige Sättigungsbeilagen serviert werden, die einen hohen glykämischen Index haben, also Lebensmittel, die den Blutzucker erst stark anheben und dann schnell wieder abfallen lassen, ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
 
 ### Obst
-Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens zwei mal Obst oder Nüsse serviert werden, von dieser Häufigkeit mindestens einmal Stückobst.
-- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde nur 2-mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges mal Stückobst.
-- **Ergebnis:** Ich bewerte dieses Kriterium als signifikant nicht erfüllt.
-- **Kritische Gedanken:**
-    - Wie im Anhang beschrieben, ist dem Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfallt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren.
-    - Durch das Wegfallen des Nachtisches wird auch die gesamt Kalorienaufnahme durch die Mittagsverpflegung verringert.
-    - Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott, und einmal Kirschmichel mit Vanillesoße, und sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden, und ein Hauptgericht nicht ersetzen sollen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass man süße Speisen aus dem Menü eliminiert, sondern hat einen Lieferanten von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü eliminiert.
-    - Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens 2-mal Obst oder Nüsse serviert werden, davon mindestens einmal Stückobst.
+- **Durchführung:** An den 20 Verpflegungstagen der Feldstudie wurde nur 2-mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges Mal Stückobst.
+- **Ergebnis:** Ich bewerte dieses Kriterium als deutlich nicht erfüllt.
+- **Weiterführende Überlegungen:**
+Wie im Anhang beschrieben, ist dem Schwäbischen Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfällt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren. Durch das Wegfallen des Nachtisches wird auch die Gesamtkalorienaufnahme durch die Mittagsverpflegung verringert. Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott und einmal Kirschmichel mit Vanillesoße. Dies sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden sollten und ein Hauptgericht nicht ersetzen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass süße Speisen, also Zucker, aus dem Menü gestrichen werden, sondern vielmehr wurde ein Lieferant von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü gestrichen. Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
 
 ### Milch und Milchprodukte
-Dieses Kriterium fordert, dass in 5 Verpflegungstagen mindestens 2-mal Milch oder Milchprodukte serviert werden.
-- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie gab es nur an 2 Verpflegungstagen Milchprodukte, beide male in Form von Quark.
-- **Ergebnis:** Dieses Kriterium bewerte ich als signifikant nicht erfüllt.
-- **Kritische Gedanken:** Milch eignet sich als ideale Basis für einen gesunden Nachtisch, wie zum Beispiel einen Naturjoghurt mit Beeren und Nüssen.
+Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens 2-mal Milch oder Milchprodukte serviert werden.
+- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie gab es nur an 4 Verpflegungstagen Milchprodukte.
+- **Ergebnis:** Dieses Kriterium bewerte ich als deutlich nicht erfüllt.
+- **Weiterführende Überlegungen:** Milch eignet sich als ideale Basis für einen gesunden Nachtisch, wie zum Beispiel einen Naturjoghurt mit Beeren und Nüssen.
 
 ### Fleisch, Wurst, Fisch und Eier
-Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höchstens 1-mal Fleisch serviert wird. Davon in 20 Verpflegungstagen mindestens 2-mal mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1-mal Fisch serviert werden, davon in 20 Verpflegungstagen mindestens 2-mal fettreicher Fisch.
-- **Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höchstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert unterschreitet. Außerdem wurde in 20 Verpflegungstagen nur 1-mal Fisch serviert, womit die Mindestangabe um den Faktor 4 unterschritten wurde. Kein einziges mal wurde fettreicher Fisch serviert.
-- **Ergebnis:** Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. Deshalb bewerte ich dieses Kriterium als signifikant nicht erfüllt.
+Dieses Kriterium fordert, dass innerhalb von 5 Verpflegungstagen höchstens 1-mal Fleisch serviert wird, davon an 20 Verpflegungstagen mindestens 2-mal mageres Muskelfleisch. Außerdem soll innerhalb von 5 Verpflegungstagen mindestens 1-mal Fisch serviert werden, davon an 20 Verpflegungstagen mindestens 2-mal fettreicher Fisch.
+- **Durchführung:** Innerhalb der 20 Verpflegungstage der Feldstudie gab es an sieben Tagen Fleisch, was den Höchstwert überschreitet. Davon einmal mageres Muskelfleisch, was den Mindestwert unterschreitet. Außerdem wurde an 20 Verpflegungstagen nur 1-mal Fisch serviert, womit die Mindestangabe um den Faktor 4 unterschritten wurde. Kein einziges Mal wurde fettreicher Fisch serviert.
+- **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt. Das Ergebnis ist eindeutig, keiner der Werte wurde eingehalten. 
 
 ### Öle und Fette
 Dieses Kriterium besagt, dass Rapsöl standardmäßig bei der Zubereitung eingesetzt wird.
 - **Durchführung:** Da ich nicht weiß, welche Fette und Öle bei der Zubereitung verwendet wurden, kann ich dieses Kriterium nicht bewerten.
-- **Kritische Gedanken:** Hochwertige Öle sind in einem Rohkostsalat essentiell, weil der Körper nur mit Hilfe des Öls fettlösliche Vitamine aus dem Salat aufnehmen kann. Da jedoch so selten Salat serviert wird, entfällt die Möglichkeit, die Öle sinnvoll einzusetzen. Zum Beispiel fettlösliches Vitamin A in Karotten.
+- **Weiterführende Überlegungen:** Hochwertige Öle sind in einem Rohkostsalat essentiell, weil der Körper nur mit Hilfe des Öls fettlösliche Vitamine aus dem Salat aufnehmen kann, zum Beispiel fettlösliches Vitamin Beta carotin in Karotten. Da jedoch so selten Salat serviert wird, entfällt die Möglichkeit, die Öle sinnvoll einzusetzen.
 
 ### Getränke
 Dieses Kriterium besagt, dass Getränke in der Mensa jederzeit zur Verfügung stehen.
-- **Durchführung:** In der Mensa stehen Getränke jederzeit zur Verfügung. Jeder Schüler kann sich ein Glas nehmen, und aus den auf allen Tischen stehenden Wasserkaraffen beliebig viel Wasser einschenken. Diese Wasserkaraffen werden zu jeder Zeit von dem Mensapersonal aufgefüllt, wenn sie leer sind.
+- **Durchführung:** In der Mensa stehen Getränke jederzeit zur Verfügung. Jeder Schüler kann sich ein Glas nehmen und aus den auf allen Tischen stehenden Wasserkaraffen beliebig viel Wasser einschenken. Diese Wasserkaraffen werden zu jeder Zeit von dem Mensapersonal aufgefüllt, wenn sie leer sind.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
 ## Zwischenfazit
-Von den sieben bewerteten Kriterien konnten sechs beurteilt werden – eines davon wurde erfüllt, fünf wurden nicht erfüllt. Die folgende Analyse reflektiert diese Ergebnisse:
-
-### DGE-Häufigkeitsvorgaben
-Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkomponenten wurden deutlich und erheblich nicht erfüllt. Bei den meisten Komponenten lag die tatsächliche Häufigkeit um den Faktor 2–4 unterhalb des jeweiligen DGE-Mindestwerts – eine signifikante Abweichung von den etablierten Ernährungsrichtlinien. Dies ist besonders auffällig, da der Caterer Tressbrüder auf seiner Website ausdrücklich mit einer DGE-konformen Schulverpflegung wirbt und der Verpflegungsbeauftragte Team Gutes Essen bestätigte mir gegenüber, dass sich das Verpflegungsangebot an den DGE-Leitlinien orientiert. Die einzige Ernährungskomponente, die in ausreichender Menge angeboten wurde, ist Wasser – das jedoch aus schuleigenen Trinkautomaten stammt und nicht von Tressbrüdern geliefert wird.
-
-###  Nährstoffzusammensetzung
-Die Nährstoffmängel fasste ich im Folgenden kurz zusammen:
+Von den sieben bewerteten Kriterien konnten sechs beurteilt werden, eines davon wurde erfüllt, fünf wurden nicht erfüllt. Die folgende Analyse reflektiert diese Ergebnisse:
 
 - Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen der DGE.
-- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE.
-- Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen der DGE.
-- Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen der DGE.
-- Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE.
-- Die Häufigkeit von Fisch und fettreichem Fisch unterschreitet die Empfehlungen der DGE.
+- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE um den Faktor 2
+- Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen der DGE um den Faktor 4.
+- Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen der DGE um den Faktor 2.
+- Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE um den Faktor 2.
+- Die Häufigkeit von Fisch unterschreitet die Empfehlungen der DGE um den Faktor 4.
 
-Diese Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mangel des Tressbrüder-Cateringangebots liegt nicht im Geschmack oder in der Kindgerechtheit der Speisen – wie häufig diskutiert wird –, sondern in der strukturell unvollständigen Nährstoffzusammensetzung der Menüs. Bisherige Lösungsversuche der verschiedenen Akteure konzentrierten sich nahezu ausschließlich auf die Frage der Akzeptanz, während die eigentliche Frage der Ernährungsqualität unbeachtet blieb. Diese Fehldiagnose des Problems hat bislang jede wirksame Korrekturmaßnahme verhindert.
 
-### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
+Die Ergebnisse verschieben die zentrale Problemstellung: Der grundlegende Mangel des Tressbrüder-Cateringangebots liegt nicht im Geschmack oder in der „Kindgerechtheit“ der Speisen, wie häufig diskutiert wird, sondern in der strukturell unvollständigen Nährstoffzusammensetzung der Menüs. Bisherige Lösungsversuche der verschiedenen Akteure konzentrierten sich nahezu ausschließlich auf die Frage der Akzeptanz, während die eigentliche Frage der Ernährungsqualität unbeachtet blieb. Diese Fehldiagnose des Problems hat bislang jede wirksame Korrekturmaßnahme verhindert.
+
+### DGE-Häufigkeitsvorgaben
+Alle Kriterien zur geforderten Angebotshäufigkeit bestimmter Lebensmittelkomponenten wurden nicht erfüllt. Bei den meisten Komponenten lag die tatsächliche Häufigkeit um den Faktor 2–4 unterhalb des jeweiligen DGE-Mindestwerts. Das ist eine sehr hohe Abweichung von den etablierten Ernährungsrichtlinien. Das ist nicht nur ernährungsphysiologisch besorgniserregend, sonder auch rechtlich relevan da der Caterer Tressbrüder auf seiner Website ausdrücklich mit einer DGE-konformen Schulverpflegung wirbt und der Verpflegungsbeauftragte Team  „Gutes Essen“ mir gegenüber bestätigte, dass sich das Verpflegungsangebot an den DGE-Leitlinien orientiert. Die einzige Ernährungskomponente, die in ausreichender Menge angeboten wurde, ist Wasser. Das jedoch aus schuleigenen Trinkautomaten oder dem Wasserhahn stammt und nicht von den Tressbrüdern geliefert wird.
+
+
+#### Langfristige Folgen einer unausgewogenen Makronährstoffzusammensetzung
 Eine unausgewogene Ernährung mit Mangel an Proteinen, Vollkornprodukten, Fetten und Ballaststoffen kann langfristig zu einer Vielzahl schwerwiegender Folgen führen:
 
-- **Proteine:** Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung sowie Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen besonders problematisch, weil sich der Körper noch in der Entwicklung befindet und ein Proteinmangel diese körperlichen Prozesse hemmt. Grundsätzlich gilt hierbei, dass nicht nur die Menge des aufgenommenen Proteins entscheidend ist, sondern auch dessen Aminosäurenprofil eine optimale Zusammensetzung aufweisen muss, damit der Körper die Proteine vollständig verwerten kann. Bei pflanzlicher Ernährung ist jedoch die Kombination unterschiedlicher Proteinquellen erforderlich, um ein ausgewogenes Aminosäurenprofil zu gewährleisten.
+- **Proteine:** Zu wenig Protein führt langfristig zu Muskelschwund, da der Körper körpereigenes Muskelgewebe abbaut, um seinen Proteinbedarf zu decken. Darüber hinaus leidet das Immunsystem, da Antikörper und Enzyme aus Proteinen bestehen. Wundheilung sowie Hormon- und Enzymsynthese werden beeinträchtigt. Dies ist vor allem bei Jugendlichen besonders problematisch, weil sich der Körper noch in der Entwicklung befindet und ein Proteinmangel diese körperlichen Prozesse hemmt. Grundsätzlich gilt hierbei, dass nicht nur die Menge des aufgenommenen Proteins entscheidend ist, sondern auch dessen Aminosäurenprofil eine optimale Zusammensetzung aufweisen muss, damit der Körper die Proteine vollständig verwerten kann. Bei pflanzlicher Ernährung ist die Kombination unterschiedlicher Proteinquellen empfehlenswert, um ein ausgewogenes Aminosäurenprofil zu gewährleisten.
 - **Kohlenhydrate:** Ein Mangel an hochwertigen Kohlenhydraten in Form von Vollkornprodukten führt zu:
     - Verdauungsproblemen
-    - Erhöhtem Blutzucker
+    - erhöhtem Blutzucker
     - Herz-Kreislauf-Erkrankungen
     - Einem schwächeren Sättigungsgefühl, was Heißhungerattacken und in der Folge Übergewicht begünstigen kann
-- **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen [^OM3], was sich negativ auf schulische Bildung auswirkt.
-- **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und ist mit einem erhöhten Risiko für Darmkrebs assoziiert [^WCRF]. Darüber hinaus regulieren Ballaststoffe den Blutzucker und senken den Cholesterinspiegel – ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
+- **Fette:** Ein Mangel an hochwertigen Fetten, wie sie beispielsweise in fettem Fisch vorkommen, ist vor allem bei Jugendlichen besonders kritisch. Er kann zu schlechteren kognitiven Leistungen und Konzentrationsproblemen führen [^OM3], was sich negativ auf auf das Denkvermögen( Docohexaensäure im Gehirn), und somit auf die schulische Bildung auswirkt.
+- **Ballaststoffe:** Eine ballaststoffarme Ernährung kann chronische Verdauungsprobleme wie Verstopfung verursachen und ist mit einem erhöhten Risiko für Darmkrebs assoziiert [^WCRF]. Darüber hinaus regulieren Ballaststoffe den Blutzucker, schützen das Herz und senken den Cholesterinspiegel, ihr Fehlen fördert daher Insulinresistenz und Typ-2-Diabetes.
 
-Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können. Zumindest erkenne ich in diesen Ergebnissen ein ernstes moralisches Problem, wenn die Schüler in der Schule mit einem derart ungenügenden Mittagsmenü versorgt werden.
+Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können. Zumindest erkenne ich in diesen Ergebnissen ein ernstes Problem, wenn die Schüler in der Schule mit einem derart ungenügenden Mittagsmenü versorgt werden.
 
 ### Kaloriendefizit
-Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet – ein Befund, der im folgenden Kapitel Kalorienbedarf dokumentiert ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit nicht nur ein moralisches Fehlverhalten darstellt, sondern auch rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet, ein Befund, der im folgenden Kapitel  „Kalorienbedarf“ dokumentiert ist. Der PAL-Wert (Physical Activity Level) beschreibt, wie körperlich aktiv ein Mensch im Alltag ist. Er wird verwendet, um den täglichen Energiebedarf zu berechnen. Je mehr man sich bewegt und körperlich arbeitet, desto höher ist der PAL-Wert. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
-# Kalorienbedarf
-## Gesamtenergieumsatz
-Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitragsgebern.
+#### Kalorienbedarf
+Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitragsgebern, des Ruheenegieverbrauchs und dem Grad der körperlichen Aktivität
 
-## Ruheenergieverbrauch nach DGE-Formel
-Der erste Beitragsgeber ist der Ruheenergieverbrauch, also die Energie, die der Körper bei körperlicher und geistiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Ruheenergieverbrauchs gibt es unterschiedliche Formeln, etwa die Formel der Deutschen Gesellschaft für Ernährung (DGE), die Schofield-Formel und die Harris-Benedict-Formel von 1919. Die Werte dieser Formeln können sich um 100 bis 300 kcal pro Tag unterscheiden, weshalb die Wahl der Formel die Ergebnisse spürbar beeinflusst. Da diese Arbeit den DGE-Qualitätsstandard zugrunde legt, verwende ich konsequent die von der DGE selbst empfohlene Formel [^FAQE]:
+##### Ruheenergieverbrauch nach DGE-Formel
+Der erste Beitragsgeber ist der Ruheenergieverbrauch, also die Energie, die der Körper bei körperlicher und geistiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Ruheenergieverbrauchs gibt es unterschiedliche Formeln, wobei es jedoch nicht notwendig ist, diese namentlich zu nennen. Die Werte dieser Formeln können sich um 100 bis 300 kcal pro Tag unterscheiden, weshalb die Wahl der Formel die Ergebnisse spürbar beeinflusst. Da diese Arbeit den DGE-Qualitätsstandard zugrunde legt, verwende ich konsequent die von der DGE selbst empfohlene Formel [^FAQE]:
 
-- **Männer:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg + 1,009 − 0,01452 × Alter in Jahren + 3,21) × 239
-- **Frauen:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht in kg − 0,01452 × Alter in Jahren + 3,21) × 239
+- **Männer:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht / kg + 1,009 − 0,01452 × Alter / a + 3,21) × 239
+- **Frauen:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht / kg − 0,01452 × Alter / a + 3,21) × 239
 
-Die Harris-Benedict-Formel von 1919 ist hingegen für Erwachsene entwickelt worden und für Jugendliche nicht ohne Weiteres geeignet, weil sie den zusätzlichen Energiebedarf für das Wachstum nicht abbildet. Anhand der DGE-Formel berechne ich nun den Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen. Ich setze folgende Parameter ein:
+Anhand der DGE-Formel berechne ich nun den Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen. Meine entscheidung fällt wegen des höheren Energieumsatzes auf den Jungen, der damit das worst case szenario für den Kaloriendefizit ist. Ich setze folgende Parameter ein:
 
-- durchschnittliches Gewicht M = 58 kg
-- Alter T = 14 Jahre
+- durchschnittliches Gewicht von 58 kg
+- Alter von 14 Jahren
 
 Ruheenergieverbrauch = (0,047 × 58 + 1,009 − 0,01452 × 14 + 3,21) × 239
 = (2,726 + 1,009 − 0,2033 + 3,21) × 239
 = 6,742 × 239
-≈ 1.611 kcal/Tag.
+≈ 1611 kcal/Tag.
 
-Der Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen liegt also bei etwa 1.600 kcal pro Tag.
+Der Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen liegt also bei etwa 1600 kcal pro Tag.
 
-## Grad an Physischer Aktivität
+##### Grad an physischer Aktivität
 Der zweite Beitragsgeber ist der Grad an physischer Aktivität, auch PAL-Faktor genannt. Dieser Faktor wird mit dem Ruheenergieverbrauch multipliziert. Hier sind die PAL-Faktoren für unterschiedliche Bewegungsgrade [^FAQE]:
 
 - Sitzende oder liegende Aktivität: 1,4
@@ -239,9 +229,9 @@ Der zweite Beitragsgeber ist der Grad an physischer Aktivität, auch PAL-Faktor 
 - Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
 - Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
 
-Multipliziert man den Ruheenergieverbrauch des durchschnittlichen 14-jährigen Jungen von rund 1.611 kcal mit dem PAL-Wert von 1,6 für einen durchschnittlichen Schulalltag, ergibt sich ein Gesamtenergieumsatz von rund 2.578 kcal pro Tag. Bei Kindern und Jugendlichen kommt zusätzlich noch ein Energieanteil für das Wachstum hinzu, der in den offiziellen DGE-Richtwerttabellen bereits enthalten ist.
+Multipliziert man den Ruheenergieverbrauch des durchschnittlichen 14-jährigen Jungen von rund 1600 kcal mit dem PAL-Wert von 1,6 für einen durchschnittlichen Schulalltag, ergibt sich ein Gesamtenergieumsatz von rund 2.600 kcal pro Tag.
 
-## Richtwerte für die durchschnittliche Energiezufuhr
+##### Richtwerte für die durchschnittliche Energiezufuhr
 Die DGE veröffentlicht für Kinder und Jugendliche Richtwerte für die durchschnittliche Energiezufuhr, die den Ruheenergieverbrauch, den PAL-Wert und den zusätzlichen Energiebedarf für das Wachstum bereits zusammenfassen. Die folgende Tabelle zeigt die Richtwerte für PAL 1,4 (überwiegend sitzende Tätigkeit, etwa typischer Schulalltag ohne zusätzlichen Sport) und PAL 1,6 (sitzende Tätigkeit mit zusätzlicher Bewegung im Alltag) [^FAQE]:
 
 DGE-Richtwerte für die durchschnittliche tägliche Energiezufuhr von Kindern und Jugendlichen nach Altersgruppe, Geschlecht und PAL-Wert. Quelle: Deutsche Gesellschaft für Ernährung [^FAQE].
@@ -254,16 +244,16 @@ DGE-Richtwerte für die durchschnittliche tägliche Energiezufuhr von Kindern un
 
 
 
-## Verteilung der Kalorienaufnahme über den Tag
+##### Verteilung der Kalorienaufnahme über den Tag
 Es wird allgemein empfohlen, die Kalorienaufnahme bei Kindern, Jugendlichen und jungen Erwachsenen eines Tages auf 5 Mahlzeiten zu verteilen:
 
 - Frühstück
-- 1 Zwischenmahlzeit
+- 1. Zwischenmahlzeit
 - Mittagessen
-- 2 Zwischenmahlzeit
-- Abendessen
+- 2. Zwischenmahlzeit
+- Abendessen,
 
-Wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25 % [^OMX] bis 35 % [^JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30 % fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmahlzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Mahlzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden - viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei - ist das Mittagessen für die allermeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
+wobei die prozentuale Kalorienaufnahme der Mittagsmahlzeit im Bereich von 25 % [^OMX] bis 35 % [^JUF] empfohlen wird. Für die weitere Betrachtung in dieser Arbeit setze ich den Wert auf 30 % fest und begründe das so: Es liegt mittig im empfohlenen Wertebereich. Außerdem bildet das Mittagessen somit die größte Hauptmahlzeit am Tag. Die Mittagsmahlzeit ist außerdem die einzige Mahlzeit, die im Rahmen der schulischen Verpflegung gesteuert wird. Gerade weil die anderen Mahlzeiten von den meisten Schülern nach eigener Beobachtung vernachlässigt werden, viele Schüler essen gar kein Frühstück, nur die wenigsten haben Vesper dabei, ist das Mittagessen für die allermeisten Schüler die erste und auch vielleicht die einzige vollständige Malzeit des Tages.
 
 Entsprechend ergibt sich eine empfohlene Kalorienaufnahme für die Mittagsmahlzeit für alle Altersgruppen und beide Geschlechter:
 
@@ -275,7 +265,7 @@ Daraus abgeleiteter Kalorienbedarf für die Mittagsmahlzeit (30 % des Tagesbedar
 | 13 bis unter 15 Jahre | ~690 kcal | ~780 kcal | ~570 kcal | ~660 kcal |
 | 15 bis unter 19 Jahre | ~780 kcal | ~900 kcal | ~600 kcal | ~690 kcal |
 
-## Kalorienaufnahme der Schulverpflegung
+##### Kalorienaufnahme der Schulverpflegung
 Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, zog ich die Daten meiner Feldstudie heran. Anschließend schätzte ich für jedes Gericht die Makronährstoffe ab (Fette, Kohlenhydrate, Proteine und Ballaststoffe) und leitete daraus das Kalorienangebot ab. Für die Abschätzung der Zusammensetzung nutzte ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht. Darüber hinaus verwendete ich KI, und meine Oma, die promovierte Ernährungsberaterin ist, plausibilisierte die Ergebnisse. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern – etwa einer durchgängigen Über- oder Unterschätzung von Portionen – hilft die Mittelung nicht.
 
 Es ergeben sich folgende Ergebnisse:
@@ -289,7 +279,7 @@ Folgende Punkte sind noch anzumerken:
 - Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des Mittagessens stark rationiert ist.
 - Den Schülern werden keine altersgerechten Portionsgrößen serviert; alle bekommen ungefähr die gleiche Portionsgröße. Diese gleichmäßige, nicht-altersgerechte Portionierung lässt sich daran belegen, dass die Teller in der Regel schon vorrätig befüllt und anschließend zufällig zu den Schülern zugeteilt werden.
 
-## Zwischenfazit
+#### Zwischenfazit
 
 - Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten.
 - Bei Mädchen in der Alterskategorie 10 bis unter 13 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 600 kcal nur zu etwa 85 % gedeckt.
@@ -297,7 +287,7 @@ Folgende Punkte sind noch anzumerken:
 - Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
 - Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
 
-## Langfristige Folgen eines Kaloriendefizit
+##### Langfristige Folgen eines Kaloriendefizit
 Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
 
 - Wachstum und Körpergröße
@@ -322,7 +312,7 @@ In Kapitel 4.1 des DGE Qualitätsstandards werden außerdem weitere Kriterien an
 Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verpflegungstag angeboten wird.
 - **Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine „Veg-fit“ heißt, die immer vegetarisch ist, und die andere „Klima-fit“ ist, welche auch tierische Produkte beinhaltet. Hierbei liegt das Problem bei den Namen: aus „Veg-fit“ lässt sich nicht erschließen, ob es sich um eine vegetarische oder vegane Menülinie handelt. Der Name „Klimafit“ lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
-- **Verbesserungsvorschlag:** Meine Schlussfolgerung ist, dass die Menülinien Vegetarisch und Mischkost genannt werden sollten, um für Klarheit zu sorgen.
+- **Verbesserungsvorschlag:** Die Menülinien sollten Vegetarisch und Mischkost genannt werden, um für Klarheit zu sorgen.
 
 ## Abwechslungsreiches Angebot von Getreide, Getreideprodukte und Kartoffeln
 Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechslungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel, Grünkern, Bulgur und Hirse verwendet wird.
@@ -508,14 +498,14 @@ Dieses Kriterium fordert, dass die rechtlichen Vorgaben beachtet werden, wenn N�
 
 - **Durchführung:** Im Speiseplan der Mittagsverpflegung wurden keine Nährwerte ausgewiesen, weshalb dieses Kriterium nicht anwendbar ist.
 - **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
-- **Weiterführende Gedanken:** Wie dem Kapitel Kalorienbedarf zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, und Schüler und Eltern auf den Mangel aufmerksam zu machen.
+- **Weiterführende Überlegungen:** Wie dem Kapitel Kalorienbedarf zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, und Schüler und Eltern auf den Mangel aufmerksam zu machen.
 
 ### Eindeutige und übersichtliche Darstellung der Preise
 Dieses Kriterium fordert, dass die Preise eindeutig und übersichtlich dargestellt werden, wenn sie ausgewiesen werden.
  
 - **Durchführung:** Der Speiseplan der Tressbrüder weist keine Preise aus.
 - **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
-- **Weiterführende Gedanken:** Es ist empfehlenswert, die Preise auf dem Speiseplan auszuweisen, um den Eltern und Schülern gegenüber Transparenz zu schaffen, insbesondere auch die Subventionen der Stadt Tübingen, dem Landkreis Tübingen und dem Bund, da dies von den Steuergeldern gezahlt wird. Wenn die Preise nicht ausgewiesen sind, ist es allen Akteuren nicht möglich, selbstständig das Preis Leistungsverhältnis zu bewerten.
+- **Weiterführende Überlegungen:** Es ist empfehlenswert, die Preise auf dem Speiseplan auszuweisen, um den Eltern und Schülern gegenüber Transparenz zu schaffen, insbesondere auch die Subventionen der Stadt Tübingen, dem Landkreis Tübingen und dem Bund, da dies von den Steuergeldern gezahlt wird. Wenn die Preise nicht ausgewiesen sind, ist es allen Akteuren nicht möglich, selbstständig das Preis Leistungsverhältnis zu bewerten.
 
 ### Zielgruppengerechte Gestaltung des Speiseplans
 Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehört eine ausreichend große Schrift, sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler.
