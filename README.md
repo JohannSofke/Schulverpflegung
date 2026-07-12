@@ -266,28 +266,28 @@ Daraus abgeleiteter Kalorienbedarf für die Mittagsmahlzeit (30 % des Tagesbedar
 | 15 bis unter 19 Jahre | ~780 kcal | ~900 kcal | ~600 kcal | ~690 kcal |
 
 ##### Kalorienaufnahme der Schulverpflegung
-Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, zog ich die Daten meiner Feldstudie heran. Anschließend schätzte ich für jedes Gericht die Makronährstoffe ab (Fette, Kohlenhydrate, Proteine und Ballaststoffe) und leitete daraus das Kalorienangebot ab. Für die Abschätzung der Zusammensetzung nutzte ich die Beschreibung aus dem Speiseplan, das Foto des Gerichts und das Gewicht. Darüber hinaus verwendete ich KI, und meine Oma, die promovierte Ernährungsberaterin ist, plausibilisierte die Ergebnisse. Trotzdem gehe ich davon aus, dass der Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern – etwa einer durchgängigen Über- oder Unterschätzung von Portionen – hilft die Mittelung nicht.
+Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, zog ich die Daten meiner Feldstudie heran. Hierbei schätzte ich für jedes Gericht die einzelnen Komponenten wie Sättigungsbeilage, Gemüse, Fleisch mengenmäßig ab und berechnete davon ausgehend die Makronährstoffe, die Ballaststoffe und den Kaloriengehalt. Darüber hinaus verwendete ich KI. Meine Oma, die promovierte Landwirtin Ernährungsberaterin ist, plausibilisierte die Ergebnisse. Dennoch gehe ich davon aus, dass der Mittlere Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern, etwa einer durchgängigen Über- oder Unterschätzung von Portionen, hilft die Mittelung nicht.
 
 Es ergeben sich folgende Ergebnisse:
 
-- Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (± 20 %)
-- Das Gericht mit dem höchsten Kaloriengehalt war die Kirschmichel mit geschätzt 1102 kcal (± 20 %)
-- Der mittlere Kaloriengehalt der 20 Verpflegungstage war 509 kcal (± 5 %)
+- Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (± 20 %).
+- Das Gericht mit dem höchsten Kaloriengehalt war der Kirschmichel mit geschätzt 1102 kcal (± 20 %).
+- Der mittlere Kaloriengehalt der 20 Verpflegungstage beträgt 509 kcal (± 5 %).
 
 Folgende Punkte sind noch anzumerken:
 
-- Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des Mittagessens stark rationiert ist.
-- Den Schülern werden keine altersgerechten Portionsgrößen serviert; alle bekommen ungefähr die gleiche Portionsgröße. Diese gleichmäßige, nicht-altersgerechte Portionierung lässt sich daran belegen, dass die Teller in der Regel schon vorrätig befüllt und anschließend zufällig zu den Schülern zugeteilt werden.
+- Nur an den wenigsten Tagen war es möglich, sich Nachschlag zu holen, da die Gesamtmenge des gelieferten Mittagessens stark rationiert ist.
+- Den Schülern werden keine altersgerechten Portionsgrößen serviert; alle bekommen ungefähr die gleiche Portionsgröße. Diese gleichmäßige, nicht altersgerechte Portionierung lässt sich daran belegen, dass die Teller in der Regel schon vorrätig befüllt und anschließend zufällig den Schülern übergeben werden.
 
-#### Zwischenfazit
+#### Ergebnis der Kalorienschätzung
 
 - Das mittlere Kalorienangebot ist für alle Altersgruppen deutlich unterschritten.
 - Bei Mädchen in der Alterskategorie 10 bis unter 13 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 600 kcal nur zu etwa 85 % gedeckt.
 - Bei Jungen in der Alterskategorie 15 bis unter 19 Jahre (PAL 1,6) wurde der Mittagessen-Richtwert von rund 900 kcal nur zu etwa 57 % gedeckt.
 - Der Kaloriengehalt ist bei den Mahlzeiten sehr unausgewogen verteilt, wobei das Gericht Kirschmichel ~5-mal so viele Kalorien wie der vegetarische Bauerneintopf hatte.
-- Dass ein Bauerneintopf mit nur 230 kcal noch ein vollständiges Gericht genannt wird, empfinde ich als eine Frechheit.
+- Dass ein Bauerneintopf mit nur 230 kcal noch als ein vollständiges Gericht serviert wird, empfinde ich als unangemessen.
 
-##### Langfristige Folgen eines Kaloriendefizit
+##### Langfristige Folgen eines Kaloriendefizits
 Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
 
 - Wachstum und Körpergröße
@@ -297,26 +297,26 @@ Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre)
 - Pubertät und Hormonsystem
   Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
 - Immunsystem und Wundheilung
-  Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Energie und Mikronährstoffe fehlen.
+  Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Protein, Energie und Mikronährstoffe fehlen.
 - Gehirn und kognitive Entwicklung
-  Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Folgen, die sich bis ins Erwachsenenalter ziehen können.
+  Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Diese Folgen können sich bis ins Erwachsenenalter ziehen.
 - Risiko für Essstörungen
-  Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich, insbesondere wenn das Defizit bewusst herbeigeführt wird.
+  Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich.
 
 Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können.
 
 # Weitere Kriterien zur Planung
-In Kapitel 4.1 des DGE Qualitätsstandards werden außerdem weitere Kriterien an die Speiseplanung gestellt. Di ese werde ich in diesem Kapitel bewerten.
+In Kapitel 4.1 des DGE-Qualitätsstandards werden außerdem weitere Kriterien an die Speiseplanung gestellt. Diese werde ich in diesem Kapitel bewerten.
 
 ## Ovo-lacto-vegetarisches Angebot
 Dieses Kriterium fordert, dass ein ovo-lacto-vegetarisches Gericht an jedem Verpflegungstag angeboten wird.
-- **Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine „Veg-fit“ heißt, die immer vegetarisch ist, und die andere „Klima-fit“ ist, welche auch tierische Produkte beinhaltet. Hierbei liegt das Problem bei den Namen: aus „Veg-fit“ lässt sich nicht erschließen, ob es sich um eine vegetarische oder vegane Menülinie handelt. Der Name „Klimafit“ lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird.
+- **Durchführung:** Nach Überprüfung der Speisepläne konnte ich dies bestätigen. Im Speiseplan gibt es immer zwei Menülinien, von denen eine „Veg-fit“ heißt, die immer vegetarisch ist, und die andere „Klima-fit“ ist, welche auch tierische Produkte beinhaltet. Hierbei liegt das Problem bei den Namen: Aus „Veg-fit“ lässt sich nicht erschließen, ob es sich um eine vegetarische oder vegane Menülinie handelt. Der Name „Klimafit“ lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden, und die Mischkost Mischkost genannt wird.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
-- **Verbesserungsvorschlag:** Die Menülinien sollten Vegetarisch und Mischkost genannt werden, um für Klarheit zu sorgen.
+- **Weiterführende Überlegungen:** Das eigentliche Problem liegt hier bei den Namen: Aus „Veg-fit“ lässt sich nicht erschließen, ob es sich um eine vegetarische oder vegane Menülinie handelt. Der Name „Klima-fit“ lässt auch nicht erkennen, dass es sich um Mischkost handelt. Die klare Empfehlung ist, dass die ovo-lacto-vegetarischen Gerichte oder Menülinien auch so benannt werden und die Mischkost "Mischkost" genannt wird.
 
-## Abwechslungsreiches Angebot von Getreide, Getreideprodukte und Kartoffeln
+## Abwechslungsreiches Angebot von Getreide, Getreideprodukten und Kartoffeln
 Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechslungsreich angeboten werden und eine bunte Vielfalt von Getreidearten wie Weizen, Hafer, Roggen, Dinkel, Grünkern, Bulgur und Hirse verwendet wird.
-- **Durchführung:** In den 20 Verpflegungstagen wurden aus der Kategorie Getreide, Getreideprodukte und Kartoffeln an 19 Verpflegungstagen angeboten. Das unterteilte sich in
+- **Durchführung:** An den 20 Verpflegungstagen wurde an 19 Verpflegungstagen Getreide, Getreideprodukte oder Kartoffeln serviert. Das unterteilte sich in
     - 7 × Kartoffeln
     - 5 × Reis
     - 5 × Nudelteigprodukte, davon wahrscheinlich 4 × Weizen, 1 × Dinkel
@@ -324,7 +324,7 @@ Das Kriterium fordert, dass Getreide, Getreideprodukte und Kartoffeln abwechslun
     - 1 × Dinkelknödel
   Die Verteilung hat durchaus Abwechslung, es ist jedoch noch Luft nach oben.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
-- **Verbesserungsvorschlag:** Es sollte angegeben sein, ob ein Getreideprodukt Vollkorn ist. Außerdem gibt es noch viele Getreidesorten, die noch nicht serviert wurden. Mais, Graupen, Hirse, Hafer, Roggen, Grünkern und Bulgur.
+- **Weiterführende Überlegungen:** Es sollte angegeben sein, ob ein Getreideprodukt Vollkorn ist. Außerdem gibt es viele Getreidesorten, die noch nicht serviert wurden: Mais, Graupen, Hirse, Hafer, Roggen und Grünkern.
 
 ## Einsatz von frittierten oder panierten Lebensmitteln
 Das Kriterium fordert, dass frittierte und/oder panierte Produkte maximal 4× in 20 Verpflegungstagen eingesetzt werden sollen.
@@ -332,30 +332,29 @@ Das Kriterium fordert, dass frittierte und/oder panierte Produkte maximal 4× in
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 - **Verbesserungsvorschlag:** Es sollte im Speiseplan hinterlegt sein, ob Teile des Gerichts frittiert sind. Es wäre so einfacher, frittierte und panierte Gerichte zu meiden.
 
-## Das saisonale Gemüse- und Obst Angebot
-Dieses Kriterium fordert, dass das saisonale Gemüse- und Obst Angebot berücksichtigt ist.
+## Das saisonale Gemüse- und Obst-Angebot
+Dieses Kriterium fordert, dass das saisonale Gemüse- und Obst-Angebot berücksichtigt wird.
 - **Durchführung:** Zur Bewertung listete ich alle Obst- und Gemüsesorten, welche in den 20 Verpflegungstagen serviert wurden, auf und bewertete, ob diese zu der Saison Oktober bis Dezember passen:
     - Paprika: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober.
     -  Zucchini: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshausanbau nicht üblich in Baden-Württemberg.
-    -  Blumenkohl: Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region.
+    -  Blumenkohl: Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region, jedoch Tiefgekühlt möglich.
     -  Eingelegte Kirschen: Nicht saisonal. Frische Kirschen: Saison endet Juli. Eingelegte Produkte sind nicht an Saison gebunden.
-    -  Bohnen: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich.
+    -  Bohnen: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich, Tiefgekühlt möglich.
     -  Gurken: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshaussaison (Salatgurken) endet typischerweise Oktober, vereinzelt bis November.
     -  Kürbis: Saisonal Oktober-November. Freilandsaison August bis November. Gewächshausanbau nicht üblich. Lagerware bis Dezember verfügbar.
     -  Karotten: Saisonal. Freilandsaison ganzjährig durch Lagerware. Gewächshausanbau ganzjährig für Frischware.
-    -  Erbsen: Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich.
+    -  Erbsen: Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich, jedoch Tiefgekühlt erhältlich.
     -  Aubergine: Nicht saisonal Oktober-Dezember. Freilandsaison August bis September. Gewächshausanbau endet September bis Oktober.
-Nur 3 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst und Gemüsesorten gab, die nicht saisonal waren, können diese auch nicht regional sein. Sie wurden wahrscheinlich aus anderen Regionen importiert, in denen sie zu der Jahreszeit noch wachsen können.
-- **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt.
-- **Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage fälschlicherweise damit, dass ihre Gerichte saisonal sind.
+- **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. Nur 6 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst- und Gemüsesorten gab, die nicht saisonal waren, können diese auch nicht regional sein. Sie wurden wahrscheinlich aus anderen Regionen importiert, in denen sie zu der Jahreszeit noch wachsen können.
+- **Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE-Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage fälschlicherweise damit, dass ihre Gerichte saisonal sind.
 
 ## Einheimische Lebensmittel
 Dieses Kriterium fordert, dass einheimische Lebensmittel im Speiseplan bevorzugt werden.
 - **Durchführung:** Ich habe dieses Kriterium nicht bewertet, da ich nicht belegen kann, ob die Zutaten der Gerichte aus der Region kommen. Es wurden jedoch häufig exotische Lebensmittel wie zum Beispiel Reis serviert.
-- **Verbesserungsvorschlag:** Die Herkunft der Lebensmittel sollte auf dem Speiseplan hinterlegt sein, so wie es bei dem Verkauf von Lebensmitteln üblich, zum Teil sogar verpflichtend ist. Das Kriterium bewertete ich nicht. Dennoch denke ich, dass das Obst und Gemüseangebot mit hoher Wahrscheinlichkeit nicht aus der Region kommen kann, da die gelieferten Obst und Gemüsesorten zu dieser Saison auch nicht in der Region angebaut werden können.
+- **Verbesserungsvorschlag:** Die Herkunft der Lebensmittel sollte auf dem Speiseplan hinterlegt sein, so wie es beim Verkauf von Lebensmitteln üblich, zum Teil sogar verpflichtend ist. Das Kriterium bewertete ich nicht. Dennoch denke ich, dass das Obst- und Gemüseangebot mit hoher Wahrscheinlichkeit nicht aus der Region kommen kann, da die gelieferten Obst- und Gemüsesorten zu dieser Saison auch nicht in der Region angebaut werden können.
 
 ## Industriell hergestellte Alternativen zu Fleisch und Fisch
-Dieses Kriterium fordert, dass in der Mittagsverpflegung hergestellte Alternativen zu Fleisch und Fisch maximal 4-mal in 20 Verpflegungstagen angeboten werden. Diese Alternativen können auf Basis von folgenden Lebensmitteln hergestellt werden: Soja, Tofu, Lupinen, Pilz oder Milch.
+Dieses Kriterium fordert, dass in der Mittagsverpflegung hergestellte Alternativen zu Fleisch und Fisch maximal 4-mal in 20 Verpflegungstagen angeboten werden. Diese Alternativen können auf Basis von folgenden Lebensmitteln hergestellt werden: Soja, Lupinen, Pilz, Erbsen, Kichererbsen oder Milch.
 - **Durchführung:** Hier erstellte ich eine Liste von allen Gerichten mit industriell hergestellten Alternativen zu Fleisch und Fisch in den 20 Verpflegungstagen:
 Linsenbratlinge (Linsen)
 Es wurden insgesamt 1-mal industrielle Alternativen zu Fleisch und Fisch innerhalb von 20 Verpflegungstagen angeboten.
@@ -369,11 +368,11 @@ Deses Kriterium fordert, dass den Schülern in der Mittagsverpflegung mindestens
 
 ## Der Menüzyklus
 Dieses Kriterium fordert, dass der Menüzyklus sich frühestens nach 4 Wochen wiederholt.
-- **Durchführung:** Während der Feldstudie, welche am 6. Oktober begann und am 25. November endete, und somit 7 Wochen und einen Tag dauerte, konnte ich keine Wiederholungen des Menüzyklus feststellen.
+- **Durchführung:** Während der Feldstudie, welche am 6. Oktober begann und am 25. November endete und somit 7 Wochen und einen Tag dauerte, konnte ich keine Wiederholungen des Menüzyklus feststellen.
 - **Ergebnis:** Dieses Kriterium bewerte ich als erfüllt.
 
 ## Zusammenstellung der Speisen
-Dieses Kriterium fordert, dass die Speisen bunt und abwechslungsreich gestaltet sind. Hier wird vorallem eine Farbliche Zusammenstellung der Bestandteile betont.
+Dieses Kriterium fordert, dass die Speisen bunt und abwechslungsreich gestaltet sind. Hier wird vor allem eine farbliche Zusammenstellung der Bestandteile betont.
 
 - **Durchführung:** Zur Bewertung notierte ich, in wie vielen von 20 Gerichten folgende Farben vorkommen:
     - Grün: 1 (in Form von wenigen Erbsen)
@@ -381,20 +380,19 @@ Dieses Kriterium fordert, dass die Speisen bunt und abwechslungsreich gestaltet 
     - Blau: 0
     - Orange: 4
     - Lila: 1
-    - Gelb-Braun Töne: 15
+    - Gelb-Braun-Töne: 15
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt, da die Farben Grün und Orange nur sehr selten vorkamen, jedoch die weniger ansprechenden Töne wie Gelb und Braun häufig vorkamen.
 - **Verbesserungsvorschlag:** Um das Kriterium eindeutig bewerten zu können, müsste die DGE es exakter formulieren, was ihr hier nicht gelungen ist.
 
-## Teilnahme an Mahlzeiten mit Lebensmittelunverträglichkeiten
+## Teilnahme von Schülern mit Lebensmittelunverträglichkeiten am Schulessen
 Dieses Kriterium fordert, dass die Teilnahme an Mahlzeiten mit Lebensmittelunverträglichkeiten oder Allergien möglich ist. Dies kann durch ein spezielles Essensangebot, das Abwählen bestimmter Komponenten des Gerichts oder durch den Verzehr eines von Zuhause mitgebrachten Essens ermöglicht werden.
 - **Durchführung:** Der Hinweis zu allen möglichen Allergenen findet sich bei jeder einzelnen Komponente eines jeden Mittagsgerichtes. Somit ist es für einen Allergiker nicht möglich, allergenbelastete Komponenten abzuwählen. Die Ergänzung zum Speiseplan mit den ausgewiesenen Allergenen findet sich ausschließlich im Internet, nicht aber am Speiseplan vor Ort. Auch die Teilnahme am Mittagessen der Mensa mit einem mitgebrachten Gericht ist den Schülern nicht erlaubt. Schüler, die ihr eigenes Mittagessen in die Mensa mitbringen, werden der Mensa verwiesen, wie ich es selbst schon miterlebt habe.
-- **Ergebnis:** Den Allergikern wurde es nicht ermöglicht, am Mittagessen Teilzunehmen, weshalb ich dieses Kriterium als nicht erfüllt bewerte.
+- **Ergebnis:** Den Allergikern wurde es nicht ermöglicht, am Mittagessen teilzunehmen, weshalb ich dieses Kriterium als nicht erfüllt bewerte.
 
 ## Wünsche und Anregungen der Schüler
-Dieses Kriterium fordert, dass die Wünsche und Anregungen der Schüler soweit wie möglich bei der Speiseplanung berücksichtigt sind. Dies kann durch persöhnliche Gespräche, Fragebögen oder den Verpflegungsausschuss erfolgen.
+Dieses Kriterium fordert, dass die Wünsche und Anregungen der Schüler so weit wie möglich bei der Speiseplanung berücksichtigt sind. Dies kann durch persönliche Gespräche, Fragebögen oder den Verpflegungsausschuss erfolgen.
 
-- **Beispiel:** Füge Foto von Fragebogen ein.
-- **Durchführung:** In dem Zeitraum der Feldstudie fanden keine Umfragen statt. Jedoch wurden ab dem 15. Dezember ein Block mit Fragebögen, und eine Wahlurne aufgestellt. Hier können die Schüler ihre Wünsche äußern, sowie das bisherige Essen nach den Kriterien Auswahl, Geschmack, Aussehen und Menge bewerten.
+- **Durchführung:** In dem Zeitraum der Feldstudie fanden keine Umfragen statt. Jedoch wurden ab dem 15. Dezember ein Block mit Fragebögen und eine Wahlurne aufgestellt. Hier können die Schüler ihre Wünsche äußern sowie das bisherige Essen nach den Kriterien Auswahl, Geschmack, Aussehen und Menge bewerten.
 - **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt. Trotzdem hatte ich nicht das Gefühl, dass sich seitdem die Qualität nach den Wünschen und Bewertungen der Schüler verändert hat.
 
 ## Kulturspezifische, regionale und religiöse Essgewohnheiten
@@ -402,33 +400,30 @@ Dieses Kriterium fordert, dass kulturspezifische, regionale und religiöse Essge
 
 - **Durchführung:** In der gesamten Zeit gab es nur einmal solch eine Aktion. Jedoch wurden auch Gerichte serviert, die nicht traditionell aus Italien kommen, wie zum Beispiel Pizzasuppe, welche kein traditionelles italienisches Gericht ist. Auch gibt es an unserer Schule fast keine italienischen Schüler, dafür aber sehr viele muslimische Schüler, deren Essgewohnheiten in der Speiseplanung nicht berücksichtigt wurden.
 
-- **Ergebnis:** Da die religiösen Essgewohnheiten des Islams nicht beachtet werden, und ein Großteil der Schüler unserer Schule dem Islam angehört, bewerte ich dieses Kriterium als nicht erfüllt.
+- **Ergebnis:** Da die religiösen Essgewohnheiten des Islams nicht beachtet werden und ein nicht unwesentlicher Teil der Schüler unserer Schule dem Islam angehört, bewerte ich dieses Kriterium als nicht erfüllt.
 
 ## Der Einsatz von verarbeiteten Lebensmitteln (Convenience-Produkten) in der Gemeinschaftsverpflegung
 
-In diesem Kapitel(4.1.2) werden alle Kriterien zu Convenience-Produkten beschrieben. Das Kapitel teilt Lebensmittel in 2 Klassen der Verarbeitung ein, welche jedoch ungenau beschrieben sind. Es sind die Klassen hochverarbeitet und geringverarbeitet. Es fehlt eine exakte Definition zu Verarbeitet und Unverarbeitet, weshalb ich die Gerichte nicht in diese zwei Klassen einzuteilen. Da es jedoch einen Standard gibt, die NOVA-Gruppen, die sehr exakt Lebensmittel in 4 Gruppen des Verarbeitungsgrades einteilen, wollte ich diesen nutzen, und nicht die zwei Gruppen der DGE. Diese vier Gruppen sind von allen Bewertungsmöglichkeiten am weitesten verbreitet. Doch auch der weit verbreitete NOVA-Score, der die Lebensmittel nach ihrem Verarbeitungsgrad in 4 Gruppen unterteilt:
+In diesem Kapitel 4.1.2 des DGE-Qualitätsstandard werden alle Kriterien zu Convenience-Produkten beschrieben. Das Kapitel teilt Lebensmittel in zwei Klassen der Verarbeitung ein, welche jedoch ungenau beschrieben sind. Es sind die Klassen "hochverarbeitet" und "geringverarbeitet". Es fehlt eine exakte Definition der zwei Klassen, weshalb ich die Gerichte nicht in diese zwei Klassen einzuteilen vermag. Da es jedoch einen Standard gibt, die NOVA-Gruppen, die sehr exakt Lebensmittel in 4 Gruppen des Verarbeitungsgrades einteilen, wollte ich diesen nutzen, und nicht die zwei Gruppen der DGE. Diese vier Gruppen sind von allen Bewertungsmöglichkeiten am weitesten verbreitet. Doch auch der weit verbreitete NOVA-Score, der die Lebensmittel nach ihrem Verarbeitungsgrad in 4 Gruppen unterteilt:
 
-### Nova Gruppe 1
-Lebensmittel sind unverarbeitete und minimalverarbeitete Lebensmittel. Es sind Lebensmittel, die so aus der Natur kommen, oder Lebensmittel, die durch Trocknen, Zerkleinern, Mahlen und andere Prozesse verarbeitet wurden, um das Lebensmittel lagerfähiger zu machen, zu konservieren oder Essbarer zu machen. Beispiele sind Pflanzenteile, Teile von Tieren und Wasser. Bei solchen Lebensmitteln bleiben die meisten Nährstoffe enthalten. Bei den folgenden Gruppen, auf welche mehr Verarbeitungsprozesse eingewirkt haben, wurden mehr und mehr Nährstoffe zerstört.
+- **Nova-Gruppe 1:**
+Lebensmittel diesr Gruppe sind unverarbeitet und minimalverarbeitet. Es sind Lebensmittel, die so aus der Natur kommen, oder Lebensmittel, die durch Trocknen, Zerkleinern, Mahlen und andere Prozesse verarbeitet wurden, um das Lebensmittel lagerfähiger zu machen, zu konservieren oder essbarer zu machen. Beispiele sind Pflanzenteile, Teile von Tieren und Wasser. Bei solchen Lebensmitteln bleiben die meisten Nährstoffe enthalten. Bei den folgenden Gruppen, auf welche mehr Verarbeitungsprozesse eingewirkt haben, wurden mehr und mehr Nährstoffe zerstört.
+- **Nova-Gruppe 2:**
+Diese Lebensmittel bezeichnet man als verarbeitete kulinarische Zutaten (engl. *processed culinary ingredients*). Beispiele sind Öle, Butter, Zucker und Salz. Sie werden zur Zubereitung von Gruppe 1-Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe-1 Lebensmitteln (oder durch Extraktion aus der Natur, etwa Salz aus Meerwasser) gewonnen.
+- **Nova-Gruppe 3:**
+Diese Lebensmittel werden aus Lebensmitteln der Gruppe-1 mit Hilfe der Gruppe-2 Lebensmittel hergestellt. Beispiele sind Brot, Käse sowie eingelegte Gruppe-1 Lebensmittel. Die Verarbeitungsverfahren sind alkoholfreies Gären sowie Konservierungs- und Kochmethoden. Der Zweck für diese Verarbeitung ist die Verbesserung des Geschmacks, der Konsistenz sowie die Verlängerung der Haltbarkeit.
+- **Nova-Gruppe 4:**
+Ultrahochverarbeitete Lebensmittel sind Industrieformulierungen aus mehreren Zutaten, in denen typischerweise Substanzen verwendet werden, die in haushaltsüblicher Küche nicht vorkommen (etwa hydrierte Öle, Maltodextrin, Proteinisolate, Geschmacksverstärker und Emulgatoren). Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Durch die vielen Verarbeitungsschritte werden viele Nährstoffe der Ausgangslebensmittel reduziert. Häufig, aber nicht zwingend, enthalten solche Produkte zusätzlich Transfette und hohe Anteile an Einfachzuckern.
 
-### Nova Gruppe 2
-Lebensmittel bezeichnet man als verarbeitete kulinarische Zutaten (engl. *processed culinary ingredients*). Beispiele sind Öle, Butter, Zucker und Salz. Sie werden zur Zubereitung von Gruppe 1 Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe 1 Lebensmitteln (oder durch Extraktion aus der Natur, etwa Salz aus Meerwasser) gewonnen.
+bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen Schritte beschreibt, die ein Lebensmittel durchläuft, jedoch nichts über die chemische Zusammensetzung des Endprodukts aussagt, die letztlich die physiologische Wirkung bestimmt. Ein Prozess kann Nährstoffe zerstören, erhalten oder sogar erst verfügbarer machen. Die Richtung des Effekts ist nicht im Grad der Verarbeitung bestimmt, sondern hängt vom konkreten Verfahren und Ausgangsstoff ab. Darum erstellte ich ein eigenes System, welches genau diesen kritisierten Aspekt berücksichtigt:
 
-### Nova Gruppe 3
-Lebensmittel werden aus Lebensmitteln der Gruppe 1 mit Hilfe der Gruppe 2 Lebensmittel hergestellt. Beispiele sind Brot, Käse sowie eingelegte Gruppe 1 Lebensmittel. Die Verarbeitungsverfahren sind alkoholfreies Gären sowie Konservierungs- und Kochmethoden. Der Zweck für diese Verarbeitung ist die Verbesserung des Geschmackes, der Konsistenz sowie die Haltbarkeit zu verlängern.
+- **Klasse 1, Zerteilt, nicht verändert:** Die molekulare Struktur des Lebensmittels bleibt intakt, es wird lediglich in kleinere Einheiten getrennt. Der Körper erhält exakt das, was die Natur produziert hat. Beispiele: geschnittener Apfel, gehackte Nüsse, pürierte Banane.
 
-### Nova Gruppe 4
-Ultrahochverarbeitete Lebensmittel sind Industrieformulierungen aus mehreren Zutaten, in denen typischerweise Substanzen verwendet werden, die in haushaltsüblicher Küche nicht vorkommen (etwa hydrierte Öle, Maltodextrin, Proteinisolate, Geschmacksverstärker und Emulgatoren). Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Durch die vielen Verarbeitungsschritte werden viele Nährstoffe der Ausgangslebensmittel reduziert. Häufig — aber nicht zwingend — enthalten solche Produkte zusätzlich Transfette und hohe Anteile an Einfachzuckern.
+- **Klasse 2, Verändert, aber durch naturanaloge Prozesse:** Biologische oder physikalische Methoden verändern die Molekülstruktur auf Wegen, die auch in der Natur vorkommen (Mikroben, Hitze, Kälte). Diese Prozesse können Nährstoffe verfügbarer machen oder schädliche Stoffe neutralisieren. Beispiele: Sauerkraut, Joghurt, gekochte Kartoffeln, Tiefkühlerbsen.
 
-bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen Schritte beschreibt, die ein Lebensmittel durchläuft, jedoch nichts über die chemische Zusammensetzung des Endprodukts aussagt, die letztlich die physiologische Wirkung bestimmt. Ein Prozess kann Nährstoffe zerstören, erhalten oder sogar erst verfügbarer machen, die Richtung des Effekts ist nicht im Grad der Verarbeitung bestimmt, sondern hängt vom konkreten Verfahren und Ausgangsstoff ab. Darum erstellte ich ein eigenes System, welches genau diesen kritisierten Aspekt berücksichtigt:
+- **Klasse 3, Verändert mit Substanzverlust:** Durch Raffination werden gezielt Bestandteile entfernt, Ballaststoffe, Vitamine, Mineralstoffe. Das Lebensmittel wird ärmer als sein Ausgangsstoff, die Nährstoffdichte sinkt. Beispiele: Weißmehl (Schale und Keimling entfernt), raffiniertes Sonnenblumenöl, weißer Reis.
 
-- **Klasse 1 Zerteilt, nicht verändert.** Die molekulare Struktur des Lebensmittels bleibt intakt, es wird lediglich in kleinere Einheiten getrennt. Der Körper erhält exakt das, was die Natur produziert hat. Beispiele: geschnittener Apfel, gehackte Nüsse, pürierte Banane.
-
-- **Klasse 2 Verändert, aber durch naturanaloge Prozesse.** Biologische oder physikalische Methoden verändern die Molekülstruktur auf Wegen, die auch in der Natur vorkommen (Mikroben, Hitze, Kälte). Diese Prozesse können Nährstoffe verfügbarer machen oder schädliche Stoffe neutralisieren. Beispiele: Sauerkraut, Joghurt, gekochte Kartoffeln, Tiefkühlerbsen.
-
-- **Klasse 3 – Verändert mit Substanzverlust.** Durch Raffination werden gezielt Bestandteile entfernt, Ballaststoffe, Vitamine, Mineralstoffe. Das Lebensmittel wird ärmer als sein Ausgangsstoff, die Nährstoffdichte sinkt. Beispiele: Weißmehl (Schale und Keimling entfernt), raffiniertes Sonnenblumenöl, weißer Reis.
-
-- **Klasse 4 – Verändert mit Fremdstoffzufuhr.** Dem Lebensmittel werden Substanzen hinzugefügt, die darin natürlicherweise nicht vorkommen – entweder durch chemische Reaktionen (Maillard bei >100°C, Pökeln, Räuchern) oder durch industrielle Zusatzstoffe. Der Körper wird mit Molekülen konfrontiert, auf die er evolutionär nicht eingestellt ist. Beispiele: Softdrinks mit Farbstoffen, Fertiggerichte mit Emulgatoren und Geschmacksverstärkern.
+- **Klasse 4, Verändert mit Fremdstoffzufuhr:** Dem Lebensmittel werden Substanzen hinzugefügt, die darin natürlicherweise nicht vorkommen – entweder durch chemische Reaktionen (Maillard bei >100°C, Pökeln, Räuchern) oder durch industrielle Zusatzstoffe. Der Körper wird mit Molekülen konfrontiert, auf die er evolutionär nicht eingestellt ist. Beispiele: Softdrinks mit Farbstoffen, Fertiggerichte mit Emulgatoren und Geschmacksverstärkern.
 
 Das Prinzip dahinter ist ein Gradient der Entfremdung: Je weiter sich ein Lebensmittel von seinem natürlichen Molekülprofil entfernt – ob durch Wegnahme oder Hinzufügung – desto höher die Klasse.
 
@@ -454,41 +449,41 @@ Dieses Kriterium fordert, dass Produkte ohne Palmkernöl, Palmkernfett und Kokos
 ### Verwendung von Lebensmittel mit geringem Anteil an Zucker, Salz und Fett
 Dieses Kriterium fordert, dass Lebensmittel mit einem geringen Anteil an Zucker, Salz, Fett, gesättigten Fettsäuren und einer geringen Energiedichte ausgewählt werden.
 
-- **Durchführung:** Da ich keinen Zugriff auf den Zucker, Fett und Salz habe, kann ich dieses Kriterium nicht bewerten. Allerdings hatte ich häufig den Eindruck, dass das Essen sehr stark gewürzt war, was jedoch nur meine subjektive Meinung ist und nicht in die Bewertung mit einfließt.
+- **Durchführung:** Da ich keinen Zugriff auf den Zucker- , Fett-  und Salzgehalt habe, kann ich dieses Kriterium nicht bewerten. Allerdings hatte ich häufig den Eindruck, dass das Essen sehr stark gewürzt war, was jedoch nur meine subjektive Meinung ist und nicht in die Bewertung mit einfließt.
 
 ## Der Speiseplan
 
-Dieses Kapitel(4.1.3) beschreibt alle Kriterien zur Gestaltung und Bereitstellung des Speiseplans der Mittagsverpflegung.
+Das Kapitel 4.1.3 des DGE-Qualitätsstandard beschreibt alle Kriterien zur Gestaltung und Bereitstellung des Speiseplans der Mittagsverpflegung.
 
 ### Barrierefreie Zugänglichkeit des Speiseplans
-Dieses Kriterium fordert, dass der aktuelle Speiseplan vorab regelmäßig für Schüler und Eltern barrierefrei zugänglich ist. Dafür muss der Speiseplan online und vorort ausgehängt sein.
+Dieses Kriterium fordert, dass der aktuelle Speiseplan vorab regelmäßig für Schüler und Eltern barrierefrei zugänglich ist. Dafür muss der Speiseplan online und vor Ort ausgehängt sein.
 
-- **Durchführung:** Zur Bewertung zählte ich die Tage, an denen der aktuelle Speiseplan online zur Verfügung stand, und die Tage, an denen er vor Ort ausgehängt war. An 13 von 20 Verpflegungstagen stand der aktuelle Speiseplan online zur Verfügung. An den anderen 7 Verpflegungstagen war er online nicht aktuell. An 13 von 20 Verpflegungstagen wurde der aktuelle Speiseplan vor Ort ausgehängt. Grundsätzlich hing der Speiseplan auch immer auf der Höhe eines Erwachsenen, wodurch er für die sehr kleinen Schüler nicht einsehbar ist.
+- **Durchführung:** Zur Bewertung zählte ich die Tage, an denen der aktuelle Speiseplan online zur Verfügung stand, und die Tage, an denen er vor Ort ausgehängt war. An 13 von 20 Verpflegungstagen stand der aktuelle Speiseplan online zur Verfügung. An den anderen 7 Verpflegungstagen war er online nicht aktuell. An 13 von 20 Verpflegungstagen wurde der aktuelle Speiseplan vor Ort ausgehängt. Grundsätzlich hing der Speiseplan auch immer auf der Höhe eines Erwachsenen, wodurch er für kleinere Schüler nicht einsehbar ist.
 - **Ergebnis:** Ich bewerte das Kriterium als nicht erfüllt.
 
 ### Eindeutige Bezeichnung der Speisen im Speiseplan
-Dieses Kriterium fordert, dass alle Speisen im Speiseplan eindeutig bezeichnet sind. Fantasienamen wie „Wikingerpfanne“, nicht deutschsprachige Begriffe wie „Ratatouille“ und allgemeine Bezeichnungen wie Gemüseeintopf lassen nicht auf die Zutaten um Komponenten des Gerichtes schließen und werden daher nicht verwendet.
+Dieses Kriterium fordert, dass alle Speisen im Speiseplan eindeutig bezeichnet sind. Fantasienamen wie „Wikingerpfanne“, nicht deutschsprachige Begriffe wie „Ratatouille“ und allgemeine Bezeichnungen wie Gemüseeintopf lassen nicht auf die Zutaten und Komponenten des Gerichtes schließen und sollen daher nicht verwendet werden.
 
-- **Durchführung:** Zur Bewertung notierte ich zu jedem der 20 Gerichte, ob die Namensgebung der DGE Kriterien erfüllt. Bei 10 der 20 Gerichte war die Bezeichnung eindeutig, bei den restlichen 10 nicht. Negativbeispiele:
-    - Chilli con Carne
+- **Durchführung:** Zur Bewertung notierte ich zu jedem der 20 Gerichte, ob die Namensgebung die DGE-Kriterien erfüllt. Bei 10 der 20 Gerichte war die Bezeichnung eindeutig, bei den restlichen 10 nicht. Negativbeispiele:
+    - Chili con Carne
     - Bauerneintopf
     - Vegetarisches Pilz-Ragout
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
 ### Informationen über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe
-Dieses Kriterium fordert, dass auf dem Speiseplan über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe Informiert wird.
+Dieses Kriterium fordert, dass auf dem Speiseplan über Allergene und kennzeichnungspflichtige Lebensmittelzusatzstoffe informiert wird.
 
-- **Durchführung:** Der Speiseplan informiert auf der zweiten Seite über alle Allergene. Jedoch wurde bis auf 2 Verpflegungstage immer nur die erste Seite des Speiseplans ausgehängt, jedoch nicht die Seite mit den Allergenen. Online hingegen waren die Allergene bei jeden Speiseplan einsehbar.
+- **Durchführung:** Der Speiseplan informiert auf der zweiten Seite über alle Allergene. Jedoch wurde bis auf 2 Verpflegungstage immer nur die erste Seite des Speiseplans ausgehängt, jedoch nicht die Seite mit den Allergenen. Online hingegen waren die Allergene bei jedem Speiseplan einsehbar.
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
 ### Eindeutige Tierart bei Fleisch und Fisch
 Dieses Kriterium fordert, dass die Tierart bei Fleisch, Wurstwaren und Fisch eindeutig benannt ist. Dies ist aus kulturellen und religiösen Gründen sehr wichtig.
 
-- **Durchführung:** Um dieses Kriterium zu bewerten, dokumentierte ich zu jedem Gericht, ob die Tierart eindeutig benannt ist. Bei 3 Gerichten war die Tierart unbenannt: Fleischküchle, Chilli con Carne und Fischstäbchen tragen nicht die Tierart im Namen. Bei Fleischküchle und Chilli con Carne wurde die Tierart in Form eines Tierkopfes auf dem Speiseplan dargestellt. Jedoch wurde bei den Fischstäbchen nur ein Fisch abgebildet, welcher nicht auf die Art des Fisches schließen lässt.
+- **Durchführung:** Um dieses Kriterium zu bewerten, dokumentierte ich zu jedem Gericht, ob die Tierart eindeutig benannt ist. Bei 3 Gerichten war die Tierart unbenannt: Fleischküchle, Chili con Carne und Fischstäbchen tragen nicht die Tierart im Namen. Bei Fleischküchle und Chili con Carne wurde die Tierart in Form eines Tierkopfes auf dem Speiseplan dargestellt. Jedoch wurde bei den Fischstäbchen nur ein Fisch abgebildet, welcher nicht auf die Art des Fisches schließen lässt.
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
 ### Eindeutige Benennung der Alternativen von Fleisch und Fisch
-Dieses Kriterium fordert, dass die Basis von Alternativen von Fleisch, Fisch, Ei, Milch und Milchprodukten im Speiseplan eindeutig benannt sind.
+Dieses Kriterium fordert, dass die Basis von Alternativen von Fleisch, Fisch, Ei, Milch und Milchprodukten im Speiseplan eindeutig benannt ist.
 
 - **Durchführung:** In dem Zeitfenster der Feldstudie wurde kein Fleischersatzprodukt serviert.
 - **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
@@ -498,37 +493,38 @@ Dieses Kriterium fordert, dass die rechtlichen Vorgaben beachtet werden, wenn N�
 
 - **Durchführung:** Im Speiseplan der Mittagsverpflegung wurden keine Nährwerte ausgewiesen, weshalb dieses Kriterium nicht anwendbar ist.
 - **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
-- **Weiterführende Überlegungen:** Wie dem Kapitel Kalorienbedarf zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen, und Schüler und Eltern auf den Mangel aufmerksam zu machen.
+- **Weiterführende Überlegungen:** Wie dem Kapitel Kalorienbedarf zu entnehmen ist, unterschreiten die servierten Nährwerte deutlich den Bedarf der Schüler. Vor diesem Hintergrund wäre es dringend zu empfehlen, die Nährwerte auszuweisen, um den Caterer in die Verantwortung zu nehmen, Transparenz walten zu lassen und Schüler und Eltern auf den Mangel aufmerksam zu machen.
 
 ### Eindeutige und übersichtliche Darstellung der Preise
-Dieses Kriterium fordert, dass die Preise eindeutig und übersichtlich dargestellt werden, wenn sie ausgewiesen werden.
+Dieses Kriterium fordert, dass ausgewiesene Preise eindeutig und übersichtlich dargestellt werden.
  
 - **Durchführung:** Der Speiseplan der Tressbrüder weist keine Preise aus.
 - **Ergebnis:** Dieses Kriterium wurde nicht bewertet.
-- **Weiterführende Überlegungen:** Es ist empfehlenswert, die Preise auf dem Speiseplan auszuweisen, um den Eltern und Schülern gegenüber Transparenz zu schaffen, insbesondere auch die Subventionen der Stadt Tübingen, dem Landkreis Tübingen und dem Bund, da dies von den Steuergeldern gezahlt wird. Wenn die Preise nicht ausgewiesen sind, ist es allen Akteuren nicht möglich, selbstständig das Preis Leistungsverhältnis zu bewerten.
+- **Weiterführende Überlegungen:** Es ist empfehlenswert, die Preise auf dem Speiseplan auszuweisen, um den Eltern und Schülern gegenüber Transparenz zu schaffen, insbesondere auch die Subventionen der Stadt Tübingen, des Landkreises Tübingen und des Bundes, da dies von den Steuergeldern gezahlt wird. Wenn die Preise nicht ausgewiesen sind, ist es allen Akteuren nicht möglich, selbstständig das Preis-Leistungs-Verhältnis zu bewerten.
 
 ### Zielgruppengerechte Gestaltung des Speiseplans
-Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehört eine ausreichend große Schrift, sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler.
+Dieses Kriterium fordert, dass der Speiseplan zielgruppengerecht gestaltet ist. Dazu gehören eine ausreichend große Schrift sowie eine ergänzende Darstellung in Form eines Bildes für Grundschüler.
 
-- **Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer Druckschrift geschrieben, die ausreichend groß ist.
+- **Durchführung:** Der Speiseplan der Tressbrüder ist in lesbarer, ausreichend großer Druckschrift geschrieben.
 - **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
 
 ### Übersichtliche Gestaltung der Menülinien
-Dieses Kriterium fordert, dass das Angebot mehrer Menülinien übersichtlich dargestellt ist, und dass das gesundheitsfördernde und nachhaltige Speiseangebot hervorgehoben ist.
+Dieses Kriterium fordert, dass das Angebot mehrerer Menülinien übersichtlich dargestellt und dass das gesundheitsfördernde und nachhaltige Speiseangebot hervorgehoben ist.
 
-- **Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander aufgeführt. Allerdings wird das gesundheitsfördernde Speiseangebot nicht explizit hervorgehoben. Der Name „Veg-fit“ lässt nicht erkennen, ob das jeweilige Gericht vegetarisch oder vegan ist. Ebenso bleibt unklar, was „Klima-fit“ konkret bedeutet. Da beide Menünamen auf unterschiedlichen Dimensionen bewertet werden, die eine auf Ernährungsweise, die andere auf Umweltwirkung, fehlt ein gemeinsamer Vergleichsaspekt: Es ist nicht ersichtlich, ob die „Klima-fit“ Menülinie auch Mischkost enthält, und ob die „Veg-fit“ Menülinie umweltschädlich ist. Die Namen wirken daher eher wie Marketingbegriffe, die keine verlässliche Aussage über die tatsächlichen Eigenschaften der Menülinien treffen. Beide Menülinien sind irreführend benannt und erfüllen somit die Anforderung einer transparenten und informativen Kennzeichnung nicht.
+- **Durchführung:** Die zwei Menülinien des Speiseplans, Veg-fit und Klima-fit, sind übersichtlich untereinander aufgeführt. Allerdings wird das gesundheitsfördernde Speiseangebot nicht explizit hervorgehoben. Der Name „Veg-fit“ lässt nicht erkennen, ob das jeweilige Gericht vegetarisch oder vegan ist. Ebenso bleibt unklar, was „Klima-fit“ konkret bedeutet. Da beide Menünamen auf unterschiedlichen Dimensionen bewertet werden, die eine im Hinblick auf Ernährungsweise, die andere auf Umweltwirkung, fehlt ein gemeinsamer Vergleichsaspekt: Es ist nicht ersichtlich, ob die „Klima-fit“-Menülinie auch Mischkost enthält und ob die „Veg-fit“-Menülinie umweltschädlich ist. Die Namen wirken daher eher wie Marketingbegriffe, die keine verlässliche Aussage über die tatsächlichen Eigenschaften der Menülinien treffen. Beide Menülinien sind irreführend benannt und erfüllen somit die Anforderung einer transparenten und informativen Kennzeichnung nicht.
 - **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt.
 
 # Endfazit
-Mit der Feldstudie im Rahmen einer wissenschaftlichen Arbeit erzeugte ich eine faktenbasierte Diskussionsgrundlage, anhand derer die Qualität der Mittagsverpflegung objektiv bewertet werden kann. Hierbei kam ich zu folgendem Ergebnis:
+Mit der Feldstudie im Rahmen einer wissenschaftlichen Arbeit erzeugte ich eine faktenbasierte Diskussionsgrundlage, anhand derer die Qualität der Mittagsverpflegung objektiv bewertet werden kann. Hierbei kam ich zu folgenden Ergebnissen:
 
 ## Zentrale Ergebnisse
 Von 39 geprüften Kriterien aus dem Planungs-Kapitel des DGE-Qualitätsstandards konnten 10 mangels Informationszugang nicht bewertet werden. Von den verbleibenden Kriterien wurden 17 als nicht erfüllt und 12 als erfüllt eingestuft.
+
 Besonders deutlich unterschritten wurden die Anforderungen, die unmittelbar die ernährungsphysiologische Qualität der Mahlzeiten betreffen:
 - Häufigkeitsvorgaben: Bei Gemüse, Obst, Milchprodukten und Fisch lag das tatsächliche Angebot um den Faktor 2 bis 4 unter den DGE-Mindestwerten.
 - Energiezufuhr: Das mittlere Kalorienangebot der Mittagsmahlzeit unterschritt den DGE-Richtwert je nach Altersgruppe und Geschlecht zwischen 15 % (Mädchen 10–13 Jahre) und 43 % (Jungen 15–19 Jahre).
 - Speiseplangestaltung: Die Saisonalität wurde nur bei 3 von 10 Obst- und Gemüsesorten beachtet, die religiösen und kulturellen Essgewohnheiten wurden nicht berücksichtigt und die Menülinien wurden irreführend benannt (Veg-fit / Klima-fit).
-- Akteurszusammenarbeit: Eine koordinierte Beteiligung aller Verantwortlichen: Schulträger, Caterer, Eltern, Schüler, Lehrer, findet nicht statt.
+- Akteurszusammenarbeit: Eine koordinierte Beteiligung aller Verantwortlichen – Schulträger, Caterer, Eltern, Schüler, Lehrer, findet nicht statt.
 
 Methodisch ist hierbei anzumerken, dass an jedem Tag das nach DGE-Kriterien günstigere Gericht für die Feldstudie ausgewählt wurde, es handelt sich also um eine Best-Case Schätzung. Das tatsächiche Durschnittsangebot der Mensa dürfte also die DGE Vorschriften noch deutlicher verfehlen als hier Dokumentiert.
 
