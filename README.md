@@ -2,7 +2,7 @@
 
 Johann Sofke · Carlo-Schmid-Gymnasium, Tübingen · 4. Mai 2026 
 
-> Zu Beginn des Schuljahres 2025/2026 wurde der Caterer vieler Tübinger Schulmensen gewechselt. Seitdem werden Geschmack und Kindgerechtheit der Mittagsverpflegung am Carlo-Schmid-Gymnasium öffentlich diskutiert. Die ernährungsphysiologische Qualität  hingegen blieb in dieser Diskussion bislang weitgehend unbeachtet. Die vorliegende Arbeit untersucht, ob die Mittagsverpflegung den Anforderungen des DGE-Qualitätsstandards für die Verpflegung in Schulen genügt. An 20 Schultagen zwischen Oktober und November 2025 wurde jeweils das von mir konsumierte Gericht fotografiert, gewogen und gegen 39 Kriterien aus dem Planungs-Kapitel des DGE-Standards geprüft. Zusätzlich wurde der altersabhängige Kalorienbedarf nach DGE-Richtwerten von einer Ernährungsberaterin berechnet und mit dem tatsächlichen Kalorienangebot verglichen. Methodisch handelt es sich um eine Best-Case-Schätzung: An jedem Verpflegungstag wurde von zwei verfügbaren Gerichten dasjenige bewertet, das die herangezogenen Kriterien am nächsten erfüllte.
+> Zu Beginn des Schuljahres 2025/2026 wurde der Caterer vieler Tübinger Schulmensen gewechselt. Seitdem werden Geschmack und Kindgerechtheit der Mittagsverpflegung am Carlo-Schmid-Gymnasium öffentlich diskutiert. Die ernährungsphysiologische Qualität  hingegen blieb in dieser Diskussion bislang weitgehend unbeachtet. Die vorliegende Arbeit untersucht, ob die Mittagsverpflegung den Anforderungen des DGE-Qualitätsstandards für die Verpflegung in Schulen genügt. 
 Von den 39 Kriterien konnten 10 mangels Informationszugang nicht bewertet werden. Von den verbleibenden Kriterien wurden 17 als nicht erfüllt und 12 als erfüllt eingestuft. Besonders deutlich verfehlt wurden die Häufigkeitsvorgaben für Gemüse, Obst, Milchprodukte, Vollkornprodukte und Fisch, die  mindestens um den Faktor 2 unter den DGE-Mindestwerten lagen. Das mittlere Kalorienangebot deckte den DGE-Richtwert eines durchschnittlichen 14-jährigen Schülers nur zu etwa 65 %.
 Der zentrale Mangel der Mittagsverpflegung liegt demnach nicht im Geschmack oder in der „Kindgerechtheit" der Speisen, sondern in der ernährungsphysiologisch unausgewogenen und kalorisch unzureichenden Zusammensetzung der Menüs. Eine wirksame Verbesserung setzt eine sachlich fundierte Problemdefinition unter koordinierter Beteiligung aller Akteure voraus.
 
@@ -16,7 +16,7 @@ Der Titel der Arbeit greift das Anna-Karenina-Prinzip auf, das auf den Eingangss
 
 Die Bewertung erfolgt aus der Perspektive der Deutschen Gesellschaft für Ernährung (DGE), nach eigenen Angaben die wissenschaftliche Fachgesellschaft für Ernährung in Deutschland [^DGE]. Zur Bewertung der Mittagsverpflegung nutze ich die Checkliste aus dem „DGE-Qualitätsstandard für die Verpflegung in Schulen“ [QDGE]. Dabei werden verschiedene Phasen der Prozesskette der Mittagsverpflegung vorgestellt: Planung, Einkauf, Zubereitung, Ausgabe, Entsorgung und Reinigung. Ich werde mich bei der Bewertung auf das Kapitel Planung beschränken. Der Planung kommt eine besondere Rolle zu, denn sie stellt die Grundlage für das gesamte Verpflegungskonzept dar. Dabei ist das Kapitel Planung deutlich weitreichender, als der Name vermuten lässt, wie im Laufe dieser Arbeit noch deutlich werden wird. Ich werde alle Kriterien aus dem Kapitel Planung bewerten, zu denen ich Einblick habe. Ziel der Analyse ist es, eine Faktenbasis für eine objektive Diskussion zur Verfügung zu stellen.
 
-Eine ausreichende und ausgewogene Mittagsverpflegung ist mir nicht nur als Schüler, sondern auch fachlich wichtig, da ich mich für die Fachbereiche Biologie und Chemie interessiere. In der siebten und achten Klasse haben wir im Biologieunterricht das Thema Ernährung behandelt. Den Anstoß zu dieser wissenschaftlichen Arbeit gab ein Informationsabend über „Jugend forscht“ an unserer Schule. Mit der Arbeit möchte ich Aufmerksamkeit auf die entscheidenden Aspekte der Ernährung lenken, die deutlich jenseits des Geschmacks liegen, mit dem Ziel, dass die Mittagsverpflegung wieder ihre Hauptfunktion erfüllen kann: die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
+Eine ausreichende und ausgewogene Mittagsverpflegung ist mir nicht nur als Schüler, sondern auch fachlich wichtig, da ich mich für die Fachbereiche Biologie und Chemie interessiere. In der siebten und achten Klasse haben wir im Biologieunterricht das Thema Ernährung behandelt. Den Anstoß zu dieser wissenschaftlichen Arbeit gab ein Informationsabend über „Jugend forscht“ an unserer Schule, wobei meine Arbeit aufgrund von anderen Terminen doch nicht bei „Jugend forscht“ eingereicht wurde. Mit der Arbeit möchte ich Aufmerksamkeit auf die entscheidenden Aspekte der Ernährung lenken, die deutlich jenseits des Geschmacks liegen, mit dem Ziel, dass die Mittagsverpflegung wieder ihre Hauptfunktion erfüllen kann: die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
 
 # Vorbereitung
 
@@ -25,14 +25,16 @@ Der QDGE gilt als Goldstandard und behandelt vielfältige Aspekte wie Planung, E
 
 Die Schulverpflegung in Deutschland ist darüber hinaus Gegenstand weiterer wissenschaftlicher Untersuchungen, etwa der bundesweiten Erhebung der Hochschule für Angewandte Wissenschaften Hamburg [^SQS] zur Umsetzung des DGE-Qualitätsstandards und der Studie EsKiMo II [^ESK] des Robert Koch-Instituts zur Inanspruchnahme der Mittagsverpflegung. Diese Arbeiten sind quantitativ-flächendeckend angelegt. Mein Beitrag ist demgegenüber eine vertiefte Einzelfallanalyse einer konkreten Mensa anhand der Planungs-Kriterien des DGE-Qualitätsstandards.
 
-Um zu klären, ob der Caterer meiner Schule zur anwendung der Empflungen vertraglich fesgtesetzt wurde, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team „Gutes Essen“, mit denen ich alle relevanten Kriterien besprach und im Kapitel „Durchführung und Ergebnisse“ bewertete. Team „Gutes Essen“ teilte mir mit, dass die Umsetzung der DGE-Qualitätskriterien mit den Tressbrüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (da Team „Gutes Essen“ auf meine Bitte um eine Zitiererlaubnis nicht reagiert hat, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite werben die Tressbrüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt“. [^TKSV]
+Um zu klären, ob der Caterer meiner Schule zur Anwendung dieser Empflungen vertraglich fesgtesetzt wurde, wandte ich mich an das Bürgermeisteramt mit der Bitte um Kontakt zum Verpflegungsbeauftragten. Das Amt verwies mich an Team „Gutes Essen“, das mir mitteilte, dass die Umsetzung der DGE-Qualitätskriterien mit den Tressbrüdern nicht vertraglich festgesetzt sei, sich der Vertrag aber an den DGE-Qualitätsstandards und Mindestmengen orientiere (da Team „Gutes Essen“ auf meine Bitte um eine Zitiererlaubnis nicht reagiert hat, kann ich den Inhalt nur sinngemäß wiedergeben). Auf ihrer Webseite werben die Tressbrüder für die Kinder- und Schulverpflegung: „Unsere Gerichte sind saisonal und DGE-konform und werden von BIO-Sternekoch Simon Tress entwickelt“. [^TKSV]
 
-Daher halte ich es für angemessen, die Kriterien des QDGE auf Einhaltung zu prüfen, soweit mir das möglich ist. Die Mittagsverpflegung wurde an 20 Schultagen dokumentiert: Jedes Gericht wurde fotografiert, gewogen und tabellarisch auf Einhaltung der Kriterien bewertet. Die hierfür benötigte Fotogenehmigung ließ ich mir von meiner Schulleiterin Frau Ott ausstellen. Weiterhin verwendete ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2 % liegt (bestimmt mit Referenzgewichten).
+Daher habe ich in dem folgenden Kapitel die Kriterien des QDGE auf Einhaltung geprüft, soweit mir das möglich ist. 
+
 
 # Durchführung und Ergebnisse
 
 ## Qualität in der Schulverpflegung
-In dem DGE-Qualitätsstandard definiert Kapitel 2, „Qualität in der Schulverpflegung entwickeln“, die Rahmenbedingungen, unter den die Mitagsverpflegung an Schulen umgesetzt werden. Es benennt alle Akteure, das sind alle Mitverantwortlichen für die Schulverpflegung, und beschreibt, wie diese die Verpflegungsqualität nach dem Qualitätsstandard gestalten können. Dafür werden in diesem Kapitel alle Kriterien zu den Akteuren und dem Verpflegungskonzept beschrieben.
+In dem DGE-Qualitätsstandard definiert Kapitel 2, „Qualität in der Schulverpflegung entwickeln“, die Rahmenbedingungen, unter den die Mitagsverpflegung an Schulen umgesetzt werden. Es benennt alle Akteure, das sind alle Mitverantwortlichen für die Schulverpflegung, und beschreibt, wie diese die Verpflegungsqualität nach dem Qualitätsstandard gestalten können. Den Anteuren fallen folgenden Aufgaben zu: 1. Analse von Ist- und Sollzustand 2. Planuing von Maßnahmen zur Zielerreichung 3. Umsetzung der geplanten Maßnahmen 4. Prüfung der Wirksamheit der umgesetzen Maßnahmen 5. Zielkontrolle zur Bewertung der Wirksamheit der Maßnahmen. Dieser Zyklus wiederholt sich forwährend.
+Dafür werden in diesem Kapitel alle Kriterien zu den Akteuren und dem Verpflegungskonzept beschrieben.
 
 ### Der Verpflegungsbeauftragte
 Dieses Kriterium fordert, dass ein Verpflegungsbeauftragter vorhanden sein muss. Dies kann eine einzelne Person oder ein Team sein, das die Verpflegung zentral koordiniert.
@@ -55,17 +57,20 @@ Im Verpflegungskonzept ist das oberste Ziel, dass das Essen schmecken müsse. Da
     - Wasserverbrauch, CO₂-Footprint und Vita-Score zusammen 15 %
 
 - **Ergebnis:** Ich bewerte dieses Kriterium als erfüllt.
-- **Weiterführende Überlegungen:** Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Teams „Gutes Essen“ nur mit 5 % gewichtet.  Damit wird das eigebntliche Ziel der Ernährung aus meiner Sicht zu stark unterrepräsentiert.
+- **Weiterführende Überlegungen:** Während es die Hauptfunktion der Ernährung ist, den Körper mit Mikro- und Makronährstoffen im richtigen Verhältnis und in der richtigen Menge zu versorgen, wird genau dieser gesundheitliche Aspekt im Verpflegungskonzept des Teams „Gutes Essen“ nur mit 5 % gewichtet. Damit wird das eigentliche Ziel der Ernährung aus meiner Sicht zu stark unterrepräsentiert.
+
 
 ### Die Beteiligung aller Akteure
 Dieses Kriterium fordert die kontinuiertliche Zuzsammearbeit aller Akteure:
- - Schulträger, Schulleitung und Lehrer
- - Caterer
- - Servicepersonal
- - Kioskbetreiber (an unserer Schule nicht vorhanden)
- - Eltern und Schüler (vertreten durch die entsprechenden Beiräte)
+- Schulträger, Schulleitung und Lehrer
+- Caterer
+- Servicepersonal
+- Kioskbetreiber (an unserer Schule nicht vorhanden)
+- Eltern und Schüler (vertreten durch die entsprechenden Beiräte)
+ 
+Dies ermöglicht eine kontinuierrliche Verbesserung und Verfeinerung des Verpflegungskonzeptes und dient der Klärung von Fragen und Problemen.
 
-- **Durchführung:** Zur Bewertung des Kriteriums konsultierte ich Team „Gutes Essen“. Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, das keine echte Zusammenarbeit stattfindet. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmid-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Ich vermute, dass diese fehlende Zusammenarbeit ein wesentlicher Grund für die fehlende Qualität in der Schulverpflegung ist. Diese kausale Verknüpfung bleibt jedoch eine Hypothese, die ich mit den vorliegenden Daten nicht direkt belegen kann.
+- **Durchführung:** Zur Bewertung des Kriteriums konsultierte ich Team „Gutes Essen“. Laut Aussage seien alle essenziellen Akteure eingebunden, aber in der Praxis finden sich einige Indizien, die darlegen, dass die Zusammenarbeit nicht stattfindet oder nicht wirklungsvoll umgesetzt ist. So stehen zwar einige Akteure in Kontakt, aber es ließen sich keine Belege finden, dass eine koordinierte, moderierte Zusammenarbeit aller Akteure stattfindet. Auch die Lehrer des Carlo-Schmid-Gymnasiums haben zwar eine Meinung, sind aber faktisch nicht in die Zusammenarbeit mit eingebunden. Weitere Details finden sich im Anhang, in dem ich aus Zeitungsartikeln des Schwäbischen Tagblatt herausgefunden habe, dass sich zwar Eltern und Caterer abstimmen, aber Team „Gutes Essen“ scheinbar in keine Diskussion eingebunden ist, obwohl es eigentlich als Verpflegungsbeauftragter die Aufgabe hat, die Komunikation zwischen den Akteuren zu moderieren. Die erforderliche Zusammenarbeit aller Akteure findet nicht statt. Ich vermute, dass diese fehlende Zusammenarbeit ein wesentlicher Grund für die fehlende Qualität in der Schulverpflegung ist. Diese kausale Verknüpfung bleibt jedoch eine Hypothese, die ich mit den vorliegenden Daten nicht direkt belegen kann.
 - **Ergebnis:** Ich bewerte dieses Kriterium als nicht erfüllt.
 
 ### Weiterbildung der Mitarbeitenden
@@ -82,7 +87,7 @@ Dieses Kriterium fordert, dass ergonomisch gestaltete Arbeitsplätze und Arbeits
 
 ### Wertschätzung der Mitarbeitenden
 Dieses Kriterium fordert, dass die Mitarbeitenden wertgeschätzt werden.
-- **Durchführung** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff.
+- **Durchführung:** Für die Bewertung habe ich keine Expertise und keinen Informationszugriff.
 - **Ergebnis:** Ich bewerte dieses Kriterium nicht.
 - **Weiterführende Überlegungen:** Obwohl ich keine Informationen über die betriebliche Wertschätzung habe, beobachte ich, dass in der Mensa zwischen Schülern und Aufsichtspersonal kein wertschätzender Umgang vorherrscht. Das Mensapresonal nimmt den Schüler/innen beispielsweise ohne Vorwarnung und vorheriges Ausschalten beim Benutzen das Smartphone weg, die Schüler/innen wiederum machen sich über das Mensapersonal lustig und provozieren dieses.
 
@@ -113,7 +118,7 @@ In dem DGE-Qualitätsstandard benennt Kapitel 4, „Gestaltung einer gesundheits
 - Gesunde Öle und Fette
 - Getränke
 
-Zur Bewertung führte ich eine Feldstudie in dem Zeitraum vom 6. Oktober 2025 bis zum 25. November 2025 durch, in der ich jedes Gericht dokumentierte.
+Zur Bewertung führte ich eine Feldstudie in dem Zeitraum vom 6. Oktober 2025 bis zum 25. November 2025 durch, in der ich an 20 Schultagen jeweils das von mir konsumierte Gericht fotografierte, wog, auflistete, dokumentierte. Die hierfür benötigte Fotogenehmigung ließ ich mir von meiner Schulleiterin Frau Ott ausstellen. Weiterhin verwendete ich für das Wiegen eine handelsübliche Küchenwaage, deren Messfehler bei 500 g unter 2 % liegt (bestimmt mit Referenzgewichten). Methodisch handelt es sich um eine Best-Case-Schätzung: An jedem Verpflegungstag wurde von zwei verfügbaren Gerichten dasjenige bewertet, das die herangezogenen Kriterien am nächsten erfüllte.
 
 Hierbeit ist zu beachten, dass ich bei der Feldstudie nicht jedes Gericht kontinuierlich dokumentieren konnte. Dies lag an:
 
@@ -128,22 +133,23 @@ Da es in der Mittagsverpflegung immer zwei Gerichte zur Auswahl gibt, wählte ic
 
 ### Die Sättigungsbeilage
 Dieses Kriterium fordert, dass täglich eine Sättigungsbeilage serviert wird, dazu gehören Getreide, Getreideprodukte und Kartoffeln. Von diesen werden in 5 Verpflegungstagen mindestens einmal ein Vollkornprodukt und höchstens einmal Kartoffeln serviert.
+
 - **Durchführung:** Zur Durchführung zählte und kategorisierte ich alle in den 20 Verpflegungstagen der Feldstudie servierten Sättigungsbeilagen. Hierbei kam ich zu folgendem Ergebnis: An 19 von 20 Verpflegungstagen beinhaltete das Gericht mindestens eine Sättigungsbeilage. Ausnahme war der vegetarische Bauerneintopf am Donnerstag, den 13. November 2025. An diesen 19 Verpflegungstagen gab es insgesamt 23 Sättigungsbeilagen, was daran lag, dass einzelne Gerichten mehrere Sättigungsbeilagen beinhalteten. Ein Beispiel dafür waren die Albbuchweizenbällchen mit cremigem Süßkartoffelreis am 13. Oktober 2025, welche 3 Sättigungsbeilagen beinhalteten: die Süßkartoffeln, den Reis und den Albbuchweizen. Von diesen 23 Sättigungsbeilagen waren 3 Vollkornprodukte. Um dem Kriterium gerecht zu werden, hätte es an 20 Verpflegungstagen jedoch mindestens 4-mal Vollkornprodukte geben müssen. Außerdem gab es 6-mal Kartoffeln oder Kartoffelerzeugnisse, was die Höchstanzahl übertrifft.
 - **Ergebnis:**  Ich bewerte dieses Kriterium als grenzwertig nicht erfüllt. Die Höchstanzahl für Kartoffeln wurde überschritten, und die Mindestanzahl für Vollkornprodukte wurde nicht erreicht. Außerdem hatte nicht jedes Gericht eine Sättigungsbeilage. 
 
 ### Gemüse und Salat
 Dieses Kriterium fordert, dass jeden Tag mindestens einmal Gemüse oder Salat serviert wird. An 5 Verpflegungstagen muss dieses Gemüse mindestens 2-mal in der Form von Rohkost serviert werden und einmal von der Sorte Hülsenfrüchte.
-- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde insgesamt 11-mal Gemüse serviert, was nur ungefähr halb so viel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Verpflegungstagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Verpflegungstagen empfohlen wird. Damit gab es nur ein Viertel so viel
-Rohkost und Hülsenfrüchte wie gefordert.
+- **Durchführung:** In den 20 Verpflegungstagen der Feldstudie wurde insgesamt 11-mal Gemüse serviert, was nur ungefähr halb so viel Gemüse ist wie empfohlen. Davon gab es in diesen 20 Verpflegungstagen nur zweimal Rohkost und einmal Hülsenfrüchte. Das ist so wenig, wie eigentlich an 5 Verpflegungstagen empfohlen wird.
+Häufig war zwar ein Salat zwar auf dem Speiseplan ausgeschrieben, der aber nicht serviert wurde. Dies hat unter Umständen sogar rechtliche Relevanz, und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen. Damit gab es nur ein Viertel so viel Rohkost und Hülsenfrüchte wie gefordert.
 - **Ergebnis:** Ich bewerte dieses Kriterium mit Abstand als nicht erfüllt. 
-- **Weiterführende Überlegungen:** Häufig war ein Salat zwar auf dem Speiseplan ausgeschrieben, wurde aber nicht serviert. Dies hat unter Umständen sogar rechtliche Relevanz, und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen, aber nicht serviert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen. Durch dieses Wegfallen des Rohkostsalates wird vom Menü auch ein wichtiger Lieferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe entfernt. Gerade weil schon so viele minderwertige Sättigungsbeilagen serviert werden, die einen hohen glykämischen Index haben, also Lebensmittel, die den Blutzucker erst stark anheben und dann schnell wieder abfallen lassen, ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
+- **Weiterführende Überlegungen:**  Durch das Wegfallen des Rohkostsalates wird vom Menü auch ein wichtiger Lieferant für die gesundheitsrelevanten Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe (natürliche Stoffe in Pflanzen, die den Körper unter anderem vor schädlichen Einflüssen schützen und notwendig für die Funktionsweise des menschlichen Körpers sind) entfernt. Gerade weil schon so viele minderwertige Sättigungsbeilagen serviert werden, wie beispielsweise weißer Reis und Weizennudeln, die einen hohen glykämischen Index haben, also Lebensmittel, die den Blutzucker erst stark anheben und dann schnell wieder abfallen lassen, ist ein Rohkostsalat vor der Hauptspeise sehr wichtig, da er diesen schnellen Blutzuckeranstieg deutlich verzögert. Somit ist das Fehlen des Rohkostsalates umso schlechter für die Gesundheit.
 
 ### Obst
 Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens 2-mal Obst oder Nüsse serviert werden, davon mindestens einmal Stückobst.
 - **Durchführung:** An den 20 Verpflegungstagen der Feldstudie wurde nur 2-mal Obst serviert, was nur einem Viertel der Mindestangabe entspricht. Davon nicht ein einziges Mal Stückobst.
 - **Ergebnis:** Ich bewerte dieses Kriterium als deutlich nicht erfüllt.
 - **Weiterführende Überlegungen:**
-Wie im Anhang beschrieben, ist dem Schwäbischen Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfällt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren. Durch das Wegfallen des Nachtisches wird auch die Gesamtkalorienaufnahme durch die Mittagsverpflegung verringert. Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott und einmal Kirschmichel mit Vanillesoße. Dies sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden sollten und ein Hauptgericht nicht ersetzen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass süße Speisen, also Zucker, aus dem Menü gestrichen werden, sondern vielmehr wurde ein Lieferant von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü gestrichen. Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die systematisch nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
+Wie im Anhang beschrieben, ist dem Schwäbischen Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“, zu entnehmen, dass auf Anordnung der Stadt der Nachtisch komplett aus dem servierten Menü entfernt wurde. Somit entfällt auch die Möglichkeit, zusätzlich zu dem Hauptgericht eine Portion Obst zu servieren. Durch das Wegfallen des Nachtisches wird auch die Gesamtkalorienaufnahme durch die Mittagsverpflegung verringert. Die zwei Gerichte, die Obst beinhalteten, waren einmal Griesbrei mit Kirschkompott und einmal Kirschmichel mit Vanillesoße. Dies sind eigentlich Nachspeisen, die zu dem Hauptgericht serviert werden sollten und ein Hauptgericht nicht ersetzen. Durch den Entfall des Nachtisches wurde also nicht bewirkt, dass süße Speisen, also Zucker, aus dem Menü gestrichen werden, sondern vielmehr wurde ein Lieferant von gesundheitsrelevanten Ballaststoffen, Vitaminen und sekundären Pflanzenstoffen von dem Menü gestrichen. Obwohl der Nachtisch vom Menü gestrichen wurde und nicht mehr geliefert wird, stand er oft noch in den Speiseplänen, die in der Mensa ausgehängt wurden. Dies hat rechtliche Relevanz und zwar auf mehreren Ebenen gleichzeitig. Wenn auf einem Schulspeiseplan Speisekomponenten ausgewiesen werden, die nicht geliefert werden, können vertragsrechtliche, lebensmittelrechtliche und wettbewerbsrechtliche Ansprüche entstehen.
 
 ### Milch und Milchprodukte
 Dieses Kriterium fordert, dass an 5 Verpflegungstagen mindestens 2-mal Milch oder Milchprodukte serviert werden.
@@ -169,8 +175,8 @@ Dieses Kriterium besagt, dass Getränke in der Mensa jederzeit zur Verfügung st
 ## Zwischenfazit
 Von den sieben bewerteten Kriterien konnten sechs beurteilt werden, eines davon wurde erfüllt, fünf wurden nicht erfüllt. Die folgende Analyse reflektiert diese Ergebnisse:
 
-- Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen der DGE.
-- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE um den Faktor 2
+- Die Häufigkeit von Vollkornprodukten unterschreitet die Empfehlungen der DGE geringfügig.
+- Die Häufigkeit und Menge von Gemüse und Salat unterschreitet die Empfehlungen der DGE um den Faktor 2.
 - Die Häufigkeit und Menge von Obst unterschreitet die Empfehlungen der DGE um den Faktor 4.
 - Die Häufigkeit von Milch und Milchprodukten unterschreitet die Empfehlungen der DGE um den Faktor 2.
 - Die Häufigkeit von magerem Muskelfleisch unterschreitet die Empfehlungen der DGE um den Faktor 2.
@@ -198,41 +204,12 @@ Eine unausgewogene Ernährung mit Mangel an Proteinen, Vollkornprodukten, Fetten
 Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können. Zumindest erkenne ich in diesen Ergebnissen ein ernstes Problem, wenn die Schüler in der Schule mit einem derart ungenügenden Mittagsmenü versorgt werden.
 
 ### Kaloriendefizit
-Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet, ein Befund, der im folgenden Kapitel  „Kalorienbedarf“ dokumentiert ist. Der PAL-Wert (Physical Activity Level) beschreibt, wie körperlich aktiv ein Mensch im Alltag ist. Er wird verwendet, um den täglichen Energiebedarf zu berechnen. Je mehr man sich bewegt und körperlich arbeitet, desto höher ist der PAL-Wert. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
+Eine weiterführende Analyse ergab, dass das Gesamtkalorienangebot den DGE-Referenzwert eines durchschnittlichen 14-jährigen Schülers (PAL 1,6) um etwa 35 % unterschreitet, ein Befund, der im folgenden Kapitel  „Kalorienbedarf“ dokumentiert ist. Der PAL-Wert (Physical Activity Level) beschreibt, wie körperlich aktiv ein Mensch im Alltag ist. Dieses Kaloriendefizit allein stellt einen gravierenden Missstand dar. Eine wirksame Lösung erfordert nicht nur die Zusammenarbeit der beteiligten Akteure, sondern vor allem ein gemeinsames, sachlich fundiertes Verständnis des eigentlichen Problems: die ernährungsphysiologisch unausgewogene und kalorisch unzureichende Zusammensetzung der Schulmittagsverpflegung. Ob dieses systematische Defizit rechtliche Konsequenzen nach sich ziehen kann, bleibt zu prüfen.
 
 #### Kalorienbedarf
-Der Gesamtenergieumsatz eines Jugendlichen ergibt sich aus zwei Beitragsgebern, des Ruheenegieverbrauchs und dem Grad der körperlichen Aktivität
-
-##### Ruheenergieverbrauch nach DGE-Formel
-Der erste Beitragsgeber ist der Ruheenergieverbrauch, also die Energie, die der Körper bei körperlicher und geistiger Ruhe verbraucht, indem er sich nur am Leben hält. Zur Berechnung des Ruheenergieverbrauchs gibt es unterschiedliche Formeln, wobei es jedoch nicht notwendig ist, diese namentlich zu nennen. Die Werte dieser Formeln können sich um 100 bis 300 kcal pro Tag unterscheiden, weshalb die Wahl der Formel die Ergebnisse spürbar beeinflusst. Da diese Arbeit den DGE-Qualitätsstandard zugrunde legt, verwende ich konsequent die von der DGE selbst empfohlene Formel [^FAQE]:
-
-- **Männer:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht / kg + 1,009 − 0,01452 × Alter / a + 3,21) × 239
-- **Frauen:** Ruheenergieverbrauch [kcal/Tag] = (0,047 × Gewicht / kg − 0,01452 × Alter / a + 3,21) × 239
-
-Anhand der DGE-Formel berechne ich nun den Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen. Meine entscheidung fällt wegen des höheren Energieumsatzes auf den Jungen, der damit das worst case szenario für den Kaloriendefizit ist. Ich setze folgende Parameter ein:
-
-- durchschnittliches Gewicht von 58 kg
-- Alter von 14 Jahren
-
-Ruheenergieverbrauch = (0,047 × 58 + 1,009 − 0,01452 × 14 + 3,21) × 239
-= (2,726 + 1,009 − 0,2033 + 3,21) × 239
-= 6,742 × 239
-≈ 1611 kcal/Tag.
-
-Der Ruheenergieverbrauch eines durchschnittlichen 14-jährigen Jungen liegt also bei etwa 1600 kcal pro Tag.
-
-##### Grad an physischer Aktivität
-Der zweite Beitragsgeber ist der Grad an physischer Aktivität, auch PAL-Faktor genannt. Dieser Faktor wird mit dem Ruheenergieverbrauch multipliziert. Hier sind die PAL-Faktoren für unterschiedliche Bewegungsgrade [^FAQE]:
-
-- Sitzende oder liegende Aktivität: 1,4
-- Überwiegend sitzen, teilweise stehen oder gehen: 1,6
-- Überwiegend gehende und stehende Arbeit, anstrengende Freizeitaktivität: 1,8
-- Körperlich sehr anstrengende Tätigkeit oder intensiver Sport: 2,0
-
-Multipliziert man den Ruheenergieverbrauch des durchschnittlichen 14-jährigen Jungen von rund 1600 kcal mit dem PAL-Wert von 1,6 für einen durchschnittlichen Schulalltag, ergibt sich ein Gesamtenergieumsatz von rund 2.600 kcal pro Tag.
 
 ##### Richtwerte für die durchschnittliche Energiezufuhr
-Die DGE veröffentlicht für Kinder und Jugendliche Richtwerte für die durchschnittliche Energiezufuhr, die den Ruheenergieverbrauch, den PAL-Wert und den zusätzlichen Energiebedarf für das Wachstum bereits zusammenfassen. Die folgende Tabelle zeigt die Richtwerte für PAL 1,4 (überwiegend sitzende Tätigkeit, etwa typischer Schulalltag ohne zusätzlichen Sport) und PAL 1,6 (sitzende Tätigkeit mit zusätzlicher Bewegung im Alltag) [^FAQE]:
+Zunächst werden Richtwerte für alle in der Schulmensa vertretene Altersgruppen benötigt. Hierfür veröffentlichte die DGE für Kinder und Jugendliche eine Tabelle mit Richtwerten, die die durchschnittliche Energiezufuhr, den Ruheenergieverbrauch, den PAL-Wert und den zusätzlichen Energiebedarf für das Wachstum bereits zusammenfassen [^FAQE]:
 
 DGE-Richtwerte für die durchschnittliche tägliche Energiezufuhr von Kindern und Jugendlichen nach Altersgruppe, Geschlecht und PAL-Wert. Quelle: Deutsche Gesellschaft für Ernährung [^FAQE].
 
@@ -268,11 +245,13 @@ Daraus abgeleiteter Kalorienbedarf für die Mittagsmahlzeit (30 % des Tagesbedar
 ##### Kalorienaufnahme der Schulverpflegung
 Um zu bestimmen, wie hoch das Kalorienangebot der Mittagsverpflegung ist, zog ich die Daten meiner Feldstudie heran. Hierbei schätzte ich für jedes Gericht die einzelnen Komponenten wie Sättigungsbeilage, Gemüse, Fleisch mengenmäßig ab und berechnete davon ausgehend die Makronährstoffe, die Ballaststoffe und den Kaloriengehalt. Darüber hinaus verwendete ich KI. Meine Oma, die promovierte Landwirtin Ernährungsberaterin ist, plausibilisierte die Ergebnisse. Dennoch gehe ich davon aus, dass der Mittlere Schätzfehler bei jedem Gericht etwa < ± 20 % beträgt. Trotzdem lässt sich sagen, dass sich zufällige Schätzfehler von 20 Gerichten um den Faktor √20 ≈ 4,5 reduzieren. Folglich reduziert sich der Schätzfehler auf < 5 %. Diese Reduzierung gilt jedoch nur, sofern die Schätzfehler unabhängig und unverzerrt sind. Bei systematischen Schätzfehlern, etwa einer durchgängigen Über- oder Unterschätzung von Portionen, hilft die Mittelung nicht.
 
-Es ergeben sich folgende Ergebnisse:
+Es ergeben sich folgende Ergebnisse [^NSV]:
 
 - Das Gericht mit dem geringsten Kaloriengehalt war der vegetarische Bauerneintopf mit geschätzt 230 kcal (± 20 %).
 - Das Gericht mit dem höchsten Kaloriengehalt war der Kirschmichel mit geschätzt 1102 kcal (± 20 %).
 - Der mittlere Kaloriengehalt der 20 Verpflegungstage beträgt 509 kcal (± 5 %).
+
+
 
 Folgende Punkte sind noch anzumerken:
 
@@ -290,18 +269,12 @@ Folgende Punkte sind noch anzumerken:
 ##### Langfristige Folgen eines Kaloriendefizits
 Ein chronisches Kaloriendefizit über die gesamte Wachstumsphase (10–18 Jahre) gilt als schwere Unterversorgung mit weitreichenden, teils irreversiblen Folgen:
 
-- Wachstum und Körpergröße
-  Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
-- Knochen und Muskulatur
-  Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in den vier Jahren um die maximale Wachstumsgeschwindigkeit aufgebaut [^PBM]. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
-- Pubertät und Hormonsystem
-  Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
-- Immunsystem und Wundheilung
-  Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Protein, Energie und Mikronährstoffe fehlen.
-- Gehirn und kognitive Entwicklung
-  Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Diese Folgen können sich bis ins Erwachsenenalter ziehen.
-- Risiko für Essstörungen
-  Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich.
+- **Wachstum und Körpergröße:** Das Längenwachstum gerät direkt ins Stocken, da der Körper bei Energiemangel Wachstumshormone reduziert. Im schlimmsten Fall kommt es zu Stunting, einem dauerhaften Wachstumsstopp, der nicht mehr vollständig aufgeholt werden kann.
+- **Knochen und Muskulatur:** Die Pubertät ist das entscheidende Zeitfenster für den Knochenaufbau: Rund 30 % des gesamten adulten Knochenmineralgehalts werden in den vier Jahren um die maximale Wachstumsgeschwindigkeit aufgebaut [^PBM]. Ein Energiedefizit in dieser Phase führt zu dauerhaft geringerer Knochendichte und erhöhtem Osteoporoserisiko im Erwachsenenalter. Gleichzeitig bleibt die Muskelmasse dauerhaft hinter dem Potential zurück.
+- **Pubertät und Hormonsystem:** Eine anhaltende Unterversorgung verzögert die Geschlechtsreife messbar. Bei Mädchen kann die Menarche ausbleiben oder sich stark verzögern, da der Körper die Fortpflanzung bei Energiemangel als nicht überlebenswichtig einstuft.
+- **Immunsystem und Wundheilung:** Das Immunsystem schwächt sich ab, was zu erhöhter Infektanfälligkeit führt. Wunden heilen langsamer, da für Gewebereparatur ebenfalls Protein, Energie und Mikronährstoffe fehlen.
+- **Gehirn und kognitive Entwicklung:** Das sich entwickelnde Gehirn ist besonders auf eine ausreichende Energie- und Nährstoffversorgung angewiesen. Chronischer Energiemangel beeinträchtigt die Lernfähigkeit, Konzentration und psychische Gesundheit, Diese Folgen können sich bis ins Erwachsenenalter ziehen.
+- **Risiko für Essstörungen:** Ein dauerhaft restriktives Essmuster in der Jugend erhöht das Risiko, eine Essstörung zu entwickeln, erheblich.
 
 Es bleibt zu prüfen, ob sich hieraus rechtliche Konsequenzen für den Betreiber oder die Akteure ergeben können.
 
@@ -335,16 +308,16 @@ Das Kriterium fordert, dass frittierte und/oder panierte Produkte maximal 4× in
 ## Das saisonale Gemüse- und Obst-Angebot
 Dieses Kriterium fordert, dass das saisonale Gemüse- und Obst-Angebot berücksichtigt wird.
 - **Durchführung:** Zur Bewertung listete ich alle Obst- und Gemüsesorten, welche in den 20 Verpflegungstagen serviert wurden, auf und bewertete, ob diese zu der Saison Oktober bis Dezember passen:
-    - Paprika: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober.
-    -  Zucchini: Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshausanbau nicht üblich in Baden-Württemberg.
-    -  Blumenkohl: Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region, jedoch Tiefgekühlt möglich.
-    -  Eingelegte Kirschen: Nicht saisonal. Frische Kirschen: Saison endet Juli. Eingelegte Produkte sind nicht an Saison gebunden.
-    -  Bohnen: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich, Tiefgekühlt möglich.
-    -  Gurken: Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshaussaison (Salatgurken) endet typischerweise Oktober, vereinzelt bis November.
-    -  Kürbis: Saisonal Oktober-November. Freilandsaison August bis November. Gewächshausanbau nicht üblich. Lagerware bis Dezember verfügbar.
-    -  Karotten: Saisonal. Freilandsaison ganzjährig durch Lagerware. Gewächshausanbau ganzjährig für Frischware.
-    -  Erbsen: Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich, jedoch Tiefgekühlt erhältlich.
-    -  Aubergine: Nicht saisonal Oktober-Dezember. Freilandsaison August bis September. Gewächshausanbau endet September bis Oktober.
+    - **Paprika:** Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshaussaison endet Oktober.
+    -  **Zucchini:** Nicht saisonal Oktober-Dezember. Freilandsaison endet Oktober. Gewächshausanbau nicht üblich in Baden-Württemberg.
+    -  **Blumenkohl:** Bedingt saisonal im Oktober. Freilandsaison endet Oktober. Gewächshausanbau ganzjährig möglich, aber nicht Standard in der Region, jedoch Tiefgekühlt möglich.
+    -  **Eingelegte Kirschen:** Nicht saisonal. Frische Kirschen: Saison endet Juli. Eingelegte Produkte sind nicht an Saison gebunden.
+    -  **Bohnen:** Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshausanbau nicht üblich, Tiefgekühlt möglich.
+    -  **Gurken:** Nicht saisonal Oktober-Dezember. Freilandsaison endet September bis Oktober. Gewächshaussaison (Salatgurken) endet typischerweise Oktober, vereinzelt bis November.
+    -  **Kürbis:** Saisonal Oktober-November. Freilandsaison August bis November. Gewächshausanbau nicht üblich. Lagerware bis Dezember verfügbar.
+    -  **Karotten:** Saisonal. Freilandsaison ganzjährig durch Lagerware. Gewächshausanbau ganzjährig für Frischware.
+    -  **Erbsen:** Nicht saisonal Oktober-Dezember. Freilandsaison endet Juli bis September. Gewächshausanbau nicht üblich, jedoch Tiefgekühlt erhältlich.
+    -  **Aubergine:** Nicht saisonal Oktober-Dezember. Freilandsaison August bis September. Gewächshausanbau endet September bis Oktober.
 - **Ergebnis:** Dieses Kriterium bewerte ich als nicht erfüllt. Nur 6 der 10 Obst und Gemüsesorten waren saisonal. Da es Obst- und Gemüsesorten gab, die nicht saisonal waren, können diese auch nicht regional sein. Sie wurden wahrscheinlich aus anderen Regionen importiert, in denen sie zu der Jahreszeit noch wachsen können.
 - **Verbesserungsvorschlag:** Es sollte schon beim Erstellen des Speiseplans, um DGE-Konform zu sein, darauf geachtet werden, Rezepte zu verwenden, die an die Saison angepasst sind. Außerdem werben die Tressbrüder auf ihrer Homepage fälschlicherweise damit, dass ihre Gerichte saisonal sind.
 
@@ -406,14 +379,10 @@ Dieses Kriterium fordert, dass kulturspezifische, regionale und religiöse Essge
 
 In diesem Kapitel 4.1.2 des DGE-Qualitätsstandard werden alle Kriterien zu Convenience-Produkten beschrieben. Das Kapitel teilt Lebensmittel in zwei Klassen der Verarbeitung ein, welche jedoch ungenau beschrieben sind. Es sind die Klassen "hochverarbeitet" und "geringverarbeitet". Es fehlt eine exakte Definition der zwei Klassen, weshalb ich die Gerichte nicht in diese zwei Klassen einzuteilen vermag. Da es jedoch einen Standard gibt, die NOVA-Gruppen, die sehr exakt Lebensmittel in 4 Gruppen des Verarbeitungsgrades einteilen, wollte ich diesen nutzen, und nicht die zwei Gruppen der DGE. Diese vier Gruppen sind von allen Bewertungsmöglichkeiten am weitesten verbreitet. Doch auch der weit verbreitete NOVA-Score, der die Lebensmittel nach ihrem Verarbeitungsgrad in 4 Gruppen unterteilt:
 
-- **Nova-Gruppe 1:**
-Lebensmittel diesr Gruppe sind unverarbeitet und minimalverarbeitet. Es sind Lebensmittel, die so aus der Natur kommen, oder Lebensmittel, die durch Trocknen, Zerkleinern, Mahlen und andere Prozesse verarbeitet wurden, um das Lebensmittel lagerfähiger zu machen, zu konservieren oder essbarer zu machen. Beispiele sind Pflanzenteile, Teile von Tieren und Wasser. Bei solchen Lebensmitteln bleiben die meisten Nährstoffe enthalten. Bei den folgenden Gruppen, auf welche mehr Verarbeitungsprozesse eingewirkt haben, wurden mehr und mehr Nährstoffe zerstört.
-- **Nova-Gruppe 2:**
-Diese Lebensmittel bezeichnet man als verarbeitete kulinarische Zutaten (engl. *processed culinary ingredients*). Beispiele sind Öle, Butter, Zucker und Salz. Sie werden zur Zubereitung von Gruppe 1-Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe-1 Lebensmitteln (oder durch Extraktion aus der Natur, etwa Salz aus Meerwasser) gewonnen.
-- **Nova-Gruppe 3:**
-Diese Lebensmittel werden aus Lebensmitteln der Gruppe-1 mit Hilfe der Gruppe-2 Lebensmittel hergestellt. Beispiele sind Brot, Käse sowie eingelegte Gruppe-1 Lebensmittel. Die Verarbeitungsverfahren sind alkoholfreies Gären sowie Konservierungs- und Kochmethoden. Der Zweck für diese Verarbeitung ist die Verbesserung des Geschmacks, der Konsistenz sowie die Verlängerung der Haltbarkeit.
-- **Nova-Gruppe 4:**
-Ultrahochverarbeitete Lebensmittel sind Industrieformulierungen aus mehreren Zutaten, in denen typischerweise Substanzen verwendet werden, die in haushaltsüblicher Küche nicht vorkommen (etwa hydrierte Öle, Maltodextrin, Proteinisolate, Geschmacksverstärker und Emulgatoren). Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Durch die vielen Verarbeitungsschritte werden viele Nährstoffe der Ausgangslebensmittel reduziert. Häufig, aber nicht zwingend, enthalten solche Produkte zusätzlich Transfette und hohe Anteile an Einfachzuckern.
+- **Nova-Gruppe 1:** Lebensmittel diesr Gruppe sind unverarbeitet und minimalverarbeitet. Es sind Lebensmittel, die so aus der Natur kommen, oder Lebensmittel, die durch Trocknen, Zerkleinern, Mahlen und andere Prozesse verarbeitet wurden, um das Lebensmittel lagerfähiger zu machen, zu konservieren oder essbarer zu machen. Beispiele sind Pflanzenteile, Teile von Tieren und Wasser. Bei solchen Lebensmitteln bleiben die meisten Nährstoffe enthalten. Bei den folgenden Gruppen, auf welche mehr Verarbeitungsprozesse eingewirkt haben, wurden mehr und mehr Nährstoffe zerstört.
+- **Nova-Gruppe 2:** Diese Lebensmittel bezeichnet man als verarbeitete kulinarische Zutaten (engl. *processed culinary ingredients*). Beispiele sind Öle, Butter, Zucker und Salz. Sie werden zur Zubereitung von Gruppe 1-Lebensmitteln verwendet. Sie werden durch Raffinerieren, Pressen, Vermahlen oder Trocknen von Gruppe-1 Lebensmitteln (oder durch Extraktion aus der Natur, etwa Salz aus Meerwasser) gewonnen.
+- **Nova-Gruppe 3:** Diese Lebensmittel werden aus Lebensmitteln der Gruppe-1 mit Hilfe der Gruppe-2 Lebensmittel hergestellt. Beispiele sind Brot, Käse sowie eingelegte Gruppe-1 Lebensmittel. Die Verarbeitungsverfahren sind alkoholfreies Gären sowie Konservierungs- und Kochmethoden. Der Zweck für diese Verarbeitung ist die Verbesserung des Geschmacks, der Konsistenz sowie die Verlängerung der Haltbarkeit.
+- **Nova-Gruppe 4:** Ultrahochverarbeitete Lebensmittel sind Industrieformulierungen aus mehreren Zutaten, in denen typischerweise Substanzen verwendet werden, die in haushaltsüblicher Küche nicht vorkommen (etwa hydrierte Öle, Maltodextrin, Proteinisolate, Geschmacksverstärker und Emulgatoren). Beispiele sind Snacks, Tiefkühlprodukte und Formfleischerzeugnisse. Durch die vielen Verarbeitungsschritte werden viele Nährstoffe der Ausgangslebensmittel reduziert. Häufig, aber nicht zwingend, enthalten solche Produkte zusätzlich Transfette und hohe Anteile an Einfachzuckern.
 
 bewerte ich als ungeeignet, da er lediglich die Anzahl und Art der technischen Schritte beschreibt, die ein Lebensmittel durchläuft, jedoch nichts über die chemische Zusammensetzung des Endprodukts aussagt, die letztlich die physiologische Wirkung bestimmt. Ein Prozess kann Nährstoffe zerstören, erhalten oder sogar erst verfügbarer machen. Die Richtung des Effekts ist nicht im Grad der Verarbeitung bestimmt, sondern hängt vom konkreten Verfahren und Ausgangsstoff ab. Darum erstellte ich ein eigenes System, welches genau diesen kritisierten Aspekt berücksichtigt:
 
@@ -521,61 +490,63 @@ Mit der Feldstudie im Rahmen einer wissenschaftlichen Arbeit erzeugte ich eine f
 Von 39 geprüften Kriterien aus dem Planungs-Kapitel des DGE-Qualitätsstandards konnten 10 mangels Informationszugang nicht bewertet werden. Von den verbleibenden Kriterien wurden 17 als nicht erfüllt und 12 als erfüllt eingestuft.
 
 Besonders deutlich unterschritten wurden die Anforderungen, die unmittelbar die ernährungsphysiologische Qualität der Mahlzeiten betreffen:
-- Häufigkeitsvorgaben: Bei Gemüse, Obst, Milchprodukten und Fisch lag das tatsächliche Angebot um den Faktor 2 bis 4 unter den DGE-Mindestwerten.
-- Energiezufuhr: Das mittlere Kalorienangebot der Mittagsmahlzeit unterschritt den DGE-Richtwert je nach Altersgruppe und Geschlecht zwischen 15 % (Mädchen 10–13 Jahre) und 43 % (Jungen 15–19 Jahre).
-- Speiseplangestaltung: Die Saisonalität wurde nur bei 3 von 10 Obst- und Gemüsesorten beachtet, die religiösen und kulturellen Essgewohnheiten wurden nicht berücksichtigt und die Menülinien wurden irreführend benannt (Veg-fit / Klima-fit).
-- Akteurszusammenarbeit: Eine koordinierte Beteiligung aller Verantwortlichen – Schulträger, Caterer, Eltern, Schüler, Lehrer, findet nicht statt.
+- **Häufigkeitsvorgaben:** Bei Gemüse, Obst, Milchprodukten und Fisch lag das tatsächliche Angebot um den Faktor 2 bis 4 unter den DGE-Mindestwerten.
+- **Energiezufuhr:** Das mittlere Kalorienangebot der Mittagsmahlzeit unterschritt den DGE-Richtwert je nach Altersgruppe und Geschlecht zwischen 15 % (Mädchen 10–13 Jahre) und 43 % (Jungen 15–19 Jahre).
+- **Speiseplangestaltung:** Die Saisonalität wurde nur bei 3 von 10 Obst- und Gemüsesorten beachtet, die religiösen und kulturellen Essgewohnheiten wurden nicht berücksichtigt und die Menülinien wurden irreführend benannt (Veg-fit / Klima-fit).
+- **Akteurszusammenarbeit:** Eine koordinierte Beteiligung aller Verantwortlichen: Schulträger, Caterer, Eltern, Schüler, Lehrer – ist von außen nicht zu erkennen. Diese fehlende Zusammenarbeit bildet den Eigentlichen Rahmen für die kontinuirliche Verbesserung der Schulverpflegung. 
 
-Methodisch ist hierbei anzumerken, dass an jedem Tag das nach DGE-Kriterien günstigere Gericht für die Feldstudie ausgewählt wurde, es handelt sich also um eine Best-Case Schätzung. Das tatsächiche Durschnittsangebot der Mensa dürfte also die DGE Vorschriften noch deutlicher verfehlen als hier Dokumentiert.
+Methodisch ist hierbei anzumerken, dass an jedem Tag das nach DGE-Kriterien günstigere Gericht für die Feldstudie ausgewählt wurde, es handelt sich also um eine Best-Case-Schätzung. Das tatsächliche Durschnittsangebot der Mensa dürfte also die DGE-Vorschriften noch deutlicher verfehlen als hier dokumentiert.
 
 Damit verfehlt die Mittagsverpflegung in ihrer aktuellen Form ihre Hauptfunktion, nämlich die Versorgung des Menschen mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis.
 
 ## Bedeutung der Ergebnisse
 
-Die einleitende Frage, ob die Schulverpflegung des Carlo-Schmid-Gymnasiuyms den DGE-Standarts genügt, kann auf Basis der Ergebnisse dieser Forschungsarbeit klar verneint werden. Und das liegt nicht an ein paar unerfüllten Kriterien, sondern daran, dass mehr als die Hälfte der Bewertbaren Kriterien nicht erfüllt wurde. 
+Die einleitende Frage, ob die Schulverpflegung des Carlo-Schmid-Gymnasiums den DGE-Standards genügt, kann auf Basis der Ergebnisse dieser Forschungsarbeit klar verneint werden. Und das liegt nicht an ein paar unerfüllten Kriterien, sondern daran, dass mehr als die Hälfte der bewertbaren Kriterien nicht erfüllt wurde. 
 
-Die Tragweite der Befunde reicht über die Verfehlung der DGE-Standarts hinaus. Wie im Hauptteil dokumentiert, sind chronisch unausgewogene Nährstoffzusammensetzung und ein anhaltendes Kaloriendefizit in der Wachstumsphase der Schüler mit teils irreversiblen Folgen verbunden, von Körperlichen entwicklungsproblemen in der Pubertät bis hin zu Konzentration und Lernfähigkeit.
+Die Tragweite der Befunde reicht über die Verfehlung der DGE-Standards hinaus. Wie im Hauptteil dokumentiert, sind chronisch unausgewogene Nährstoffzusammensetzung und ein anhaltendes Kaloriendefizit in der Wachstumsphase der Schüler mit teils irreversiblen Folgen verbunden, von körperlichen entwicklungsproblemen in der Pubertät bis hin zu Konzentration und Lernfähigkeit.
 
-Mit diesen Befunden erhoffe ich mir, dass sich auch die diskussion verschiebt, die bislang in Tübingen zwischen den Akteuren geführt wurde. Eltern, Schüler, Stadt und Tressbrüder diskutierten immer über den Geschmack und die Kindgerechtheit. Die vorliegenden Ergebnisse sollen den Fokus auf die Ernährungspysiologische Gurndfunktion verschieben: Die Versorgung des Körpers mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis. Denn wenn ein Essen diese Hauptfunktion nicht erfüllt, spielen Nebenqualitäten wie Geschmack und Umweltfreundlichkeit keine Rolle. 
+Mit diesen Befunden erhoffe ich mir, dass sich auch die Diskussion verschiebt, die bislang in Tübingen zwischen den Akteuren geführt wurde. Eltern, Schüler, Stadt und Tressbrüder diskutierten immer über den Geschmack und die Kindgerechtheit. Die vorliegenden Ergebnisse sollen den Fokus auf die ernährungspysiologische Grundfunktion verschieben: die Versorgung des Körpers mit allen relevanten Nährstoffen in ausreichender Menge und im ausgewogenen Verhältnis. Denn wenn ein Essen diese Hauptfunktion nicht erfüllt, spielen Nebenqualitäten wie Geschmack und Umweltfreundlichkeit keine Rolle. 
 
-## Vorraussetzungen für eine Verbesserung
-Eine wirksame Verbesserung der Mittagsverpflegung setzt nicht das Lösen einzelner Kriterien voraus, sondern die Koordinierte beteiligung aller Akteure mit dem Ziel einer gesundheitsfördernden Mittagsverpflegung. Im konkreten bedeutet das:
+## Voraussetzungen für eine Verbesserung
+Eine wirksame Verbesserung der Mittagsverpflegung setzt nicht das Lösen einzelner Kriterien voraus, sondern die koordinierte beteiligung aller Akteure mit dem Ziel einer gesundheitsfördernden Mittagsverpflegung. Im Konkreten bedeutet das:
 
  - **Koordinierte Zussamenarbeit aller Akteure:** Schulträger, Caterer, Eltern, Schüler, Lehrer und Servicepersonal müssen unter Moderation des Verpflegungsbeauftragten an einem Tisch zusammenfinden.
- - **Verschiebung der Diskussion vom Geschmack zur Nährstoffversorgung:** Solange die Diskussion auf Akzeptanz und Kindgerechtheit verengt bleibt, werden die ernährungsphysiologischen Mängel nicht adressiert, und können auch nicht behoben werden.
+ - **Verschiebung der Diskussion vom Geschmack zur Nährstoffversorgung:** Solange die Diskussion auf Akzeptanz und Kindgerechtheit verengt bleibt, werden die ernährungsphysiologischen Mängel nicht adressiert und können auch nicht behoben werden.
  
 
 
 ## Persönlicher Ausblick
-Ich werde diese Ergebnisse mit den Verpflegungsbeauftragten und anderen Akteuren teilen. Seit der Feldstudie sind nun schon einige Monate vergangen, in denen sich viel geändert hat: In der Mensa wurden Poster der Tressbrüder aufgehängt, Quizzes über andere Länder und Traditionen wurden überall auf den Tischen aufgestellt, doch an dem eigentlichen Problem, der Qualität des Essens, hat sich seitdem nichts geändert: Die Portionen sind immer noch zu klein, die Nährstoffzusammensetzung ist nach wie vor unausgewogen, und Simon Tress versteht sich nach Pressedarstellungen immer noch als verkanntes Genie, aber als Kind kann ich es sagen: Der Kaiser ist nackt.
+Ich werde diese Ergebnisse mit den Verpflegungsbeauftragten und anderen Akteuren teilen. Seit der Feldstudie sind nun schon einige Monate vergangen, in denen sich viel geändert hat. In der Mensa wurden Poster der Tressbrüder aufgehängt, Quizze über andere Länder und Traditionen wurden überall auf den Tischen aufgestellt, doch an dem eigentlichen Problem, der Qualität des Essens, hat sich seitdem nichts geändert: Die Portionen sind immer noch zu klein, die Nährstoffzusammensetzung ist nach wie vor unausgewogen, und Simon Tress versteht sich nach Pressedarstellungen immer noch als verkanntes Genie, aber als Kind kann ich es sagen: Der Kaiser ist nackt.
 
 # Anhang
 
-## Analyse Ausgewählter öffentlich zugänglicher Informationen
+## Analyse ausgewählter öffentlich zugänglicher Informationen
 
 ### Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“
 
 #### Problemverständnis
-Durch die Aussage: „Die Qualität der Speisen werde als gut bewertet“ und „Das von uns gelieferte Essen war von Anfang an einfach zu exotisch, zu wenig kindgerecht.“ konstruiert Simon Tress einen Deutungsrahmen, der die Leser des Artikels zu seinen Gunsten manipuliert.
+Durch die Aussagen „Die Qualität der Speisen werde als gut bewertet“ und „Das von uns gelieferte Essen war von Anfang an einfach zu exotisch, zu wenig kindgerecht“, konstruiert Simon Tress einen Deutungsrahmen, der die Leser des Artikels zu seinen Gunsten manipuliert.
 
 Tatsächlich besitzt das Essen nach den Empfehlungen der DGE keine gute Qualität. Das Essen ist auch nicht exotisch im Sinne von ausländisch oder fremd. Beim Begriff „kindgerecht“ ist eine differenzierte Auseinandersetzung nötig: Befürworter eines kindgerechten Schulessens argumentieren, dass Speisen für Kinder vertraut, mild gewürzt und akzeptanzfördernd gestaltet sein sollten, damit Kinder gerne und regelmäßig essen. Diese Anforderung hat ihre Berechtigung, denn ein Mittagessen, das nicht gegessen wird, kann seine Versorgungsfunktion nicht erfüllen. Mein Einwand ist allerdings: Wenn „kindgerecht“ in der Praxis mit weichen, milden, süßen oder fettigen Speisen mit niedriger Nährstoffdichte gleichgesetzt wird, gerät der Begriff in Konflikt mit der ernährungsphysiologischen Hauptfunktion der Verpflegung, den Körper mit allen relevanten Nährstoffen in ausreichender Menge zu versorgen. Eine sinnvolle Verpflegungsplanung muss beide Anforderungen – Akzeptanz und Nährstoffversorgung – gleichzeitig erfüllen.
 
 #### Problembewältigung
-Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen zwischen jeweils zwei Akteuren gibt. Jedoch ist dem Zeitungsartikel nicht zu entnehmen, dass es eine ganzheitliche Initiative der Stadt mit allen Akteuren gibt, um das Problem zu bewältigen. Beispiele sind:
+Dem Zeitungsartikel ist zu entnehmen, dass es viele unkoordinierte Initiativen zwischen jeweils zwei Akteuren gibt. Es gibt jedoch keine ganzheitliche Initiative der Stadt mit allen Akteuren, um das Problem zu bewältigen. Beispiele dafür sind:
 
-- Austausch zwischen Eltern und Stadt: Eltern wünschen sich bei der Stadt, dass Mahlzeiten weniger gezuckert sind.
-- Austausch zwischen der Stadt und den Tressbrüdern: Anstelle ungezuckerte Nachtische zu servieren, wie zum Beispiel Obst am Stück oder Naturjoghurt mit Nüssen und Beeren, entfernt die Stadt den Nachtisch ersatzlos vom Speiseplan.
-- Austausch zwischen Schule und Eltern: Dem Vertreter des Elternbeirates wird es untersagt, am Mittagessen der Grundschule teilzunehmen, um sich selbst ein Bild vom Geschehen zu verschaffen.
-- Austausch zwischen Schülern und Eltern: Den Eltern fällt auf, dass die Schüler hungrig nach Hause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu Essen gibt und kein Nachtisch ausgeteilt wird. Der Vorsitzende des Gesamtelternbeirats wertet die Unzufriedenheit der Schüler ab: „Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein“ und stellt vorweg: „Es sind Grundschüler“.
+- **Austausch zwischen Eltern und Stadt:** Eltern wünschen sich bei der Stadt, dass Mahlzeiten weniger gezuckert sind. [^STB1]
+- **Austausch zwischen der Stadt und den Tressbrüdern:** Anstelle ungezuckerte Nachtische zu servieren, wie zum Beispiel Obst am Stück oder Naturjoghurt mit Nüssen und Beeren, entfernt die Stadt den Nachtisch ersatzlos vom Speiseplan.[^STB1]
+- **Austausch zwischen Schule und Eltern:** Dem Vertreter des Elternbeirates wird es untersagt, am Mittagessen der Grundschule teilzunehmen, um sich selbst ein Bild vom Geschehen zu verschaffen. [^STB1], [^STB2]
+- **Austausch zwischen Schülern und Eltern:** Den Eltern fällt auf, dass die Schüler hungrig nach Hause kommen und mit der Mittagsverpflegung unzufrieden sind, da es zu wenig zu essen gibt und kein Nachtisch ausgeteilt wird. Der Vorsitzende des Gesamtelternbeirats wertet die Unzufriedenheit der Schüler ab: „Wenn ein paar Kindern das Essen nicht schmeckt, dann stimmen die anderen mit ein“ und stellt vorweg: „Es sind Grundschüler.“ [^STB1]
 
-So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team „Gutes Essen“) koordiniert und moderiert werden.
+[^STB1], [^STB2]
+
+So wie ich es dem Zeitungsartikel entnommen habe, hat die erforderliche Zusammenarbeit zwischen den Akteuren noch nicht stattgefunden, um das gemeinsam das Problem zu verstehen und zu bewältigen. Diese Zusammenarbeit müsste von dem Verpflegungsbeauftragten (Team „Gutes Essen“) koordiniert und moderiert werden.
 
 # Hilfsmittel
 
 - „Einfach können, Schriftliche Arbeit“ von Björn Rothstein, 1. Auflage, 2023
-- [www.perplexity.ai](http://www.perplexity.ai) für Rechtschreib- und Grammatikkorrektur
+- [www.perplexity.ai](http://www.perplexity.ai) und meine Mutter, berufliche Lekteurin, für  Rechtschreib- und Grammatikkorrektur
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1DBRUWVgEYN153EMzyVh5CashKL1XMqwrTI37eoVRBYY/edit?usp=drivesdk) für Dokumentation des Speiseplans und der Checkliste
-- [www.github.com](http://www.github.com) um diese Wissenschaftliche Arbeit zu schreiben
+- [www.github.com](http://www.github.com), um diese wissenschaftliche Arbeit zu schreiben
 
 [^STB1]: Schwäbisches Tagblatt vom 28. Oktober 2025, „Kritik am neuen Schulessen“
 [^STB2]: Schwäbisches Tagblatt vom 1. Dezember 2025, „Tressbrüder bessern nach“
@@ -591,4 +562,11 @@ So wie ich es aus dem Zeitungsartikel entnommen habe, hat die erforderliche Zusa
 [^PBM]: <https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.00099/full>
 [^OM3]: <https://pmc.ncbi.nlm.nih.gov/articles/PMC10498982/>
 [^WCRF]: <https://pmc.ncbi.nlm.nih.gov/articles/PMC3213242/>
+[^NSV]: <https://github.com/JohannSofke/Schulverpflegung/blob/main/N%C3%A4hstoffzusammensetzungDerSchulverpflegung.PDF>
+[^QDGE]: <https://github.com/JohannSofke/Schulverpflegung/blob/main/DGE_Qualitaetsstandard_Schule.pdf>
+[^WDGE]: <https://de.wikipedia.org/wiki/Deutsche_Gesellschaft_f%C3%BCr_Ern%C3%A4hrung>
+
+
+
+
 
